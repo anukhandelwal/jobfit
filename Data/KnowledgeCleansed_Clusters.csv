@@ -1,0 +1,967 @@
+Class,Title
+0,"Tank Car, Truck, and Ship Loaders"
+0,"Model Makers, Wood"
+0,Cabinetmakers and Bench Carpenters
+0,"Layout Workers, Metal and Plastic"
+0,"Welders, Cutters, and Welder Fitters"
+0,Mechanical Door Repairers
+0,Recreational Vehicle Service Technicians
+0,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+0,Helpers--Electricians
+0,Solar Photovoltaic Installers
+0,Structural Iron and Steel Workers
+0,Sheet Metal Workers
+0,Terrazzo Workers and Finishers
+0,"Floor Layers, Except Carpet, Wood, and Hard Tiles"
+0,Operating Engineers and Other Construction Equipment Operators
+0,"Patternmakers, Wood"
+1,Logisticians
+1,"Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+1,Aircraft Cargo Handling Supervisors
+1,"Buyers and Purchasing Agents, Farm Products"
+1,Loss Prevention Managers
+1,Logistics Analysts
+1,Supply Chain Managers
+1,General and Operations Managers
+1,Logistics Managers
+1,Storage and Distribution Managers
+1,Transportation Managers
+1,Purchasing Managers
+1,Postmasters and Mail Superintendents
+1,Business Continuity Planners
+2,Gaming and Sports Book Writers and Runners
+2,"Ushers, Lobby Attendants, and Ticket Takers"
+2,Bartenders
+2,Pharmacy Aides
+2,Amusement and Recreation Attendants
+2,"Interviewers, Except Eligibility and Loan"
+2,Cashiers
+2,Counter and Rental Clerks
+2,Demonstrators and Product Promoters
+2,Telemarketers
+2,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers"
+2,Telephone Operators
+2,Gaming Cage Workers
+2,Library Technicians
+2,"Hairdressers, Hairstylists, and Cosmetologists"
+2,"Cooks, Private Household"
+3,Wind Energy Engineers
+3,Robotics Engineers
+3,Electrical Engineering Technologists
+3,Logistics Engineers
+3,Petroleum Engineers
+3,"Mining and Geological Engineers, Including Mining Safety Engineers"
+3,Automotive Engineers
+3,Marine Architects
+3,Marine Engineers
+4,"Internists, General"
+4,Neurologists
+4,Advanced Practice Psychiatric Nurses
+4,Preventive Medicine Physicians
+4,Midwives
+4,Physician Assistants
+4,Clinical Nurse Specialists
+4,Nurse Midwives
+4,Neuropsychologists and Clinical Neuropsychologists
+4,Nurse Practitioners
+4,Psychiatrists
+4,Naturopathic Physicians
+4,"Nursing Instructors and Teachers, Postsecondary"
+4,"Pediatricians, General"
+4,Coroners
+5,"English Language and Literature Teachers, Postsecondary"
+5,Interpreters and Translators
+5,"Foreign Language and Literature Teachers, Postsecondary"
+5,"Philosophy and Religion Teachers, Postsecondary"
+6,"Office Clerks, General"
+6,Proofreaders and Copy Markers
+6,Judicial Law Clerks
+6,Word Processors and Typists
+6,Medical Transcriptionists
+6,Legal Secretaries
+6,"Switchboard Operators, Including Answering Service"
+6,"Billing, Cost, and Rate Clerks"
+6,"Title Examiners, Abstractors, and Searchers"
+6,Paralegals and Legal Assistants
+6,Court Reporters
+6,Court Clerks
+6,Receptionists and Information Clerks
+6,Medical Records and Health Information Technicians
+7,Neurodiagnostic Technologists
+7,Athletic Trainers
+7,Ophthalmic Medical Technologists
+7,Magnetic Resonance Imaging Technologists
+7,Radiologic Technologists
+7,Nuclear Medicine Technologists
+7,Diagnostic Medical Sonographers
+7,Audiologists
+7,Respiratory Therapy Technicians
+7,Respiratory Therapists
+7,Radiation Therapists
+8,Personal Financial Advisors
+8,Fundraisers
+8,Public Relations and Fundraising Managers
+8,Insurance Sales Agents
+8,"Sales Agents, Securities and Commodities"
+8,"Financial Managers, Branch or Department"
+8,Market Research Analysts and Marketing Specialists
+8,Loan Officers
+8,Real Estate Sales Agents
+8,Survey Researchers
+8,"Sales Agents, Financial Services"
+9,Statisticians
+9,Database Architects
+9,Software Quality Assurance Engineers and Testers
+9,Computer User Support Specialists
+9,Mathematical Technicians
+9,Computer Systems Analysts
+9,Web Developers
+9,"Software Developers, Applications"
+9,Computer Programmers
+9,Electronic Drafters
+10,"Arbitrators, Mediators, and Conciliators"
+10,Training and Development Managers
+10,"Directors, Religious Activities and Education"
+10,Human Resources Managers
+10,Equal Opportunity Representatives and Officers
+10,"Education Administrators, Postsecondary"
+10,"Education Administrators, Preschool and Childcare Center/Program"
+10,Industrial-Organizational Psychologists
+10,Training and Development Specialists
+10,Health Educators
+11,"Electronics Engineers, Except Computer"
+11,Computer Hardware Engineers
+11,Nanotechnology Engineering Technologists
+11,Electronics Engineering Technologists
+11,Mechanical Engineers
+11,Photonics Engineers
+11,Microsystems Engineers
+11,Fuel Cell Engineers
+11,Physicists
+12,Chemists
+12,Food Science Technicians
+12,Biofuels/Biodiesel Technology and Product Development Managers
+12,Geological Sample Test Technicians
+12,Quality Control Analysts
+13,Transit and Railroad Police
+13,Sheriffs and Deputy Sheriffs
+13,Police Patrol Officers
+13,"Judges, Magistrate Judges, and Magistrates"
+13,Criminal Investigators and Special Agents
+13,Police Detectives
+13,First-Line Supervisors of Police and Detectives
+13,Immigration and Customs Inspectors
+13,"Police, Fire, and Ambulance Dispatchers"
+14,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+14,Art Directors
+14,Desktop Publishers
+14,Graphic Designers
+14,Video Game Designers
+14,Advertising and Promotions Managers
+15,"Shipping, Receiving, and Traffic Clerks"
+15,"Office Machine Operators, Except Computer"
+15,Automotive Glass Installers and Repairers
+15,"Painting, Coating, and Decorating Workers"
+15,"Tailors, Dressmakers, and Custom Sewers"
+15,Gem and Diamond Workers
+15,Floral Designers
+15,Log Graders and Scalers
+15,"Order Fillers, Wholesale and Retail Sales"
+15,Marking Clerks
+15,Merchandise Displayers and Window Trimmers
+15,Parts Salespersons
+15,Photographic Process Workers and Processing Machine Operators
+16,Residential Advisors
+16,Rehabilitation Counselors
+16,"Child, Family, and School Social Workers"
+16,School Psychologists
+16,Probation Officers and Correctional Treatment Specialists
+16,Social and Human Service Assistants
+16,Occupational Therapy Assistants
+16,Speech-Language Pathology Assistants
+16,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists"
+16,Speech-Language Pathologists
+16,Psychiatric Technicians
+17,Biochemical Engineers
+17,Nuclear Engineers
+17,Biomedical Engineers
+17,Materials Engineers
+17,Chemical Engineers
+17,Materials Scientists
+17,Nanosystems Engineers
+18,Climate Change Analysts
+18,"Geography Teachers, Postsecondary"
+18,Geographers
+18,"Environmental Science Teachers, Postsecondary"
+19,Postal Service Mail Carriers
+19,Couriers and Messengers
+19,Light Truck or Delivery Services Drivers
+19,Driver/Sales Workers
+19,"Mail Clerks and Mail Machine Operators, Except Postal Service"
+19,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+19,Gaming Change Persons and Booth Cashiers
+19,Parking Lot Attendants
+19,Waiters and Waitresses
+20,Weatherization Installers and Technicians
+20,Riggers
+20,Structural Metal Fabricators and Fitters
+20,Roofers
+20,Reinforcing Iron and Rebar Workers
+20,Pipe Fitters and Steamfitters
+20,Helpers--Carpenters
+20,Paperhangers
+20,Drywall and Ceiling Tile Installers
+20,Construction Carpenters
+20,"Insulation Workers, Mechanical"
+20,Cement Masons and Concrete Finishers
+20,Carpet Installers
+20,Rough Carpenters
+20,Boilermakers
+20,Brickmasons and Blockmasons
+21,Conveyor Operators and Tenders
+21,"Stock Clerks- Stockroom, Warehouse, or Storage Yard"
+21,Fallers
+21,"Pourers and Casters, Metal"
+21,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+21,"Laborers and Freight, Stock, and Material Movers, Hand"
+21,Solderers and Brazers
+21,Team Assemblers
+21,"Pressers, Textile, Garment, and Related Materials"
+21,Sewing Machine Operators
+21,Shoe and Leather Workers and Repairers
+21,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+21,"Postal Service Mail Sorters, Processors, and Processing Machine Operators"
+21,Dishwashers
+21,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+21,"Stock Clerks, Sales Floor"
+21,Models
+22,Farm and Home Management Advisors
+22,Precision Agriculture Technicians
+22,Agricultural Technicians
+22,Soil and Plant Scientists
+22,"Agricultural Sciences Teachers, Postsecondary"
+22,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+22,"Forestry and Conservation Science Teachers, Postsecondary"
+22,Zoologists and Wildlife Biologists
+22,"Biological Science Teachers, Postsecondary"
+23,Occupational Health and Safety Technicians
+23,Government Property Inspectors and Investigators
+23,"Environmental Scientists and Specialists, Including Health"
+23,Forest and Conservation Workers
+23,Foresters
+23,Quality Control Systems Managers
+23,Environmental Compliance Inspectors
+23,Natural Sciences Managers
+23,Environmental Engineering Technicians
+23,Water and Wastewater Treatment Plant and System Operators
+23,Forensic Science Technicians
+24,Nanotechnology Engineering Technicians
+24,"Pump Operators, Except Wellhead Pumpers"
+24,Gas Plant Operators
+24,Gas Compressor and Gas Pumping Station Operators
+24,Biomass Plant Technicians
+24,Nuclear Power Reactor Operators
+24,Wellhead Pumpers
+24,Biofuels Processing Technicians
+24,Medical Equipment Repairers
+24,"Electrical and Electronics Installers and Repairers, Transportation Equipment"
+24,Nuclear Monitoring Technicians
+24,Nuclear Equipment Operation Technicians
+24,Non-Destructive Testing Specialists
+24,Tool and Die Makers
+24,Geothermal Technicians
+24,"Maintenance Workers, Machinery"
+24,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic"
+24,"Computer-Controlled Machine Tool Operators, Metal and Plastic"
+24,Electro-Mechanical Technicians
+24,Industrial Machinery Mechanics
+25,First-Line Supervisors of Construction Trades and Extraction Workers
+25,Locksmiths and Safe Repairers
+25,Wind Energy Operations Managers
+25,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+25,"Explosives Workers, Ordnance Handling Experts, and Blasters"
+25,Industrial Production Managers
+25,Freight and Cargo Inspectors
+26,Data Entry Keyers
+26,Insurance Claims Clerks
+26,"Human Resources Assistants, Except Payroll and Timekeeping"
+26,Executive Secretaries and Executive Administrative Assistants
+26,Medical Secretaries
+26,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+26,"Library Assistants, Clerical"
+26,Insurance Policy Processing Clerks
+26,Customer Service Representatives
+26,Credit Checkers
+26,License Clerks
+26,Correspondence Clerks
+26,New Accounts Clerks
+26,Tellers
+26,Brokerage Clerks
+26,"Bookkeeping, Accounting, and Auditing Clerks"
+26,Accountants
+26,Credit Analysts
+26,Credit Counselors
+26,Payroll and Timekeeping Clerks
+26,Loan Counselors
+26,"Tax Examiners and Collectors, and Revenue Agents"
+26,Loan Interviewers and Clerks
+26,Tax Preparers
+26,First-Line Supervisors of Office and Administrative Support Workers
+26,Bill and Account Collectors
+26,Statement Clerks
+27,"Vocational Education Teachers, Postsecondary"
+27,Massage Therapists
+27,Insurance Underwriters
+27,Self-Enrichment Education Teachers
+27,Fitness and Wellness Coordinators
+27,Hearing Aid Specialists
+27,First-Line Supervisors of Personal Service Workers
+27,Coaches and Scouts
+27,Fitness Trainers and Aerobics Instructors
+27,Animal Trainers
+28,"Coin, Vending, and Amusement Machine Servicers and Repairers"
+28,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+28,First-Line Supervisors of Production and Operating Workers
+28,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+28,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+28,Machinists
+28,"Patternmakers, Metal and Plastic"
+28,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+28,Watch Repairers
+28,"Tool Grinders, Filers, and Sharpeners"
+28,Tire Repairers and Changers
+28,"Electric Motor, Power Tool, and Related Repairers"
+28,Engine and Other Machine Assemblers
+28,Precious Metal Workers
+28,"Glass Blowers, Molders, Benders, and Finishers"
+28,Recycling and Reclamation Workers
+29,Instructional Designers and Technologists
+29,Information Technology Project Managers
+29,Informatics Nurse Specialists
+29,Document Management Specialists
+29,Human Factors Engineers and Ergonomists
+29,Web Administrators
+29,Computer and Information Systems Managers
+30,"Political Science Teachers, Postsecondary"
+30,Sociologists
+30,"Sociology Teachers, Postsecondary"
+30,Political Scientists
+30,"History Teachers, Postsecondary"
+31,Security Managers
+31,Emergency Management Directors
+31,Forest Fire Fighting and Prevention Supervisors
+31,Fire Investigators
+31,Municipal Fire Fighting and Prevention Supervisors
+31,Municipal Firefighters
+31,Fish and Game Wardens
+31,Emergency Medical Technicians and Paramedics
+31,Forest Fire Inspectors and Prevention Specialists
+31,Forest Firefighters
+31,Fire Inspectors
+32,"Transportation Attendants, Except Flight Attendants"
+32,Taxi Drivers and Chauffeurs
+32,"Bus Drivers, School or Special Client"
+32,Baggage Porters and Bellhops
+32,Funeral Attendants
+32,Bailiffs
+32,Security Guards
+32,Crossing Guards
+32,"Umpires, Referees, and Other Sports Officials"
+32,Transportation Security Screeners
+32,Orderlies
+33,"Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+33,"Stone Cutters and Carvers, Manufacturing"
+33,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+33,Shoe Machine Operators and Tenders
+33,"Mixing and Blending Machine Setters, Operators, and Tenders"
+33,"Grinding and Polishing Workers, Hand"
+33,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+33,Industrial Truck and Tractor Operators
+33,Cleaners of Vehicles and Equipment
+33,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+33,Machine Feeders and Offbearers
+33,Power Plant Operators
+33,"Roof Bolters, Mining"
+33,Fiberglass Laminators and Fabricators
+33,Automotive Body and Related Repairers
+33,Molding and Casting Workers
+33,Stationary Engineers and Boiler Operators
+33,Chemical Plant and System Operators
+33,Helpers--Extraction Workers
+33,Adhesive Bonding Machine Operators and Tenders
+34,Public Address System and Other Announcers
+34,"Agents and Business Managers of Artists, Performers, and Athletes"
+34,"Musicians, Instrumental"
+34,Photographers
+34,Singers
+34,Music Composers and Arrangers
+34,Talent Directors
+35,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+35,First-Line Supervisors of Food Preparation and Serving Workers
+35,Animal Breeders
+35,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+35,Procurement Clerks
+35,"Dispatchers, Except Police, Fire, and Ambulance"
+35,Recycling Coordinators
+35,Agricultural Inspectors
+36,Counseling Psychologists
+36,Clinical Psychologists
+36,Marriage and Family Therapists
+36,Mental Health Counselors
+36,Mental Health and Substance Abuse Social Workers
+36,Healthcare Social Workers
+37,Radio and Television Announcers
+37,Broadcast News Analysts
+37,Reporters and Correspondents
+37,Public Relations Specialists
+37,"Library Science Teachers, Postsecondary"
+37,"Poets, Lyricists and Creative Writers"
+37,Librarians
+37,Program Directors
+37,Producers
+37,Editors
+38,Anesthesiologists
+38,Sports Medicine Physicians
+38,Nuclear Medicine Physicians
+38,Optometrists
+38,Prosthodontists
+38,Orthodontists
+38,"Dentists, General"
+38,Veterinarians
+39,Slaughterers and Meat Packers
+39,Farm Labor Contractors
+39,Food Cooking Machine Operators and Tenders
+39,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+39,Dietetic Technicians
+39,"Cooks, Restaurant"
+39,"Combined Food Preparation and Serving Workers, Including Fast Food"
+39,"Cooks, Short Order"
+39,"Cooks, Fast Food"
+39,"Graders and Sorters, Agricultural Products"
+39,Bakers
+39,Nursery Workers
+39,"Farmworkers and Laborers, Crop"
+39,Butchers and Meat Cutters
+40,"Bus Drivers, Transit and Intercity"
+40,Bridge and Lock Tenders
+40,Heavy and Tractor-Trailer Truck Drivers
+40,Subway and Streetcar Operators
+40,Railroad Conductors and Yardmasters
+40,"Railroad Brake, Signal, and Switch Operators"
+40,Locomotive Engineers
+40,"Rail Yard Engineers, Dinkey Operators, and Hostlers"
+40,Locomotive Firers
+41,Radio Frequency Identification Device Specialists
+41,Operations Research Analysts
+41,Computer and Information Research Scientists
+41,Sales Engineers
+41,"Computer Science Teachers, Postsecondary"
+42,"Education Administrators, Elementary and Secondary School"
+42,"Business Teachers, Postsecondary"
+42,"Social Work Teachers, Postsecondary"
+42,Clergy
+42,"Communications Teachers, Postsecondary"
+42,"Criminal Justice and Law Enforcement Teachers, Postsecondary"
+42,"Education Teachers, Postsecondary"
+42,"Psychology Teachers, Postsecondary"
+42,Instructional Coordinators
+42,"Home Economics Teachers, Postsecondary"
+43,Historians
+43,Park Naturalists
+43,Archivists
+43,Curators
+43,Intelligence Analysts
+43,Urban and Regional Planners
+44,"Medical Scientists, Except Epidemiologists"
+44,Geneticists
+44,Regulatory Affairs Managers
+45,"Telecommunications Equipment Installers and Repairers, Except Line Installers"
+45,Electronic Home Entertainment Equipment Installers and Repairers
+45,Telecommunications Line Installers and Repairers
+45,Radio Mechanics
+45,Power Distributors and Dispatchers
+45,Security and Fire Alarm Systems Installers
+45,"Radio, Cellular, and Tower Equipment Installers and Repairers"
+45,Broadcast Technicians
+45,Technical Writers
+46,Parking Enforcement Workers
+46,Gaming Surveillance Officers and Gaming Investigators
+46,Police Identification and Records Officers
+46,Correctional Officers and Jailers
+46,"Administrative Law Judges, Adjudicators, and Hearing Officers"
+46,Retail Loss Prevention Specialists
+46,Private Detectives and Investigators
+46,First-Line Supervisors of Correctional Officers
+46,Animal Control Workers
+46,Licensing Examiners and Inspectors
+46,Compliance Managers
+46,"Claims Examiners, Property and Casualty Insurance"
+46,File Clerks
+46,"Eligibility Interviewers, Government Programs"
+47,Motorcycle Mechanics
+47,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation"
+47,Outdoor Power Equipment and Other Small Engine Mechanics
+47,Bus and Truck Mechanics and Diesel Engine Specialists
+47,"Electronic Equipment Installers and Repairers, Motor Vehicles"
+47,Automotive Specialty Technicians
+47,Motorboat Mechanics and Service Technicians
+47,Automotive Master Mechanics
+47,"Mobile Heavy Equipment Mechanics, Except Engines"
+47,Automotive and Watercraft Service Attendants
+47,Aircraft Mechanics and Service Technicians
+47,Signal and Track Switch Repairers
+48,"Mates- Ship, Boat, and Barge"
+48,Airfield Operations Specialists
+48,Forest and Conservation Technicians
+48,Commercial Pilots
+48,"Pilots, Ship"
+48,Motorboat Operators
+48,"Airline Pilots, Copilots, and Flight Engineers"
+48,Ship and Boat Captains
+49,Clinical Research Coordinators
+49,Cardiovascular Technologists and Technicians
+49,Radiologic Technicians
+49,Ophthalmic Medical Technicians
+49,Physical Therapist Assistants
+49,Physical Therapist Aides
+49,Medical Assistants
+49,Orthoptists
+49,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+49,Pharmacy Technicians
+49,Phlebotomists
+50,Cartographers and Photogrammetrists
+50,Mapping Technicians
+50,Remote Sensing Technicians
+51,Manufacturing Production Technicians
+51,Manufacturing Engineering Technologists
+51,Industrial Engineering Technologists
+51,Automotive Engineering Technicians
+51,Aviation Inspectors
+51,Industrial Engineers
+51,Biomass Power Plant Managers
+51,Manufacturing Engineers
+51,Validation Engineers
+51,Hydroelectric Production Managers
+51,Chemical Equipment Operators and Tenders
+52,Pharmacists
+52,Dermatologists
+52,Hospitalists
+52,Dietitians and Nutritionists
+52,Critical Care Nurses
+52,Acute Care Nurses
+52,Acupuncturists
+52,Physical Therapists
+52,Licensed Practical and Licensed Vocational Nurses
+52,Genetic Counselors
+52,Family and General Practitioners
+52,Registered Nurses
+53,"Art, Drama, and Music Teachers, Postsecondary"
+53,Music Directors
+53,Choreographers
+53,Actors
+54,Obstetricians and Gynecologists
+54,Urologists
+54,Pathologists
+54,Podiatrists
+54,Exercise Physiologists
+54,"Health Specialties Teachers, Postsecondary"
+54,Physical Medicine and Rehabilitation Physicians
+54,Radiologists
+54,Oral and Maxillofacial Surgeons
+54,Nurse Anesthetists
+54,Chiropractors
+54,Ophthalmologists
+54,Allergists and Immunologists
+54,Surgeons
+55,Economists
+55,Environmental Economists
+55,"Economics Teachers, Postsecondary"
+56,Civil Engineering Technicians
+56,Electrical Drafters
+56,Civil Drafters
+56,Surveying Technicians
+56,Architectural Drafters
+56,Traffic Technicians
+57,Surgical Assistants
+57,Anesthesiologist Assistants
+57,Dental Assistants
+57,Surgical Technologists
+57,Endoscopy Technicians
+57,Dental Hygienists
+58,"Compensation, Benefits, and Job Analysis Specialists"
+58,Labor Relations Specialists
+58,Compensation and Benefits Managers
+58,Human Resources Specialists
+58,Medical and Health Services Managers
+58,Municipal Clerks
+58,Chief Executives
+58,Lawyers
+58,Spa Managers
+59,Medical Equipment Preparers
+59,Veterinary Assistants and Laboratory Animal Caretakers
+59,Medical and Clinical Laboratory Technicians
+59,Histotechnologists and Histologic Technicians
+59,Cytotechnologists
+59,Biological Technicians
+59,Cytogenetic Technologists
+59,Veterinary Technologists and Technicians
+59,Medical and Clinical Laboratory Technologists
+59,Regulatory Affairs Specialists
+60,Occupational Health and Safety Specialists
+60,Product Safety Engineers
+60,Industrial Safety and Health Engineers
+60,Geothermal Production Managers
+61,Bicycle Repairers
+61,"Fabric Menders, Except Garment"
+61,"Production, Planning, and Expediting Clerks"
+61,Camera and Photographic Equipment Repairers
+62,Funeral Service Managers
+62,"Morticians, Undertakers, and Funeral Directors"
+62,Embalmers
+63,Agricultural Engineers
+63,Water Resource Specialists
+63,"Engineering Teachers, Postsecondary"
+63,Environmental Engineers
+63,Water/Wastewater Engineers
+63,Hydrologists
+63,Architectural and Engineering Managers
+64,Brownfield Redevelopment Specialists and Site Managers
+64,Chief Sustainability Officers
+64,Sustainability Specialists
+64,Surveyors
+64,"Environmental Science and Protection Technicians, Including Health"
+64,Industrial Ecologists
+64,Range Managers
+64,Soil and Water Conservationists
+64,Environmental Restoration Planners
+65,"Makeup Artists, Theatrical and Performance"
+65,Museum Technicians and Conservators
+65,Costume Attendants
+65,Craft Artists
+65,"Potters, Manufacturing"
+65,Musical Instrument Repairers and Tuners
+65,Jewelers
+66,"Physics Teachers, Postsecondary"
+66,Astronomers
+66,Mathematicians
+67,Metal-Refining Furnace Operators and Tenders
+67,"Model Makers, Metal and Plastic"
+67,Print Binding and Finishing Workers
+67,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+67,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+67,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+67,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+67,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+67,Timing Device Assemblers and Adjusters
+67,Electromechanical Equipment Assemblers
+67,"Computer, Automated Teller, and Office Machine Repairers"
+67,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+67,Foundry Mold and Coremakers
+67,Motion Picture Projectionists
+67,Printing Press Operators
+67,Semiconductor Processors
+67,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+67,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+67,"Paper Goods Machine Setters, Operators, and Tenders"
+67,Tire Builders
+67,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+67,Ophthalmic Laboratory Technicians
+67,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+67,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
+67,"Textile Cutting Machine Setters, Operators, and Tenders"
+67,Chemical Technicians
+67,"Painters, Transportation Equipment"
+68,Pest Control Workers
+68,Landscaping and Groundskeeping Workers
+68,"Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+68,Tree Trimmers and Pruners
+68,Refuse and Recyclable Material Collectors
+68,Hunters and Trappers
+68,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+68,Home Appliance Repairers
+68,"Meter Readers, Utilities"
+69,"Helpers--Installation, Maintenance, and Repair Workers"
+69,"Sawing Machine Setters, Operators, and Tenders, Wood"
+69,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+69,Helpers--Production Workers
+69,Mine Shuttle Car Operators
+69,"Refractory Materials Repairers, Except Brickmasons"
+69,Rail Car Repairers
+69,Dredge Operators
+69,Logging Equipment Operators
+69,Hoist and Winch Operators
+69,Upholsterers
+69,Mine Cutting and Channeling Machine Operators
+69,Electrical and Electronic Equipment Assemblers
+69,Furniture Finishers
+70,Biofuels Production Managers
+70,Animal Scientists
+70,Nursery and Greenhouse Managers
+70,Food Scientists and Technologists
+70,Farm and Ranch Managers
+70,Aquacultural Managers
+70,"Meat, Poultry, and Fish Cutters and Trimmers"
+70,First-Line Supervisors of Aquacultural Workers
+70,First-Line Supervisors of Agricultural Crop and Horticultural Workers
+71,City and Regional Planning Aides
+71,Transportation Planners
+72,"Appraisers, Real Estate"
+72,Customs Brokers
+72,Assessors
+72,Energy Brokers
+72,Credit Authorizers
+72,Statistical Assistants
+73,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+73,Anthropologists
+73,Archeologists
+73,"Anthropology and Archeology Teachers, Postsecondary"
+74,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+74,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+74,Dining Room and Cafeteria Attendants and Bartender Helpers
+74,"Food Servers, Nonrestaurant"
+74,Baristas
+74,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"
+74,Food Preparation Workers
+74,Barbers
+74,"Cooks, Institution and Cafeteria"
+74,Maids and Housekeeping Cleaners
+74,Manicurists and Pedicurists
+74,Shampooers
+74,Skincare Specialists
+74,Laundry and Dry-Cleaning Workers
+74,"Packers and Packagers, Hand"
+74,"Locker Room, Coatroom, and Dressing Room Attendants"
+74,Nonfarm Animal Caretakers
+74,Dancers
+74,Gaming Dealers
+75,Occupational Therapists
+75,Patient Representatives
+75,Adapted Physical Education Specialists
+75,Community Health Workers
+75,Substance Abuse and Behavioral Disorder Counselors
+75,Social and Community Service Managers
+75,"Educational, Guidance, School, and Vocational Counselors"
+75,Recreation Workers
+75,Music Therapists
+75,Art Therapists
+75,Recreational Therapists
+76,Multimedia Artists and Animators
+76,Prepress Technicians and Workers
+76,Etchers and Engravers
+76,"Sewers, Hand"
+76,Film and Video Editors
+76,Fashion Designers
+76,Fabric and Apparel Patternmakers
+77,Information Security Analysts
+77,Telecommunications Engineering Specialists
+77,Computer Network Architects
+77,Computer Systems Engineers/Architects
+77,Database Administrators
+77,"Software Developers, Systems Software"
+77,Computer Network Support Specialists
+77,Network and Computer Systems Administrators
+78,Gaming Supervisors
+78,Retail Salespersons
+78,"Insurance Appraisers, Auto Damage"
+78,First-Line Supervisors of Retail Sales Workers
+78,Slot Supervisors
+78,Order Clerks
+78,Computer Operators
+78,"Hotel, Motel, and Resort Desk Clerks"
+78,"Opticians, Dispensing"
+78,"Insurance Adjusters, Examiners, and Investigators"
+78,Postal Service Clerks
+79,Tour Guides and Escorts
+79,Cargo and Freight Agents
+79,Flight Attendants
+79,Freight Forwarders
+79,Air Traffic Controllers
+79,Reservation and Transportation Ticket Agents and Travel Clerks
+79,Radio Operators
+79,Concierges
+80,Landscape Architects
+80,Interior Designers
+80,"Architecture Teachers, Postsecondary"
+80,Set and Exhibit Designers
+80,"Architects, Except Landscape and Naval"
+81,Segmental Pavers
+81,Stonemasons
+81,Plasterers and Stucco Masons
+81,Fence Erectors
+81,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+81,"Insulation Workers, Floor, Ceiling, and Wall"
+81,Tile and Marble Setters
+81,Tapers
+81,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"
+81,Helpers--Roofers
+81,Excavating and Loading Machine and Dragline Operators
+81,Floor Sanders and Finishers
+81,Glaziers
+82,Biochemists and Biophysicists
+82,Molecular and Cellular Biologists
+82,Biologists
+82,Bioinformatics Scientists
+82,"Chemistry Teachers, Postsecondary"
+82,Microbiologists
+83,"Geoscientists, Except Hydrologists and Geographers"
+83,Geodetic Surveyors
+83,Geophysical Data Technicians
+83,Atmospheric and Space Scientists
+83,Remote Sensing Scientists and Technologists
+83,Geographic Information Systems Technicians
+83,Geospatial Information Scientists and Technologists
+84,"Law Teachers, Postsecondary"
+85,Energy Auditors
+85,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+85,Solar Thermal Installers and Technicians
+85,Hydroelectric Plant Technicians
+85,Heating and Air Conditioning Mechanics and Installers
+85,Plumbers
+85,Ship Engineers
+85,"Control and Valve Installers and Repairers, Except Mechanical Door"
+85,"Service Unit Operators, Oil, Gas, and Mining"
+85,Farm Equipment Mechanics and Service Technicians
+85,Wind Turbine Service Technicians
+85,Elevator Installers and Repairers
+85,Electricians
+85,Millwrights
+85,Refrigeration Mechanics and Installers
+86,Graduate Teaching Assistants
+86,"Recreation and Fitness Studies Teachers, Postsecondary"
+86,"Secondary School Teachers, Except Special and Career/Technical Education"
+86,"Middle School Teachers, Except Special and Career/Technical Education"
+86,Tutors
+86,"Elementary School Teachers, Except Special Education"
+86,Social Science Research Assistants
+86,"Special Education Teachers, Kindergarten and Elementary School"
+86,"Special Education Teachers, Middle School"
+86,"Mathematical Science Teachers, Postsecondary"
+86,"Special Education Teachers, Secondary School"
+86,Adult Basic and Secondary Education and Literacy Teachers and Instructors
+86,Epidemiologists
+87,"Property, Real Estate, and Community Association Managers"
+87,Administrative Services Managers
+87,Lodging Managers
+87,"Career/Technical Education Teachers, Middle School"
+87,"Career/Technical Education Teachers, Secondary School"
+87,"Meeting, Convention, and Event Planners"
+87,First-Line Supervisors of Housekeeping and Janitorial Workers
+87,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+87,Gaming Managers
+87,Athletes and Sports Competitors
+87,Chefs and Head Cooks
+87,Food Service Managers
+88,Audio-Visual and Multimedia Collections Specialists
+88,Technical Directors/Managers
+88,"Directors- Stage, Motion Pictures, Television, and Radio"
+88,Audio and Video Equipment Technicians
+88,"Camera Operators, Television, Video, and Motion Picture"
+88,Sound Engineering Technicians
+89,Clinical Data Managers
+89,Bioinformatics Technicians
+89,Biostatisticians
+90,Personal Care Aides
+90,"Preschool Teachers, Except Special Education"
+90,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
+90,Occupational Therapy Aides
+90,Childcare Workers
+90,"Kindergarten Teachers, Except Special Education"
+90,Teacher Assistants
+90,Nursing Assistants
+90,Psychiatric Aides
+90,Home Health Aides
+90,Nannies
+91,Crane and Tower Operators
+91,"Loading Machine Operators, Underground Mining"
+91,Pipelayers
+91,"Painters, Construction and Maintenance"
+91,Hazardous Materials Removal Workers
+91,Rail-Track Laying and Maintenance Equipment Operators
+91,Highway Maintenance Workers
+91,First-Line Supervisors of Logging Workers
+91,Pile-Driver Operators
+91,Continuous Mining Machine Operators
+91,"Earth Drillers, Except Oil and Gas"
+91,"Rotary Drill Operators, Oil and Gas"
+91,Manufactured Building and Mobile Home Installers
+91,"Roustabouts, Oil and Gas"
+91,Septic Tank Servicers and Sewer Pipe Cleaners
+91,"Derrick Operators, Oil and Gas"
+91,"Paving, Surfacing, and Tamping Equipment Operators"
+91,"Maintenance and Repair Workers, General"
+91,Electrical Power-Line Installers and Repairers
+91,Construction Laborers
+91,Commercial Divers
+92,Treasurers and Controllers
+92,"Fraud Examiners, Investigators and Analysts"
+92,Investment Fund Managers
+92,Financial Examiners
+92,Risk Management Specialists
+92,Auditors
+92,Budget Analysts
+92,Financial Quantitative Analysts
+92,Financial Analysts
+92,Actuaries
+93,First-Line Supervisors of Animal Husbandry and Animal Care Workers
+93,Sailors and Marine Oilers
+93,Fishers and Related Fishing Workers
+93,Food Batchmakers
+93,Cooling and Freezing Equipment Operators and Tenders
+93,Textile Bleaching and Dyeing Machine Operators and Tenders
+93,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+93,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+93,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+93,Packaging and Filling Machine Operators and Tenders
+93,"Cutters and Trimmers, Hand"
+93,"Rock Splitters, Quarry"
+94,"Coil Winders, Tapers, and Finishers"
+94,Orthotists and Prosthetists
+94,Medical Appliance Technicians
+94,Dental Laboratory Technicians
+95,Online Merchants
+95,Business Intelligence Analysts
+95,Real Estate Brokers
+95,Marketing Managers
+95,Sales Managers
+95,Management Analysts
+95,Distance Learning Coordinators
+95,First-Line Supervisors of Non-Retail Sales Workers
+96,Travel Guides
+96,Travel Agents
+96,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+96,Copy Writers
+96,"Wholesale and Retail Buyers, Except Farm Products"
+96,Advertising Sales Agents
+96,Securities and Commodities Traders
+96,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+96,Search Marketing Strategists
+97,Agricultural Equipment Operators
+98,Avionics Technicians
+98,Aerospace Engineers
+98,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+98,Mechanical Engineering Technologists
+98,Mechanical Engineering Technicians
+98,Commercial and Industrial Designers
+98,Electrical Engineers
+98,Photonics Technicians
+98,Electromechanical Engineering Technologists
+98,Industrial Engineering Technicians
+98,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic"
+98,Robotics Technicians
+98,Mechatronics Engineers
+98,Electrical Engineering Technicians
+98,Mechanical Drafters
+98,Aerospace Engineering and Operations Technicians
+98,Electronics Engineering Technicians
+99,Civil Engineers
+99,Wind Energy Project Managers
+99,Solar Sales Representatives and Assessors
+99,Solar Energy Systems Engineers
+99,Construction and Building Inspectors
+99,Energy Engineers
+99,Security Management Specialists
+99,Construction Managers
+99,Solar Energy Installation Managers
+99,Transportation Engineers
+99,Cost Estimators
+99,Fire-Prevention and Protection Engineers
