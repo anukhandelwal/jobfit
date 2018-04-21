@@ -1,0 +1,1118 @@
+{"_id":{"$oid":"5adb7ba125149722c0704c31"},"Job_Title":"All Occupations","Salary_2015":"$36,200 ","Salary_2017":"$37,690 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c32"},"Job_Title":"Management Occupations","Salary_2015":"$98,560 ","Salary_2017":"$102,590 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c33"},"Job_Title":"Top Executives","Salary_2015":"$100,940 ","Salary_2017":"$103,120 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c34"},"Job_Title":"Chief Executives","Salary_2015":"$175,110 ","Salary_2017":"$183,270 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c35"},"Job_Title":"General and Operations Managers","Salary_2015":"$97,730 ","Salary_2017":"$100,410 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c36"},"Job_Title":"Legislators","Salary_2015":"$20,500 ","Salary_2017":"$25,630 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c37"},"Job_Title":"Advertising, Marketing, Promotions, Public Relations, and Sales Managers","Salary_2015":"$116,810 ","Salary_2017":"$123,100 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c38"},"Job_Title":"Advertising and Promotions Managers","Salary_2015":"$95,890 ","Salary_2017":"$106,130 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c39"},"Job_Title":"Marketing and Sales Managers","Salary_2015":"$119,280 ","Salary_2017":"$125,290 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c3a"},"Job_Title":"Marketing Managers","Salary_2015":"$128,750 ","Salary_2017":"$132,230 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c3b"},"Job_Title":"Sales Managers","Salary_2015":"$113,860 ","Salary_2017":"$121,060 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c3c"},"Job_Title":"Public Relations and Fundraising Managers","Salary_2015":"$104,140 ","Salary_2017":"$111,280 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c3d"},"Job_Title":"Operations Specialties Managers","Salary_2015":"$108,260 ","Salary_2017":"$115,700 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c3e"},"Job_Title":"Administrative Services Managers","Salary_2015":"$86,110 ","Salary_2017":"$94,020 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c3f"},"Job_Title":"Computer and Information Systems Managers","Salary_2015":"$131,600 ","Salary_2017":"$139,220 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c40"},"Job_Title":"Financial Managers","Salary_2015":"$117,990 ","Salary_2017":"$125,080 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c41"},"Job_Title":"Industrial Production Managers","Salary_2015":"$93,940 ","Salary_2017":"$100,580 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c42"},"Job_Title":"Purchasing Managers","Salary_2015":"$108,120 ","Salary_2017":"$115,760 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c43"},"Job_Title":"Transportation, Storage, and Distribution Managers","Salary_2015":"$86,630 ","Salary_2017":"$92,460 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c44"},"Job_Title":"Compensation and Benefits Managers","Salary_2015":"$111,430 ","Salary_2017":"$119,120 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c45"},"Job_Title":"Human Resources Managers","Salary_2015":"$104,440 ","Salary_2017":"$110,120 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c46"},"Job_Title":"Training and Development Managers","Salary_2015":"$102,640 ","Salary_2017":"$108,250 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c47"},"Job_Title":"Other Management Occupations","Salary_2015":"$85,880 ","Salary_2017":"$88,720 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c48"},"Job_Title":"Farmers, Ranchers, and Other Agricultural Managers","Salary_2015":"$64,170 ","Salary_2017":"$69,620 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c49"},"Job_Title":"Construction Managers","Salary_2015":"$87,400 ","Salary_2017":"$91,370 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c4a"},"Job_Title":"Education Administrators","Salary_2015":"$85,290 ","Salary_2017":"$88,890 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c4b"},"Job_Title":"Education Administrators, Preschool and Childcare Center/Program","Salary_2015":"$45,670 ","Salary_2017":"$46,890 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c4c"},"Job_Title":"Education Administrators, Elementary and Secondary School","Salary_2015":"$90,410 ","Salary_2017":"$94,390 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c4d"},"Job_Title":"Education Administrators, Postsecondary","Salary_2015":"$88,580 ","Salary_2017":"$92,360 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c4e"},"Job_Title":"Education Administrators, All Other","Salary_2015":"$76,930 ","Salary_2017":"$81,630 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c4f"},"Job_Title":"Architectural and Engineering Managers","Salary_2015":"$132,800 ","Salary_2017":"$137,720 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c50"},"Job_Title":"Food Service Managers","Salary_2015":"$48,690 ","Salary_2017":"$52,030 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c51"},"Job_Title":"Funeral Service Managers","Salary_2015":"$70,890 ","Salary_2017":"$78,040 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c52"},"Job_Title":"Gaming Managers","Salary_2015":"$68,380 ","Salary_2017":"$72,930 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c53"},"Job_Title":"Lodging Managers","Salary_2015":"$49,720 ","Salary_2017":"$51,800 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c54"},"Job_Title":"Medical and Health Services Managers","Salary_2015":"$94,500 ","Salary_2017":"$98,350 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c55"},"Job_Title":"Natural Sciences Managers","Salary_2015":"$120,160 ","Salary_2017":"$118,970 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c56"},"Job_Title":"Postmasters and Mail Superintendents","Salary_2015":"$70,640 ","Salary_2017":"$74,840 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c57"},"Job_Title":"Property, Real Estate, and Community Association Managers","Salary_2015":"$55,380 ","Salary_2017":"$58,670 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c58"},"Job_Title":"Social and Community Service Managers","Salary_2015":"$63,530 ","Salary_2017":"$64,100 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c59"},"Job_Title":"Emergency Management Directors","Salary_2015":"$67,330 ","Salary_2017":"$72,760 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c5a"},"Job_Title":"Miscellaneous Managers","Salary_2015":"$104,850 ","Salary_2017":"$105,610 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c5b"},"Job_Title":"Managers, All Other","Salary_2015":"$104,850 ","Salary_2017":"$105,610 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c5c"},"Job_Title":"Business and Financial Operations Occupations","Salary_2015":"$65,710 ","Salary_2017":"$67,710 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c5d"},"Job_Title":"Business Operations Specialists","Salary_2015":"$64,510 ","Salary_2017":"$66,390 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c5e"},"Job_Title":"Agents and Business Managers of Artists, Performers, and Athletes","Salary_2015":"$62,940 ","Salary_2017":"$64,940 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c5f"},"Job_Title":"Buyers and Purchasing Agents","Salary_2015":"$59,620 ","Salary_2017":"$62,120 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c60"},"Job_Title":"Buyers and Purchasing Agents, Farm Products","Salary_2015":"$56,270 ","Salary_2017":"$62,120 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c61"},"Job_Title":"Wholesale and Retail Buyers, Except Farm Products","Salary_2015":"$52,940 ","Salary_2017":"$64,690 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c62"},"Job_Title":"Purchasing Agents, Except Wholesale, Retail, and Farm Products","Salary_2015":"$62,220 ","Salary_2017":"$64,900 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c63"},"Job_Title":"Claims Adjusters, Appraisers, Examiners, and Investigators","Salary_2015":"$63,060 ","Salary_2017":"$62,100 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c64"},"Job_Title":"Claims Adjusters, Examiners, and Investigators","Salary_2015":"$62,980 ","Salary_2017":"$67,870 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c65"},"Job_Title":"Insurance Appraisers, Auto Damage","Salary_2015":"$64,020 ","Salary_2017":"$67,870 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c66"},"Job_Title":"Compliance Officers","Salary_2015":"$65,640 ","Salary_2017":"$63,110 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c67"},"Job_Title":"Cost Estimators","Salary_2015":"$60,390 ","Salary_2017":"$60,570 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c68"},"Job_Title":"Human Resources Workers","Salary_2015":"$58,370 ","Salary_2017":"$35,660 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c69"},"Job_Title":"Human Resources Specialists","Salary_2015":"$58,350 ","Salary_2017":"$63,200 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c6a"},"Job_Title":"Farm Labor Contractors","Salary_2015":"$30,910 ","Salary_2017":"$74,590 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c6b"},"Job_Title":"Labor Relations Specialists","Salary_2015":"$58,820 ","Salary_2017":"$74,590 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c6c"},"Job_Title":"Logisticians","Salary_2015":"$74,260 ","Salary_2017":"$82,450 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c6d"},"Job_Title":"Management Analysts","Salary_2015":"$81,320 ","Salary_2017":"$48,290 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c6e"},"Job_Title":"Meeting, Convention, and Event Planners","Salary_2015":"$46,840 ","Salary_2017":"$55,640 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c6f"},"Job_Title":"Fundraisers","Salary_2015":"$52,970 ","Salary_2017":"$62,680 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c70"},"Job_Title":"Compensation, Benefits, and Job Analysis Specialists","Salary_2015":"$60,850 ","Salary_2017":"$60,360 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c71"},"Job_Title":"Training and Development Specialists","Salary_2015":"$58,210 ","Salary_2017":"$63,230 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c72"},"Job_Title":"Market Research Analysts and Marketing Specialists","Salary_2015":"$62,150 ","Salary_2017":"$70,010 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c73"},"Job_Title":"Miscellaneous Business Operations Specialists","Salary_2015":"$68,170 ","Salary_2017":"$70,120 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c74"},"Job_Title":"Business Operations Specialists, All Other","Salary_2015":"$68,170 ","Salary_2017":"$69,350 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c75"},"Job_Title":"Financial Specialists","Salary_2015":"$67,740 ","Salary_2017":"$69,350 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c76"},"Job_Title":"Accountants and Auditors","Salary_2015":"$67,190 ","Salary_2017":"$54,010 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c77"},"Job_Title":"Appraisers and Assessors of Real Estate","Salary_2015":"$51,860 ","Salary_2017":"$75,240 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c78"},"Job_Title":"Budget Analysts","Salary_2015":"$71,590 ","Salary_2017":"$71,290 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c79"},"Job_Title":"Credit Analysts","Salary_2015":"$69,680 ","Salary_2017":"$82,770 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c7a"},"Job_Title":"Financial Analysts and Advisors","Salary_2015":"$79,350 ","Salary_2017":"$90,640 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c7b"},"Job_Title":"Financial Analysts","Salary_2015":"$80,310 ","Salary_2017":"$69,760 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c7c"},"Job_Title":"Personal Financial Advisors","Salary_2015":"$89,160 ","Salary_2017":"$81,690 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c7d"},"Job_Title":"Insurance Underwriters","Salary_2015":"$65,040 ","Salary_2017":"$81,690 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c7e"},"Job_Title":"Financial Examiners","Salary_2015":"$78,010 ","Salary_2017":"$61,840 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c7f"},"Job_Title":"Credit Counselors and Loan Officers","Salary_2015":"$60,910 ","Salary_2017":"$64,660 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c80"},"Job_Title":"Credit Counselors","Salary_2015":"$43,840 ","Salary_2017":"$46,840 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c81"},"Job_Title":"Loan Officers","Salary_2015":"$63,430 ","Salary_2017":"$53,130 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c82"},"Job_Title":"Tax Examiners, Collectors and Preparers, and Revenue Agents","Salary_2015":"$44,840 ","Salary_2017":"$38,730 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c83"},"Job_Title":"Tax Examiners and Collectors, and Revenue Agents","Salary_2015":"$51,430 ","Salary_2017":"$69,520 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c84"},"Job_Title":"Tax Preparers","Salary_2015":"$36,450 ","Salary_2017":"$69,520 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c85"},"Job_Title":"Miscellaneous Financial Specialists","Salary_2015":"$66,670 ","Salary_2017":"$84,560 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c86"},"Job_Title":"Financial Specialists, All Other","Salary_2015":"$66,670 ","Salary_2017":"$84,580 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c87"},"Job_Title":"Computer and Mathematical Occupations","Salary_2015":"$81,430 ","Salary_2017":"$114,520 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c88"},"Job_Title":"Computer Occupations","Salary_2015":"$81,430 ","Salary_2017":"$114,520 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c89"},"Job_Title":"Computer and Information Research Scientists","Salary_2015":"$110,620 ","Salary_2017":"$89,280 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c8a"},"Job_Title":"Computer and Information Analysts","Salary_2015":"$86,370 ","Salary_2017":"$95,510 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c8b"},"Job_Title":"Computer Systems Analysts","Salary_2015":"$85,800 ","Salary_2017":"$97,770 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c8c"},"Job_Title":"Information Security Analysts","Salary_2015":"$90,120 ","Salary_2017":"$82,240 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c8d"},"Job_Title":"Software Developers and Programmers","Salary_2015":"$94,080 ","Salary_2017":"$101,790 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c8e"},"Job_Title":"Computer Programmers","Salary_2015":"$79,530 ","Salary_2017":"$107,600 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c8f"},"Job_Title":"Software Developers, Applications","Salary_2015":"$98,260 ","Salary_2017":"$67,990 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c90"},"Job_Title":"Software Developers, Systems Software","Salary_2015":"$105,570 ","Salary_2017":"$87,090 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c91"},"Job_Title":"Web Developers","Salary_2015":"$64,970 ","Salary_2017":"$87,020 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c92"},"Job_Title":"Database and Systems Administrators and Network Architects","Salary_2015":"$82,780 ","Salary_2017":"$81,100 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c93"},"Job_Title":"Database Administrators","Salary_2015":"$81,710 ","Salary_2017":"$104,650 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c94"},"Job_Title":"Network and Computer Systems Administrators","Salary_2015":"$77,810 ","Salary_2017":"$52,810 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c95"},"Job_Title":"Computer Network Architects","Salary_2015":"$100,240 ","Salary_2017":"$50,210 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c96"},"Job_Title":"Computer Support Specialists","Salary_2015":"$51,470 ","Salary_2017":"$62,340 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c97"},"Job_Title":"Computer User Support Specialists","Salary_2015":"$48,620 ","Salary_2017":"$88,510 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c98"},"Job_Title":"Computer Network Support Specialists","Salary_2015":"$62,250 ","Salary_2017":"$88,510 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c99"},"Job_Title":"Miscellaneous Computer Occupations","Salary_2015":"$85,240 ","Salary_2017":"$84,060 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c9a"},"Job_Title":"Computer Occupations, All Other","Salary_2015":"$85,240 ","Salary_2017":"$101,560 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c9b"},"Job_Title":"Mathematical Science Occupations","Salary_2015":"$81,360 ","Salary_2017":"$101,560 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c9c"},"Job_Title":"Actuaries","Salary_2015":"$97,070 ","Salary_2017":"$103,010 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c9d"},"Job_Title":"Mathematicians","Salary_2015":"$111,110 ","Salary_2017":"$81,390 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c9e"},"Job_Title":"Operations Research Analysts","Salary_2015":"$78,630 ","Salary_2017":"$84,060 "}
+{"_id":{"$oid":"5adb7ba125149722c0704c9f"},"Job_Title":"Statisticians","Salary_2015":"$80,110 ","Salary_2017":"$57,890 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ca0"},"Job_Title":"Miscellaneous Mathematical Science Occupations","Salary_2015":"$58,580 ","Salary_2017":"$79,180 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ca1"},"Job_Title":"Mathematical Technicians","Salary_2015":"$46,600 ","Salary_2017":"$72,020 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ca2"},"Job_Title":"Mathematical Science Occupations, All Other","Salary_2015":"$66,210 ","Salary_2017":"$76,590 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ca3"},"Job_Title":"Architecture and Engineering Occupations","Salary_2015":"$76,870 ","Salary_2017":"$78,470 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ca4"},"Job_Title":"Architects, Surveyors, and Cartographers","Salary_2015":"$69,130 ","Salary_2017":"$65,760 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ca5"},"Job_Title":"Architects, Except Naval","Salary_2015":"$74,040 ","Salary_2017":"$61,770 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ca6"},"Job_Title":"Architects, Except Landscape and Naval","Salary_2015":"$76,100 ","Salary_2017":"$63,990 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ca7"},"Job_Title":"Landscape Architects","Salary_2015":"$63,810 ","Salary_2017":"$61,140 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ca8"},"Job_Title":"Surveyors, Cartographers, and Photogrammetrists","Salary_2015":"$58,920 ","Salary_2017":"$92,220 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ca9"},"Job_Title":"Cartographers and Photogrammetrists","Salary_2015":"$61,880 ","Salary_2017":"$113,030 "}
+{"_id":{"$oid":"5adb7ba125149722c0704caa"},"Job_Title":"Surveyors","Salary_2015":"$58,020 ","Salary_2017":"$113,030 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cab"},"Job_Title":"Engineers","Salary_2015":"$90,060 ","Salary_2017":"$74,780 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cac"},"Job_Title":"Aerospace Engineers","Salary_2015":"$107,830 ","Salary_2017":"$74,780 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cad"},"Job_Title":"Agricultural Engineers","Salary_2015":"$75,090 ","Salary_2017":"$88,040 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cae"},"Job_Title":"Biomedical Engineers","Salary_2015":"$86,220 ","Salary_2017":"$102,160 "}
+{"_id":{"$oid":"5adb7ba125149722c0704caf"},"Job_Title":"Chemical Engineers","Salary_2015":"$97,360 ","Salary_2017":"$84,770 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cb0"},"Job_Title":"Civil Engineers","Salary_2015":"$82,220 ","Salary_2017":"$115,120 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cb1"},"Job_Title":"Computer Hardware Engineers","Salary_2015":"$111,730 ","Salary_2017":"$95,060 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cb2"},"Job_Title":"Electrical and Electronics Engineers","Salary_2015":"$95,230 ","Salary_2017":"$86,800 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cb3"},"Job_Title":"Electrical Engineers","Salary_2015":"$93,010 ","Salary_2017":"$86,800 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cb4"},"Job_Title":"Electronics Engineers, Except Computer","Salary_2015":"$98,270 ","Salary_2017":"$86,090 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cb5"},"Job_Title":"Environmental Engineers","Salary_2015":"$84,560 ","Salary_2017":"$88,510 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cb6"},"Job_Title":"Industrial Engineers, Including Health and Safety","Salary_2015":"$83,570 ","Salary_2017":"$90,970 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cb7"},"Job_Title":"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Salary_2015":"$84,600 ","Salary_2017":"$90,970 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cb8"},"Job_Title":"Industrial Engineers","Salary_2015":"$83,470 ","Salary_2017":"$94,610 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cb9"},"Job_Title":"Marine Engineers and Naval Architects","Salary_2015":"$93,110 ","Salary_2017":"$94,610 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cba"},"Job_Title":"Materials Engineers","Salary_2015":"$91,310 ","Salary_2017":"$85,880 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cbb"},"Job_Title":"Mechanical Engineers","Salary_2015":"$83,590 ","Salary_2017":"$94,240 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cbc"},"Job_Title":"Mining and Geological Engineers, Including Mining Safety Engineers","Salary_2015":"$94,040 ","Salary_2017":"$105,810 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cbd"},"Job_Title":"Nuclear Engineers","Salary_2015":"$102,950 ","Salary_2017":"$132,280 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cbe"},"Job_Title":"Petroleum Engineers","Salary_2015":"$129,990 ","Salary_2017":"$97,250 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cbf"},"Job_Title":"Miscellaneous Engineers","Salary_2015":"$95,900 ","Salary_2017":"$54,170 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cc0"},"Job_Title":"Engineers, All Other","Salary_2015":"$95,900 ","Salary_2017":"$52,870 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cc1"},"Job_Title":"Drafters, Engineering Technicians, and Mapping Technicians","Salary_2015":"$54,140 ","Salary_2017":"$59,690 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cc2"},"Job_Title":"Drafters","Salary_2015":"$52,720 ","Salary_2017":"$55,130 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cc3"},"Job_Title":"Architectural and Civil Drafters","Salary_2015":"$50,710 ","Salary_2017":"$50,290 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cc4"},"Job_Title":"Electrical and Electronics Drafters","Salary_2015":"$59,520 ","Salary_2017":"$58,170 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cc5"},"Job_Title":"Mechanical Drafters","Salary_2015":"$53,520 ","Salary_2017":"$67,240 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cc6"},"Job_Title":"Drafters, All Other","Salary_2015":"$49,650 ","Salary_2017":"$51,620 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cc7"},"Job_Title":"Engineering Technicians, Except Drafters","Salary_2015":"$56,450 ","Salary_2017":"$63,660 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cc8"},"Job_Title":"Aerospace Engineering and Operations Technicians","Salary_2015":"$66,180 ","Salary_2017":"$56,740 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cc9"},"Job_Title":"Civil Engineering Technicians","Salary_2015":"$49,260 ","Salary_2017":"$50,230 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cca"},"Job_Title":"Electrical and Electronics Engineering Technicians","Salary_2015":"$61,130 ","Salary_2017":"$54,280 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ccb"},"Job_Title":"Electro-Mechanical Technicians","Salary_2015":"$53,340 ","Salary_2017":"$55,360 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ccc"},"Job_Title":"Environmental Engineering Technicians","Salary_2015":"$48,650 ","Salary_2017":"$62,230 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ccd"},"Job_Title":"Industrial Engineering Technicians","Salary_2015":"$53,780 ","Salary_2017":"$43,340 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cce"},"Job_Title":"Mechanical Engineering Technicians","Salary_2015":"$53,910 ","Salary_2017":"$43,340 "}
+{"_id":{"$oid":"5adb7ba125149722c0704ccf"},"Job_Title":"Engineering Technicians, Except Drafters, All Other","Salary_2015":"$61,260 ","Salary_2017":"$64,510 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cd0"},"Job_Title":"Surveying and Mapping Technicians","Salary_2015":"$42,010 ","Salary_2017":"$73,700 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cd1"},"Job_Title":"Life, Physical, and Social Science Occupations","Salary_2015":"$62,160 ","Salary_2017":"$60,760 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cd2"},"Job_Title":"Life Scientists","Salary_2015":"$72,090 ","Salary_2017":"$63,660 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cd3"},"Job_Title":"Agricultural and Food Scientists","Salary_2015":"$62,470 ","Salary_2017":"$62,430 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cd4"},"Job_Title":"Animal Scientists","Salary_2015":"$60,390 ","Salary_2017":"$74,960 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cd5"},"Job_Title":"Food Scientists and Technologists","Salary_2015":"$65,840 ","Salary_2017":"$91,190 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cd6"},"Job_Title":"Soil and Plant Scientists","Salary_2015":"$60,050 ","Salary_2017":"$69,960 "}
+{"_id":{"$oid":"5adb7ba125149722c0704cd7"},"Job_Title":"Biological Scientists","Salary_2015":"$72,220 ","Salary_2017":"$62,290 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cd8"},"Job_Title":"Biochemists and Biophysicists","Salary_2015":"$82,150 ","Salary_2017":"$76,690 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cd9"},"Job_Title":"Microbiologists","Salary_2015":"$67,550 ","Salary_2017":"$60,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cda"},"Job_Title":"Zoologists and Wildlife Biologists","Salary_2015":"$59,680 ","Salary_2017":"$61,480 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cdb"},"Job_Title":"Biological Scientists, All Other","Salary_2015":"$75,150 ","Salary_2017":"$60,120 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cdc"},"Job_Title":"Conservation Scientists and Foresters","Salary_2015":"$60,220 ","Salary_2017":"$80,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cdd"},"Job_Title":"Conservation Scientists","Salary_2015":"$61,110 ","Salary_2017":"$69,660 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cde"},"Job_Title":"Foresters","Salary_2015":"$58,230 ","Salary_2017":"$82,090 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cdf"},"Job_Title":"Medical Scientists","Salary_2015":"$81,060 ","Salary_2017":"$74,540 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ce0"},"Job_Title":"Epidemiologists","Salary_2015":"$69,450 ","Salary_2017":"$74,540 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ce1"},"Job_Title":"Medical Scientists, Except Epidemiologists","Salary_2015":"$82,240 ","Salary_2017":"$78,790 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ce2"},"Job_Title":"Miscellaneous Life Scientists","Salary_2015":"$70,550 ","Salary_2017":"$117,220 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ce3"},"Job_Title":"Life Scientists, All Other","Salary_2015":"$70,550 ","Salary_2017":"$100,590 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ce4"},"Job_Title":"Physical Scientists","Salary_2015":"$76,140 ","Salary_2017":"$118,830 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ce5"},"Job_Title":"Astronomers and Physicists","Salary_2015":"$110,980 ","Salary_2017":"$92,070 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ce6"},"Job_Title":"Astronomers","Salary_2015":"$104,100 ","Salary_2017":"$92,070 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ce7"},"Job_Title":"Physicists","Salary_2015":"$111,580 ","Salary_2017":"$76,280 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ce8"},"Job_Title":"Atmospheric and Space Scientists","Salary_2015":"$89,820 ","Salary_2017":"$74,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ce9"},"Job_Title":"Chemists and Materials Scientists","Salary_2015":"$72,610 ","Salary_2017":"$73,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cea"},"Job_Title":"Chemists","Salary_2015":"$71,260 ","Salary_2017":"$69,400 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ceb"},"Job_Title":"Materials Scientists","Salary_2015":"$91,000 ","Salary_2017":"$89,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cec"},"Job_Title":"Environmental Scientists and Geoscientists","Salary_2015":"$71,740 ","Salary_2017":"$79,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ced"},"Job_Title":"Environmental Scientists and Specialists, Including Health","Salary_2015":"$67,460 ","Salary_2017":"$103,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cee"},"Job_Title":"Geoscientists, Except Hydrologists and Geographers","Salary_2015":"$89,700 ","Salary_2017":"$103,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cef"},"Job_Title":"Hydrologists","Salary_2015":"$79,550 ","Salary_2017":"$76,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cf0"},"Job_Title":"Miscellaneous Physical Scientists","Salary_2015":"$97,130 ","Salary_2017":"$102,490 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cf1"},"Job_Title":"Physical Scientists, All Other","Salary_2015":"$97,130 ","Salary_2017":"$102,490 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cf2"},"Job_Title":"Social Scientists and Related Workers","Salary_2015":"$72,570 ","Salary_2017":"$54,270 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cf3"},"Job_Title":"Economists","Salary_2015":"$99,180 ","Salary_2017":"$54,270 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cf4"},"Job_Title":"Survey Researchers","Salary_2015":"$53,920 ","Salary_2017":"$75,090 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cf5"},"Job_Title":"Psychologists","Salary_2015":"$72,580 ","Salary_2017":"$97,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cf6"},"Job_Title":"Clinical, Counseling, and School Psychologists","Salary_2015":"$70,580 ","Salary_2017":"$79,650 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cf7"},"Job_Title":"Industrial-Organizational Psychologists","Salary_2015":"$77,350 ","Salary_2017":"$79,650 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cf8"},"Job_Title":"Psychologists, All Other","Salary_2015":"$94,590 ","Salary_2017":"$71,490 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cf9"},"Job_Title":"Sociologists","Salary_2015":"$73,760 ","Salary_2017":"$71,490 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cfa"},"Job_Title":"Urban and Regional Planners","Salary_2015":"$68,220 ","Salary_2017":"$62,280 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cfb"},"Job_Title":"Miscellaneous Social Scientists and Related Workers","Salary_2015":"$74,640 ","Salary_2017":"$59,120 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cfc"},"Job_Title":"Anthropologists and Archeologists","Salary_2015":"$61,220 ","Salary_2017":"$115,110 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cfd"},"Job_Title":"Geographers","Salary_2015":"$74,260 ","Salary_2017":"$79,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cfe"},"Job_Title":"Historians","Salary_2015":"$55,800 ","Salary_2017":"$45,780 "}
+{"_id":{"$oid":"5adb7ba225149722c0704cff"},"Job_Title":"Political Scientists","Salary_2015":"$99,730 ","Salary_2017":"$39,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d00"},"Job_Title":"Social Scientists and Related Workers, All Other","Salary_2015":"$76,380 ","Salary_2017":"$39,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d01"},"Job_Title":"Life, Physical, and Social Science Technicians","Salary_2015":"$43,490 ","Salary_2017":"$43,800 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d02"},"Job_Title":"Agricultural and Food Science Technicians","Salary_2015":"$36,480 ","Salary_2017":"$43,800 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d03"},"Job_Title":"Biological Technicians","Salary_2015":"$41,650 ","Salary_2017":"$47,280 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d04"},"Job_Title":"Chemical Technicians","Salary_2015":"$44,660 ","Salary_2017":"$54,190 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d05"},"Job_Title":"Geological and Petroleum Technicians","Salary_2015":"$55,610 ","Salary_2017":"$80,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d06"},"Job_Title":"Nuclear Technicians","Salary_2015":"$80,260 ","Salary_2017":"$46,000 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d07"},"Job_Title":"Social Science Research Assistants","Salary_2015":"$42,480 ","Salary_2017":"$45,490 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d08"},"Job_Title":"Miscellaneous Life, Physical, and Social Science Technicians","Salary_2015":"$43,520 ","Salary_2017":"$36,130 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d09"},"Job_Title":"Environmental Science and Protection Technicians, Including Health","Salary_2015":"$43,030 ","Salary_2017":"$48,090 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d0a"},"Job_Title":"Forensic Science Technicians","Salary_2015":"$56,320 ","Salary_2017":"$43,840 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d0b"},"Job_Title":"Forest and Conservation Technicians","Salary_2015":"$35,430 ","Salary_2017":"$43,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d0c"},"Job_Title":"Life, Physical, and Social Science Technicians, All Other","Salary_2015":"$45,300 ","Salary_2017":"$46,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d0d"},"Job_Title":"Community and Social Service Occupations","Salary_2015":"$42,010 ","Salary_2017":"$55,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d0e"},"Job_Title":"Counselors, Social Workers, and Other Community and Social Service Specialists","Salary_2015":"$42,030 ","Salary_2017":"$48,790 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d0f"},"Job_Title":"Counselors","Salary_2015":"$45,160 ","Salary_2017":"$34,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d10"},"Job_Title":"Substance Abuse and Behavioral Disorder Counselors","Salary_2015":"$39,980 ","Salary_2017":"$43,300 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d11"},"Job_Title":"Educational, Guidance, School, and Vocational Counselors","Salary_2015":"$53,660 ","Salary_2017":"$43,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d12"},"Job_Title":"Marriage and Family Therapists","Salary_2015":"$48,600 ","Salary_2017":"$47,980 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d13"},"Job_Title":"Mental Health Counselors","Salary_2015":"$41,880 ","Salary_2017":"$44,380 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d14"},"Job_Title":"Rehabilitation Counselors","Salary_2015":"$34,390 ","Salary_2017":"$54,870 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d15"},"Job_Title":"Counselors, All Other","Salary_2015":"$45,530 ","Salary_2017":"$43,250 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d16"},"Job_Title":"Social Workers","Salary_2015":"$45,900 ","Salary_2017":"$61,980 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d17"},"Job_Title":"Child, Family, and School Social Workers","Salary_2015":"$42,350 ","Salary_2017":"$37,670 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d18"},"Job_Title":"Healthcare Social Workers","Salary_2015":"$52,380 ","Salary_2017":"$53,940 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d19"},"Job_Title":"Mental Health and Substance Abuse Social Workers","Salary_2015":"$42,170 ","Salary_2017":"$51,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d1a"},"Job_Title":"Social Workers, All Other","Salary_2015":"$58,560 ","Salary_2017":"$33,120 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d1b"},"Job_Title":"Miscellaneous Community and Social Service Specialists","Salary_2015":"$36,110 ","Salary_2017":"$38,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d1c"},"Job_Title":"Health Educators","Salary_2015":"$51,960 ","Salary_2017":"$41,570 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d1d"},"Job_Title":"Probation Officers and Correctional Treatment Specialists","Salary_2015":"$49,360 ","Salary_2017":"$43,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d1e"},"Job_Title":"Social and Human Service Assistants","Salary_2015":"$30,830 ","Salary_2017":"$47,100 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d1f"},"Job_Title":"Community Health Workers","Salary_2015":"$36,300 ","Salary_2017":"$47,100 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d20"},"Job_Title":"Community and Social Service Specialists, All Other","Salary_2015":"$41,890 ","Salary_2017":"$38,980 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d21"},"Job_Title":"Religious Workers","Salary_2015":"$41,550 ","Salary_2017":"$38,980 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d22"},"Job_Title":"Clergy","Salary_2015":"$44,250 ","Salary_2017":"$29,310 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d23"},"Job_Title":"Directors, Religious Activities and Education","Salary_2015":"$38,780 ","Salary_2017":"$80,080 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d24"},"Job_Title":"Miscellaneous Religious Workers","Salary_2015":"$28,750 ","Salary_2017":"$117,020 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d25"},"Job_Title":"Religious Workers, All Other","Salary_2015":"$28,750 ","Salary_2017":"$119,250 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d26"},"Job_Title":"Legal Occupations","Salary_2015":"$78,170 ","Salary_2017":"$51,330 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d27"},"Job_Title":"Lawyers, Judges, and Related Workers","Salary_2015":"$113,120 ","Salary_2017":"$105,840 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d28"},"Job_Title":"Lawyers and Judicial Law Clerks","Salary_2015":"$114,280 ","Salary_2017":"$94,790 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d29"},"Job_Title":"Lawyers","Salary_2015":"$115,820 ","Salary_2017":"$60,670 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d2a"},"Job_Title":"Judicial Law Clerks","Salary_2015":"$50,740 ","Salary_2017":"$133,840 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d2b"},"Job_Title":"Judges, Magistrates, and Other Judicial Workers","Salary_2015":"$99,870 ","Salary_2017":"$50,630 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d2c"},"Job_Title":"Administrative Law Judges, Adjudicators, and Hearing Officers","Salary_2015":"$90,600 ","Salary_2017":"$50,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d2d"},"Job_Title":"Arbitrators, Mediators, and Conciliators","Salary_2015":"$58,020 ","Salary_2017":"$50,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d2e"},"Job_Title":"Judges, Magistrate Judges, and Magistrates","Salary_2015":"$126,930 ","Salary_2017":"$51,290 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d2f"},"Job_Title":"Legal Support Workers","Salary_2015":"$48,680 ","Salary_2017":"$55,120 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d30"},"Job_Title":"Paralegals and Legal Assistants","Salary_2015":"$48,810 ","Salary_2017":"$46,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d31"},"Job_Title":"Miscellaneous Legal Support Workers","Salary_2015":"$48,310 ","Salary_2017":"$48,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d32"},"Job_Title":"Court Reporters","Salary_2015":"$49,500 ","Salary_2017":"$67,140 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d33"},"Job_Title":"Title Examiners, Abstractors, and Searchers","Salary_2015":"$44,370 ","Salary_2017":"$80,300 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d34"},"Job_Title":"Legal Support Workers, All Other","Salary_2015":"$53,920 ","Salary_2017":"$80,300 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d35"},"Job_Title":"Education, Training, and Library Occupations","Salary_2015":"$47,220 ","Salary_2017":"$73,780 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d36"},"Job_Title":"Postsecondary Teachers","Salary_2015":"$64,450 ","Salary_2017":"$78,630 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d37"},"Job_Title":"Business Teachers, Postsecondary","Salary_2015":"$75,370 ","Salary_2017":"$70,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d38"},"Job_Title":"Math and Computer Teachers, Postsecondary","Salary_2015":"$69,990 ","Salary_2017":"$80,050 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d39"},"Job_Title":"Computer Science Teachers, Postsecondary","Salary_2015":"$74,840 ","Salary_2017":"$98,360 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d3a"},"Job_Title":"Mathematical Science Teachers, Postsecondary","Salary_2015":"$67,170 ","Salary_2017":"$79,710 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d3b"},"Job_Title":"Engineering and Architecture Teachers, Postsecondary","Salary_2015":"$91,610 ","Salary_2017":"$86,140 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d3c"},"Job_Title":"Architecture Teachers, Postsecondary","Salary_2015":"$73,920 ","Salary_2017":"$78,240 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d3d"},"Job_Title":"Engineering Teachers, Postsecondary","Salary_2015":"$95,060 ","Salary_2017":"$87,420 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d3e"},"Job_Title":"Life Sciences Teachers, Postsecondary","Salary_2015":"$77,960 ","Salary_2017":"$81,230 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d3f"},"Job_Title":"Agricultural Sciences Teachers, Postsecondary","Salary_2015":"$90,780 ","Salary_2017":"$87,380 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d40"},"Job_Title":"Biological Science Teachers, Postsecondary","Salary_2015":"$75,320 ","Salary_2017":"$77,190 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d41"},"Job_Title":"Forestry and Conservation Science Teachers, Postsecondary","Salary_2015":"$88,270 ","Salary_2017":"$76,360 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d42"},"Job_Title":"Physical Sciences Teachers, Postsecondary","Salary_2015":"$79,020 ","Salary_2017":"$87,340 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d43"},"Job_Title":"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Salary_2015":"$83,150 ","Salary_2017":"$76,210 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d44"},"Job_Title":"Chemistry Teachers, Postsecondary","Salary_2015":"$75,060 ","Salary_2017":"$81,580 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d45"},"Job_Title":"Environmental Science Teachers, Postsecondary","Salary_2015":"$78,770 ","Salary_2017":"$72,230 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d46"},"Job_Title":"Physics Teachers, Postsecondary","Salary_2015":"$82,840 ","Salary_2017":"$98,350 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d47"},"Job_Title":"Social Sciences Teachers, Postsecondary","Salary_2015":"$73,490 ","Salary_2017":"$78,040 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d48"},"Job_Title":"Anthropology and Archeology Teachers, Postsecondary","Salary_2015":"$77,650 ","Salary_2017":"$81,430 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d49"},"Job_Title":"Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Salary_2015":"$72,300 ","Salary_2017":"$73,770 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d4a"},"Job_Title":"Economics Teachers, Postsecondary","Salary_2015":"$94,000 ","Salary_2017":"$73,080 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d4b"},"Job_Title":"Geography Teachers, Postsecondary","Salary_2015":"$75,400 ","Salary_2017":"$64,480 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d4c"},"Job_Title":"Political Science Teachers, Postsecondary","Salary_2015":"$76,370 ","Salary_2017":"$88,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d4d"},"Job_Title":"Psychology Teachers, Postsecondary","Salary_2015":"$70,260 ","Salary_2017":"$97,870 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d4e"},"Job_Title":"Sociology Teachers, Postsecondary","Salary_2015":"$69,230 ","Salary_2017":"$71,260 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d4f"},"Job_Title":"Social Sciences Teachers, Postsecondary, All Other","Salary_2015":"$67,490 ","Salary_2017":"$64,680 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d50"},"Job_Title":"Health Teachers, Postsecondary","Salary_2015":"$81,470 ","Salary_2017":"$64,020 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d51"},"Job_Title":"Health Specialties Teachers, Postsecondary","Salary_2015":"$90,840 ","Salary_2017":"$70,940 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d52"},"Job_Title":"Nursing Instructors and Teachers, Postsecondary","Salary_2015":"$67,480 ","Salary_2017":"$70,640 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d53"},"Job_Title":"Education and Library Science Teachers, Postsecondary","Salary_2015":"$62,040 ","Salary_2017":"$60,400 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d54"},"Job_Title":"Education Teachers, Postsecondary","Salary_2015":"$61,560 ","Salary_2017":"$104,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d55"},"Job_Title":"Library Science Teachers, Postsecondary","Salary_2015":"$67,660 ","Salary_2017":"$64,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d56"},"Job_Title":"Law, Criminal Justice, and Social Work Teachers, Postsecondary","Salary_2015":"$69,240 ","Salary_2017":"$66,940 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d57"},"Job_Title":"Criminal Justice and Law Enforcement Teachers, Postsecondary","Salary_2015":"$58,770 ","Salary_2017":"$66,930 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d58"},"Job_Title":"Law Teachers, Postsecondary","Salary_2015":"$105,250 ","Salary_2017":"$66,510 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d59"},"Job_Title":"Social Work Teachers, Postsecondary","Salary_2015":"$63,390 ","Salary_2017":"$64,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d5a"},"Job_Title":"Arts, Communications, and Humanities Teachers, Postsecondary","Salary_2015":"$64,120 ","Salary_2017":"$65,010 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d5b"},"Job_Title":"Art, Drama, and Music Teachers, Postsecondary","Salary_2015":"$65,340 ","Salary_2017":"$72,690 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d5c"},"Job_Title":"Communications Teachers, Postsecondary","Salary_2015":"$63,410 ","Salary_2017":"$69,590 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d5d"},"Job_Title":"English Language and Literature Teachers, Postsecondary","Salary_2015":"$61,990 ","Salary_2017":"$49,690 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d5e"},"Job_Title":"Foreign Language and Literature Teachers, Postsecondary","Salary_2015":"$61,380 ","Salary_2017":"$32,460 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d5f"},"Job_Title":"History Teachers, Postsecondary","Salary_2015":"$69,400 ","Salary_2017":"$71,630 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d60"},"Job_Title":"Philosophy and Religion Teachers, Postsecondary","Salary_2015":"$66,380 ","Salary_2017":"$60,150 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d61"},"Job_Title":"Miscellaneous Postsecondary Teachers","Salary_2015":"$47,780 ","Salary_2017":"$51,600 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d62"},"Job_Title":"Graduate Teaching Assistants","Salary_2015":"$30,810 ","Salary_2017":"$64,480 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d63"},"Job_Title":"Home Economics Teachers, Postsecondary","Salary_2015":"$64,950 ","Salary_2017":"$55,790 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d64"},"Job_Title":"Recreation and Fitness Studies Teachers, Postsecondary","Salary_2015":"$59,280 ","Salary_2017":"$33,540 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d65"},"Job_Title":"Vocational Education Teachers, Postsecondary","Salary_2015":"$49,470 ","Salary_2017":"$28,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d66"},"Job_Title":"Postsecondary Teachers, All Other","Salary_2015":"$63,000 ","Salary_2017":"$54,230 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d67"},"Job_Title":"Preschool, Primary, Secondary, and Special Education School Teachers","Salary_2015":"$53,860 ","Salary_2017":"$57,350 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d68"},"Job_Title":"Preschool and Kindergarten Teachers","Salary_2015":"$34,330 ","Salary_2017":"$57,160 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d69"},"Job_Title":"Preschool Teachers, Except Special Education","Salary_2015":"$28,570 ","Salary_2017":"$57,720 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d6a"},"Job_Title":"Kindergarten Teachers, Except Special Education","Salary_2015":"$51,640 ","Salary_2017":"$58,630 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d6b"},"Job_Title":"Elementary and Middle School Teachers","Salary_2015":"$55,200 ","Salary_2017":"$59,130 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d6c"},"Job_Title":"Elementary School Teachers, Except Special Education","Salary_2015":"$54,890 ","Salary_2017":"$59,170 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d6d"},"Job_Title":"Middle School Teachers, Except Special and Career/Technical Education","Salary_2015":"$55,860 ","Salary_2017":"$58,660 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d6e"},"Job_Title":"Career/Technical Education Teachers, Middle School","Salary_2015":"$55,190 ","Salary_2017":"$58,710 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d6f"},"Job_Title":"Secondary School Teachers","Salary_2015":"$57,110 ","Salary_2017":"$53,640 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d70"},"Job_Title":"Secondary School Teachers, Except Special and Career/Technical Education","Salary_2015":"$57,200 ","Salary_2017":"$58,600 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d71"},"Job_Title":"Career/Technical Education Teachers, Secondary School","Salary_2015":"$56,130 ","Salary_2017":"$59,510 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d72"},"Job_Title":"Special Education Teachers","Salary_2015":"$56,610 ","Salary_2017":"$60,180 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d73"},"Job_Title":"Special Education Teachers, Preschool","Salary_2015":"$53,990 ","Salary_2017":"$54,800 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d74"},"Job_Title":"Special Education Teachers, Kindergarten and Elementary School","Salary_2015":"$55,810 ","Salary_2017":"$32,460 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d75"},"Job_Title":"Special Education Teachers, Middle School","Salary_2015":"$57,280 ","Salary_2017":"$52,100 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d76"},"Job_Title":"Special Education Teachers, Secondary School","Salary_2015":"$58,500 ","Salary_2017":"$52,100 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d77"},"Job_Title":"Special Education Teachers, All Other","Salary_2015":"$53,920 ","Salary_2017":"$38,440 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d78"},"Job_Title":"Other Teachers and Instructors","Salary_2015":"$30,760 ","Salary_2017":"$38,440 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d79"},"Job_Title":"Adult Basic and Secondary Education and Literacy Teachers and Instructors","Salary_2015":"$50,280 ","Salary_2017":"$30,310 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d7a"},"Job_Title":"Self-Enrichment Education Teachers","Salary_2015":"$36,680 ","Salary_2017":"$28,270 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d7b"},"Job_Title":"Miscellaneous Teachers and Instructors","Salary_2015":"$28,960 ","Salary_2017":"$47,360 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d7c"},"Job_Title":"Teachers and Instructors, All Other, Except Substitute Teachers","Salary_2015":"$40,140 ","Salary_2017":"$51,760 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d7d"},"Job_Title":"Substitute Teachers","Salary_2015":"$26,830 ","Salary_2017":"$53,770 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d7e"},"Job_Title":"Librarians, Curators, and Archivists","Salary_2015":"$45,960 ","Salary_2017":"$40,670 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d7f"},"Job_Title":"Archivists, Curators, and Museum Technicians","Salary_2015":"$46,710 ","Salary_2017":"$58,520 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d80"},"Job_Title":"Archivists","Salary_2015":"$50,250 ","Salary_2017":"$58,520 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d81"},"Job_Title":"Curators","Salary_2015":"$51,520 ","Salary_2017":"$33,690 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d82"},"Job_Title":"Museum Technicians and Conservators","Salary_2015":"$40,340 ","Salary_2017":"$33,690 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d83"},"Job_Title":"Librarians","Salary_2015":"$56,880 ","Salary_2017":"$28,320 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d84"},"Job_Title":"Library Technicians","Salary_2015":"$32,310 ","Salary_2017":"$48,590 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d85"},"Job_Title":"Other Education, Training, and Library Occupations","Salary_2015":"$26,970 ","Salary_2017":"$49,510 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d86"},"Job_Title":"Audio-Visual and Multimedia Collections Specialists","Salary_2015":"$45,890 ","Salary_2017":"$63,750 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d87"},"Job_Title":"Farm and Home Management Advisors","Salary_2015":"$49,190 ","Salary_2017":"$26,260 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d88"},"Job_Title":"Instructional Coordinators","Salary_2015":"$62,270 ","Salary_2017":"$43,140 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d89"},"Job_Title":"Teacher Assistants","Salary_2015":"$24,900 ","Salary_2017":"$48,230 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d8a"},"Job_Title":"Miscellaneous Education, Training, and Library Workers","Salary_2015":"$40,380 ","Salary_2017":"$74,090 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d8b"},"Job_Title":"Education, Training, and Library Workers, All Other","Salary_2015":"$40,380 ","Salary_2017":"$92,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d8c"},"Job_Title":"Arts, Design, Entertainment, Sports, and Media Occupations","Salary_2015":"$46,160 ","Salary_2017":"$34,940 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d8d"},"Job_Title":"Art and Design Workers","Salary_2015":"$43,950 ","Salary_2017":"$49,520 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d8e"},"Job_Title":"Artists and Related Workers","Salary_2015":"$67,620 ","Salary_2017":"$70,530 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d8f"},"Job_Title":"Art Directors","Salary_2015":"$89,760 ","Salary_2017":"$63,540 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d90"},"Job_Title":"Craft Artists","Salary_2015":"$30,720 ","Salary_2017":"$41,480 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d91"},"Job_Title":"Fine Artists, Including Painters, Sculptors, and Illustrators","Salary_2015":"$46,460 ","Salary_2017":"$65,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d92"},"Job_Title":"Multimedia Artists and Animators","Salary_2015":"$63,970 ","Salary_2017":"$67,420 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d93"},"Job_Title":"Artists and Related Workers, All Other","Salary_2015":"$58,450 ","Salary_2017":"$26,350 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d94"},"Job_Title":"Designers","Salary_2015":"$40,530 ","Salary_2017":"$48,700 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d95"},"Job_Title":"Commercial and Industrial Designers","Salary_2015":"$67,130 ","Salary_2017":"$51,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d96"},"Job_Title":"Fashion Designers","Salary_2015":"$63,670 ","Salary_2017":"$27,680 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d97"},"Job_Title":"Floral Designers","Salary_2015":"$25,010 ","Salary_2017":"$53,090 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d98"},"Job_Title":"Graphic Designers","Salary_2015":"$46,900 ","Salary_2017":"$55,930 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d99"},"Job_Title":"Interior Designers","Salary_2015":"$48,840 ","Salary_2017":"$42,010 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d9a"},"Job_Title":"Merchandise Displayers and Window Trimmers","Salary_2015":"$26,870 ","Salary_2017":"$62,760 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d9b"},"Job_Title":"Set and Exhibit Designers","Salary_2015":"$49,530 ","Salary_2017":" $49,530.00 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d9c"},"Job_Title":"Designers, All Other","Salary_2015":"$53,280 ","Salary_2017":"$71,620 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d9d"},"Job_Title":"Entertainers and Performers, Sports and Related Workers","Salary_2015":"$40,030 ","Salary_2017":"$32,200 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d9e"},"Job_Title":"Actors, Producers, and Directors","Salary_2015":"$60,480 ","Salary_2017":"$51,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704d9f"},"Job_Title":"Actors","Salary_2015":"*","Salary_2017":"$32,270 "}
+{"_id":{"$oid":"5adb7ba225149722c0704da0"},"Job_Title":"Producers and Directors","Salary_2015":"$68,440 ","Salary_2017":"$26,800 "}
+{"_id":{"$oid":"5adb7ba225149722c0704da1"},"Job_Title":"Athletes, Coaches, Umpires, and Related Workers","Salary_2015":"$31,010 ","Salary_2017":"$35,680 "}
+{"_id":{"$oid":"5adb7ba225149722c0704da2"},"Job_Title":"Athletes and Sports Competitors","Salary_2015":"$44,680 ","Salary_2017":"$44,680 "}
+{"_id":{"$oid":"5adb7ba225149722c0704da3"},"Job_Title":"Coaches and Scouts","Salary_2015":"$31,000 ","Salary_2017":"$48,420 "}
+{"_id":{"$oid":"5adb7ba225149722c0704da4"},"Job_Title":"Umpires, Referees, and Other Sports Officials","Salary_2015":"$24,870 ","Salary_2017":"$24,870 "}
+{"_id":{"$oid":"5adb7ba225149722c0704da5"},"Job_Title":"Dancers and Choreographers","Salary_2015":"$35,050 ","Salary_2017":"$50,590 "}
+{"_id":{"$oid":"5adb7ba225149722c0704da6"},"Job_Title":"Choreographers","Salary_2015":"$45,940 ","Salary_2017":"$45,940 "}
+{"_id":{"$oid":"5adb7ba225149722c0704da7"},"Job_Title":"Music Directors and Composers","Salary_2015":"$49,820 ","Salary_2017":"$56,340 "}
+{"_id":{"$oid":"5adb7ba225149722c0704da8"},"Job_Title":"Musicians and Singers","Salary_2015":"*","Salary_2017":"$31,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704da9"},"Job_Title":"Miscellaneous Entertainers and Performers, Sports and Related Workers","Salary_2015":"*","Salary_2017":"$32,450 "}
+{"_id":{"$oid":"5adb7ba225149722c0704daa"},"Job_Title":"Entertainers and Performers, Sports and Related Workers, All Other","Salary_2015":"*","Salary_2017":"$28,440 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dab"},"Job_Title":"Media and Communication Workers","Salary_2015":"$53,530 ","Salary_2017":"$40,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dac"},"Job_Title":"Announcers","Salary_2015":"$30,080 ","Salary_2017":"$62,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dad"},"Job_Title":"Radio and Television Announcers","Salary_2015":"$30,960 ","Salary_2017":"$39,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dae"},"Job_Title":"Public Address System and Other Announcers","Salary_2015":"$26,930 ","Salary_2017":"$59,300 "}
+{"_id":{"$oid":"5adb7ba225149722c0704daf"},"Job_Title":"News Analysts, Reporters and Correspondents","Salary_2015":"$37,720 ","Salary_2017":"$59,300 "}
+{"_id":{"$oid":"5adb7ba225149722c0704db0"},"Job_Title":"Broadcast News Analysts","Salary_2015":"$65,530 ","Salary_2017":"$62,720 "}
+{"_id":{"$oid":"5adb7ba225149722c0704db1"},"Job_Title":"Reporters and Correspondents","Salary_2015":"$36,360 ","Salary_2017":"$58,770 "}
+{"_id":{"$oid":"5adb7ba225149722c0704db2"},"Job_Title":"Public Relations Specialists","Salary_2015":"$56,770 ","Salary_2017":"$70,930 "}
+{"_id":{"$oid":"5adb7ba225149722c0704db3"},"Job_Title":"Writers and Editors","Salary_2015":"$60,820 ","Salary_2017":"$47,360 "}
+{"_id":{"$oid":"5adb7ba225149722c0704db4"},"Job_Title":"Editors","Salary_2015":"$56,010 ","Salary_2017":"$47,190 "}
+{"_id":{"$oid":"5adb7ba225149722c0704db5"},"Job_Title":"Technical Writers","Salary_2015":"$70,240 ","Salary_2017":"$47,900 "}
+{"_id":{"$oid":"5adb7ba225149722c0704db6"},"Job_Title":"Writers and Authors","Salary_2015":"$60,250 ","Salary_2017":"$45,570 "}
+{"_id":{"$oid":"5adb7ba225149722c0704db7"},"Job_Title":"Miscellaneous Media and Communication Workers","Salary_2015":"$44,480 ","Salary_2017":"$42,660 "}
+{"_id":{"$oid":"5adb7ba225149722c0704db8"},"Job_Title":"Interpreters and Translators","Salary_2015":"$44,190 ","Salary_2017":"$42,190 "}
+{"_id":{"$oid":"5adb7ba225149722c0704db9"},"Job_Title":"Media and Communication Workers, All Other","Salary_2015":"$45,220 ","Salary_2017":"$39,060 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dba"},"Job_Title":"Media and Communication Equipment Workers","Salary_2015":"$43,480 ","Salary_2017":"$44,330 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dbb"},"Job_Title":"Broadcast and Sound Engineering Technicians and Radio Operators","Salary_2015":"$41,860 ","Salary_2017":"$55,810 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dbc"},"Job_Title":"Audio and Video Equipment Technicians","Salary_2015":"$41,440 ","Salary_2017":"$32,490 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dbd"},"Job_Title":"Broadcast Technicians","Salary_2015":"$37,490 ","Salary_2017":"$32,490 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dbe"},"Job_Title":"Radio Operators","Salary_2015":"$50,040 ","Salary_2017":"$58,210 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dbf"},"Job_Title":"Sound Engineering Technicians","Salary_2015":"$53,330 ","Salary_2017":"$53,550 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dc0"},"Job_Title":"Photographers","Salary_2015":"$31,710 ","Salary_2017":"$61,180 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dc1"},"Job_Title":"Television, Video, and Motion Picture Camera Operators and Editors","Salary_2015":"$55,740 ","Salary_2017":"$79,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dc2"},"Job_Title":"Camera Operators, Television, Video, and Motion Picture","Salary_2015":"$49,080 ","Salary_2017":"$64,770 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dc3"},"Job_Title":"Film and Video Editors","Salary_2015":"$61,750 ","Salary_2017":"$79,480 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dc4"},"Job_Title":"Miscellaneous Media and Communication Equipment Workers","Salary_2015":"$70,590 ","Salary_2017":"$68,640 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dc5"},"Job_Title":"Media and Communication Equipment Workers, All Other","Salary_2015":"$70,590 ","Salary_2017":"$68,640 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dc6"},"Job_Title":"Healthcare Practitioners and Technical Occupations","Salary_2015":"$62,610 ","Salary_2017":"$158,120 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dc7"},"Job_Title":"Health Diagnosing and Treating Practitioners","Salary_2015":"$76,760 ","Salary_2017":"$151,440 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dc8"},"Job_Title":"Chiropractors","Salary_2015":"$64,440 ","Salary_2017":"$64,440 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dc9"},"Job_Title":"Dentists","Salary_2015":"$158,310 ","Salary_2017":"$185,150 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dca"},"Job_Title":"Dentists, General","Salary_2015":"$152,700 ","Salary_2017":"$190,840 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dcb"},"Job_Title":"Oral and Maxillofacial Surgeons","Salary_2015":"#","Salary_2017":"$59,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dcc"},"Job_Title":"Orthodontists","Salary_2015":"#","Salary_2017":"$59,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dcd"},"Job_Title":"Prosthodontists","Salary_2015":"$119,740 ","Salary_2017":"$110,300 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dce"},"Job_Title":"Dentists, All Other Specialists","Salary_2015":"$171,000 ","Salary_2017":"$110,300 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dcf"},"Job_Title":"Dietitians and Nutritionists","Salary_2015":"$57,910 ","Salary_2017":"$124,170 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dd0"},"Job_Title":"Optometrists","Salary_2015":"$103,900 ","Salary_2017":"$103,900 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dd1"},"Job_Title":"Pharmacists","Salary_2015":"$121,500 ","Salary_2017":"$198,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dd2"},"Job_Title":"Anesthesiologists","Salary_2015":"#","Salary_2017":"$172,650 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dd3"},"Job_Title":"Family and General Practitioners","Salary_2015":"$184,390 ","Salary_2017":"$184,390 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dd4"},"Job_Title":"Internists, General","Salary_2015":" $188,200.00 ","Salary_2017":" $191,880.00 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dd5"},"Job_Title":"Obstetricians and Gynecologists","Salary_2015":" $192,430.00 ","Salary_2017":" $207,220.00 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dd6"},"Job_Title":"Pediatricians, General","Salary_2015":"$170,300 ","Salary_2017":"$104,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dd7"},"Job_Title":"Psychiatrists","Salary_2015":"#","Salary_2017":"$104,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dd8"},"Job_Title":"Surgeons","Salary_2015":"#","Salary_2017":"$127,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dd9"},"Job_Title":"Physicians and Surgeons, All Other","Salary_2015":"#","Salary_2017":"$127,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dda"},"Job_Title":"Physician Assistants","Salary_2015":"$98,180 ","Salary_2017":"$76,530 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ddb"},"Job_Title":"Podiatrists","Salary_2015":"$119,340 ","Salary_2017":"$86,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ddc"},"Job_Title":"Therapists","Salary_2015":"$73,900 ","Salary_2017":"$47,680 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ddd"},"Job_Title":"Occupational Therapists","Salary_2015":"$80,150 ","Salary_2017":"$59,710 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dde"},"Job_Title":"Physical Therapists","Salary_2015":"$84,020 ","Salary_2017":"$76,610 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ddf"},"Job_Title":"Radiation Therapists","Salary_2015":"$80,220 ","Salary_2017":"$49,090 "}
+{"_id":{"$oid":"5adb7ba225149722c0704de0"},"Job_Title":"Recreational Therapists","Salary_2015":"$45,890 ","Salary_2017":"$53,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704de1"},"Job_Title":"Respiratory Therapists","Salary_2015":"$57,790 ","Salary_2017":"$90,420 "}
+{"_id":{"$oid":"5adb7ba225149722c0704de2"},"Job_Title":"Speech-Language Pathologists","Salary_2015":"$73,410 ","Salary_2017":"$90,420 "}
+{"_id":{"$oid":"5adb7ba225149722c0704de3"},"Job_Title":"Exercise Physiologists","Salary_2015":"$47,010 ","Salary_2017":"$70,000 "}
+{"_id":{"$oid":"5adb7ba225149722c0704de4"},"Job_Title":"Therapists, All Other","Salary_2015":"$56,010 ","Salary_2017":"$70,000 "}
+{"_id":{"$oid":"5adb7ba225149722c0704de5"},"Job_Title":"Veterinarians","Salary_2015":"$88,490 ","Salary_2017":"$165,120 "}
+{"_id":{"$oid":"5adb7ba225149722c0704de6"},"Job_Title":"Registered Nurses","Salary_2015":"$67,490 ","Salary_2017":"$100,590 "}
+{"_id":{"$oid":"5adb7ba225149722c0704de7"},"Job_Title":"Nurse Anesthetists","Salary_2015":"$157,140 ","Salary_2017":"$103,880 "}
+{"_id":{"$oid":"5adb7ba225149722c0704de8"},"Job_Title":"Nurse Midwives","Salary_2015":"$92,510 ","Salary_2017":"$75,920 "}
+{"_id":{"$oid":"5adb7ba225149722c0704de9"},"Job_Title":"Nurse Practitioners","Salary_2015":"$98,190 ","Salary_2017":"$73,830 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dea"},"Job_Title":"Audiologists","Salary_2015":"$74,890 ","Salary_2017":"$43,590 "}
+{"_id":{"$oid":"5adb7ba225149722c0704deb"},"Job_Title":"Miscellaneous Health Diagnosing and Treating Practitioners","Salary_2015":"$74,710 ","Salary_2017":"$51,770 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dec"},"Job_Title":"Health Diagnosing and Treating Practitioners, All Other","Salary_2015":"$74,710 ","Salary_2017":"$74,070 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ded"},"Job_Title":"Health Technologists and Technicians","Salary_2015":"$42,190 ","Salary_2017":"$74,070 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dee"},"Job_Title":"Clinical Laboratory Technologists and Technicians","Salary_2015":"$50,550 ","Salary_2017":"$62,350 "}
+{"_id":{"$oid":"5adb7ba225149722c0704def"},"Job_Title":"Medical and Clinical Laboratory Technologists","Salary_2015":"$60,520 ","Salary_2017":"$55,270 "}
+{"_id":{"$oid":"5adb7ba225149722c0704df0"},"Job_Title":"Medical and Clinical Laboratory Technicians","Salary_2015":"$38,970 ","Salary_2017":"$71,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704df1"},"Job_Title":"Dental Hygienists","Salary_2015":"$72,330 ","Salary_2017":"$75,660 "}
+{"_id":{"$oid":"5adb7ba225149722c0704df2"},"Job_Title":"Diagnostic Related Technologists and Technicians","Salary_2015":"$60,400 ","Salary_2017":"$69,930 "}
+{"_id":{"$oid":"5adb7ba225149722c0704df3"},"Job_Title":"Cardiovascular Technologists and Technicians","Salary_2015":"$54,880 ","Salary_2017":"$33,380 "}
+{"_id":{"$oid":"5adb7ba225149722c0704df4"},"Job_Title":"Diagnostic Medical Sonographers","Salary_2015":"$68,970 ","Salary_2017":"$33,380 "}
+{"_id":{"$oid":"5adb7ba225149722c0704df5"},"Job_Title":"Nuclear Medicine Technologists","Salary_2015":"$73,360 ","Salary_2017":"$33,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704df6"},"Job_Title":"Radiologic Technologists","Salary_2015":"$56,670 ","Salary_2017":"$26,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704df7"},"Job_Title":"Magnetic Resonance Imaging Technologists","Salary_2015":"$67,720 ","Salary_2017":"$31,750 "}
+{"_id":{"$oid":"5adb7ba225149722c0704df8"},"Job_Title":"Emergency Medical Technicians and Paramedics","Salary_2015":"$31,980 ","Salary_2017":"$31,670 "}
+{"_id":{"$oid":"5adb7ba225149722c0704df9"},"Job_Title":"Health Practitioner Support Technologists and Technicians","Salary_2015":"$32,680 ","Salary_2017":"$46,310 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dfa"},"Job_Title":"Dietetic Technicians","Salary_2015":"$26,040 ","Salary_2017":"$33,400 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dfb"},"Job_Title":"Pharmacy Technicians","Salary_2015":"$30,410 ","Salary_2017":"$35,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dfc"},"Job_Title":"Psychiatric Technicians","Salary_2015":"$31,140 ","Salary_2017":"$45,030 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dfd"},"Job_Title":"Respiratory Therapy Technicians","Salary_2015":"$48,490 ","Salary_2017":"$45,030 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dfe"},"Job_Title":"Surgical Technologists","Salary_2015":"$44,330 ","Salary_2017":"$39,180 "}
+{"_id":{"$oid":"5adb7ba225149722c0704dff"},"Job_Title":"Veterinary Technologists and Technicians","Salary_2015":"$31,800 ","Salary_2017":"$39,180 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e00"},"Job_Title":"Ophthalmic Medical Technicians","Salary_2015":"$35,350 ","Salary_2017":"$36,250 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e01"},"Job_Title":"Licensed Practical and Licensed Vocational Nurses","Salary_2015":"$43,170 ","Salary_2017":"$36,250 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e02"},"Job_Title":"Medical Records and Health Information Technicians","Salary_2015":"$37,110 ","Salary_2017":"$66,240 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e03"},"Job_Title":"Opticians, Dispensing","Salary_2015":"$34,840 ","Salary_2017":"$41,800 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e04"},"Job_Title":"Miscellaneous Health Technologists and Technicians","Salary_2015":"$42,730 ","Salary_2017":"$67,720 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e05"},"Job_Title":"Orthotists and Prosthetists","Salary_2015":"$64,430 ","Salary_2017":"$71,780 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e06"},"Job_Title":"Hearing Aid Specialists","Salary_2015":"$49,600 ","Salary_2017":"$49,960 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e07"},"Job_Title":"Health Technologists and Technicians, All Other","Salary_2015":"$41,260 ","Salary_2017":"$49,340 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e08"},"Job_Title":"Other Healthcare Practitioners and Technical Occupations","Salary_2015":"$57,990 ","Salary_2017":"$46,630 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e09"},"Job_Title":"Occupational Health and Safety Specialists and Technicians","Salary_2015":"$65,920 ","Salary_2017":"$77,480 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e0a"},"Job_Title":"Occupational Health and Safety Specialists","Salary_2015":"$70,210 ","Salary_2017":"$51,530 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e0b"},"Job_Title":"Occupational Health and Safety Technicians","Salary_2015":"$48,070 ","Salary_2017":"$28,710 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e0c"},"Job_Title":"Miscellaneous Health Practitioners and Technical Workers","Salary_2015":"$47,090 ","Salary_2017":"$25,610 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e0d"},"Job_Title":"Athletic Trainers","Salary_2015":"$44,670 ","Salary_2017":"$25,610 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e0e"},"Job_Title":"Genetic Counselors","Salary_2015":"$72,090 ","Salary_2017":"$23,210 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e0f"},"Job_Title":"Healthcare Practitioners and Technical Workers, All Other","Salary_2015":"$48,270 ","Salary_2017":"$27,110 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e10"},"Job_Title":"Healthcare Support Occupations","Salary_2015":"$27,040 ","Salary_2017":"$27,520 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e11"},"Job_Title":"Nursing, Psychiatric, and Home Health Aides","Salary_2015":"$24,040 ","Salary_2017":"$27,180 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e12"},"Job_Title":"Home Health Aides","Salary_2015":"$21,920 ","Salary_2017":"$56,690 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e13"},"Job_Title":"Psychiatric Aides","Salary_2015":"$26,190 ","Salary_2017":"$59,310 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e14"},"Job_Title":"Nursing Assistants","Salary_2015":"$25,710 ","Salary_2017":"$29,200 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e15"},"Job_Title":"Orderlies","Salary_2015":"$25,580 ","Salary_2017":"$46,920 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e16"},"Job_Title":"Occupational Therapy and Physical Therapist Assistants and Aides","Salary_2015":"$46,720 ","Salary_2017":"$57,430 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e17"},"Job_Title":"Occupational Therapy Assistants and Aides","Salary_2015":"$54,520 ","Salary_2017":"$25,730 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e18"},"Job_Title":"Occupational Therapy Assistants","Salary_2015":"$57,870 ","Salary_2017":"$33,920 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e19"},"Job_Title":"Occupational Therapy Aides","Salary_2015":"$27,800 ","Salary_2017":"$39,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e1a"},"Job_Title":"Physical Therapist Assistants and Aides","Salary_2015":"$42,980 ","Salary_2017":"$39,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e1b"},"Job_Title":"Physical Therapist Assistants","Salary_2015":"$55,170 ","Salary_2017":"$33,660 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e1c"},"Job_Title":"Physical Therapist Aides","Salary_2015":"$25,120 ","Salary_2017":"$37,630 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e1d"},"Job_Title":"Other Healthcare Support Occupations","Salary_2015":"$32,210 ","Salary_2017":"$32,480 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e1e"},"Job_Title":"Massage Therapists","Salary_2015":"$38,040 ","Salary_2017":"$35,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e1f"},"Job_Title":"Miscellaneous Healthcare Support Occupations","Salary_2015":"$31,950 ","Salary_2017":"$26,120 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e20"},"Job_Title":"Dental Assistants","Salary_2015":"$35,980 ","Salary_2017":"$26,140 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e21"},"Job_Title":"Medical Assistants","Salary_2015":"$30,590 ","Salary_2017":"$33,670 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e22"},"Job_Title":"Medical Equipment Preparers","Salary_2015":"$33,330 ","Salary_2017":"$37,220 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e23"},"Job_Title":"Medical Transcriptionists","Salary_2015":"$34,890 ","Salary_2017":"$39,550 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e24"},"Job_Title":"Pharmacy Aides","Salary_2015":"$24,450 ","Salary_2017":"$69,440 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e25"},"Job_Title":"Veterinary Assistants and Laboratory Animal Caretakers","Salary_2015":"$24,360 ","Salary_2017":"$80,120 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e26"},"Job_Title":"Phlebotomists","Salary_2015":"$31,630 ","Salary_2017":"$62,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e27"},"Job_Title":"Healthcare Support Workers, All Other","Salary_2015":"$35,780 ","Salary_2017":"$87,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e28"},"Job_Title":"Protective Service Occupations","Salary_2015":"$37,730 ","Salary_2017":"$76,170 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e29"},"Job_Title":"Supervisors of Protective Service Workers","Salary_2015":"$66,060 ","Salary_2017":"$76,170 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e2a"},"Job_Title":"First-Line Supervisors of Law Enforcement Workers","Salary_2015":"$75,250 ","Salary_2017":"$49,430 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e2b"},"Job_Title":"First-Line Supervisors of Correctional Officers","Salary_2015":"$59,720 ","Salary_2017":"$49,430 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e2c"},"Job_Title":"First-Line Supervisors of Police and Detectives","Salary_2015":"$82,090 ","Salary_2017":"$49,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e2d"},"Job_Title":"First-Line Supervisors of Fire Fighting and Prevention Workers","Salary_2015":"$72,230 ","Salary_2017":"$49,080 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e2e"},"Job_Title":"Miscellaneous First-Line Supervisors, Protective Service Workers","Salary_2015":"$46,900 ","Salary_2017":"$56,670 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e2f"},"Job_Title":"First-Line Supervisors of Protective Service Workers, All Other","Salary_2015":"$46,900 ","Salary_2017":"$59,260 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e30"},"Job_Title":"Fire Fighting and Prevention Workers","Salary_2015":"$47,250 ","Salary_2017":"$37,380 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e31"},"Job_Title":"Firefighters","Salary_2015":"$46,870 ","Salary_2017":"$54,520 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e32"},"Job_Title":"Fire Inspectors","Salary_2015":"$54,790 ","Salary_2017":"$42,960 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e33"},"Job_Title":"Fire Inspectors and Investigators","Salary_2015":"$56,730 ","Salary_2017":"$43,540 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e34"},"Job_Title":"Forest Fire Inspectors and Prevention Specialists","Salary_2015":"$36,650 ","Salary_2017":"$79,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e35"},"Job_Title":"Law Enforcement Workers","Salary_2015":"$52,070 ","Salary_2017":"$79,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e36"},"Job_Title":"Bailiffs, Correctional Officers, and Jailers","Salary_2015":"$40,580 ","Salary_2017":"$56,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e37"},"Job_Title":"Bailiffs","Salary_2015":"$41,670 ","Salary_2017":"$56,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e38"},"Job_Title":"Correctional Officers and Jailers","Salary_2015":"$40,530 ","Salary_2017":"$39,030 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e39"},"Job_Title":"Detectives and Criminal Investigators","Salary_2015":"$77,210 ","Salary_2017":"$39,030 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e3a"},"Job_Title":"Fish and Game Wardens","Salary_2015":"$52,780 ","Salary_2017":"$61,050 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e3b"},"Job_Title":"Parking Enforcement Workers","Salary_2015":"$36,530 ","Salary_2017":"$27,150 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e3c"},"Job_Title":"Police Officers","Salary_2015":"$58,330 ","Salary_2017":"$35,520 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e3d"},"Job_Title":"Police and Sheriff's Patrol Officers","Salary_2015":"$58,320 ","Salary_2017":"$50,700 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e3e"},"Job_Title":"Transit and Railroad Police","Salary_2015":"$59,670 ","Salary_2017":"$50,700 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e3f"},"Job_Title":"Other Protective Service Workers","Salary_2015":"$24,870 ","Salary_2017":"$26,960 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e40"},"Job_Title":"Animal Control Workers","Salary_2015":"$33,450 ","Salary_2017":"$33,260 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e41"},"Job_Title":"Private Detectives and Investigators","Salary_2015":"$45,610 ","Salary_2017":"$26,160 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e42"},"Job_Title":"Security Guards and Gaming Surveillance Officers","Salary_2015":"$24,680 ","Salary_2017":"$21,290 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e43"},"Job_Title":"Gaming Surveillance Officers and Gaming Investigators","Salary_2015":"$31,170 ","Salary_2017":"$40,580 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e44"},"Job_Title":"Security Guards","Salary_2015":"$24,630 ","Salary_2017":"$30,240 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e45"},"Job_Title":"Miscellaneous Protective Service Workers","Salary_2015":"$24,280 ","Salary_2017":"$21,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e46"},"Job_Title":"Crossing Guards","Salary_2015":"$25,100 ","Salary_2017":"$33,400 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e47"},"Job_Title":"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Salary_2015":"$19,500 ","Salary_2017":"$33,400 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e48"},"Job_Title":"Transportation Security Screeners","Salary_2015":"$39,310 ","Salary_2017":"$45,950 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e49"},"Job_Title":"Protective Service Workers, All Other","Salary_2015":"$28,650 ","Salary_2017":"$31,960 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e4a"},"Job_Title":"Food Preparation and Serving Related Occupations","Salary_2015":"$19,580 ","Salary_2017":"$23,620 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e4b"},"Job_Title":"Supervisors of Food Preparation and Serving Workers","Salary_2015":"$31,420 ","Salary_2017":"$23,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e4c"},"Job_Title":"Chefs and Head Cooks","Salary_2015":"$41,500 ","Salary_2017":"$25,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e4d"},"Job_Title":"First-Line Supervisors of Food Preparation and Serving Workers","Salary_2015":"$30,340 ","Salary_2017":"$38,280 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e4e"},"Job_Title":"Cooks and Food Preparation Workers","Salary_2015":"$21,310 ","Salary_2017":"$25,180 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e4f"},"Job_Title":"Cooks","Salary_2015":"$21,720 ","Salary_2017":"$22,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e50"},"Job_Title":"Cooks, Fast Food","Salary_2015":"$19,080 ","Salary_2017":"$27,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e51"},"Job_Title":"Cooks, Institution and Cafeteria","Salary_2015":"$23,960 ","Salary_2017":"$22,730 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e52"},"Job_Title":"Cooks, Private Household","Salary_2015":"$26,300 ","Salary_2017":"$22,730 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e53"},"Job_Title":"Cooks, Restaurant","Salary_2015":"$23,100 ","Salary_2017":"$20,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e54"},"Job_Title":"Cooks, Short Order","Salary_2015":"$20,780 ","Salary_2017":"$21,690 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e55"},"Job_Title":"Cooks, All Other","Salary_2015":"$26,350 ","Salary_2017":"$21,690 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e56"},"Job_Title":"Food Preparation Workers","Salary_2015":"$20,180 ","Salary_2017":"$20,240 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e57"},"Job_Title":"Food and Beverage Serving Workers","Salary_2015":"$19,110 ","Salary_2017":"$21,280 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e58"},"Job_Title":"Bartenders","Salary_2015":"$19,530 ","Salary_2017":"$20,820 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e59"},"Job_Title":"Fast Food and Counter Workers","Salary_2015":"$18,960 ","Salary_2017":"$22,320 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e5a"},"Job_Title":"Combined Food Preparation and Serving Workers, Including Fast Food","Salary_2015":"$18,910 ","Salary_2017":"$22,320 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e5b"},"Job_Title":"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop","Salary_2015":"$19,230 ","Salary_2017":"$21,490 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e5c"},"Job_Title":"Waiters and Waitresses","Salary_2015":"$19,250 ","Salary_2017":"$21,160 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e5d"},"Job_Title":"Food Servers, Nonrestaurant","Salary_2015":"$20,420 ","Salary_2017":"$21,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e5e"},"Job_Title":"Other Food Preparation and Serving Related Workers","Salary_2015":"$19,290 ","Salary_2017":"$20,930 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e5f"},"Job_Title":"Dining Room and Cafeteria Attendants and Bartender Helpers","Salary_2015":"$19,280 ","Salary_2017":"$20,930 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e60"},"Job_Title":"Dishwashers","Salary_2015":"$19,340 ","Salary_2017":"$22,620 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e61"},"Job_Title":"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Salary_2015":"$19,180 ","Salary_2017":"$42,190 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e62"},"Job_Title":"Miscellaneous Food Preparation and Serving Related Workers","Salary_2015":"$20,380 ","Salary_2017":"$39,230 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e63"},"Job_Title":"Food Preparation and Serving Related Workers, All Other","Salary_2015":"$20,380 ","Salary_2017":"$47,030 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e64"},"Job_Title":"Building and Grounds Cleaning and Maintenance Occupations","Salary_2015":"$23,860 ","Salary_2017":"$24,360 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e65"},"Job_Title":"Supervisors of Building and Grounds Cleaning and Maintenance Workers","Salary_2015":"$39,440 ","Salary_2017":"$24,240 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e66"},"Job_Title":"First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers","Salary_2015":"$39,440 ","Salary_2017":"$24,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e67"},"Job_Title":"First-Line Supervisors of Housekeeping and Janitorial Workers","Salary_2015":"$37,050 ","Salary_2017":"$22,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e68"},"Job_Title":"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","Salary_2015":"$43,980 ","Salary_2017":"$29,060 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e69"},"Job_Title":"Building Cleaning and Pest Control Workers","Salary_2015":"$22,740 ","Salary_2017":"$34,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e6a"},"Job_Title":"Building Cleaning Workers","Salary_2015":"$22,590 ","Salary_2017":"$34,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e6b"},"Job_Title":"Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Salary_2015":"$23,440 ","Salary_2017":"$28,110 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e6c"},"Job_Title":"Maids and Housekeeping Cleaners","Salary_2015":"$20,740 ","Salary_2017":"$28,110 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e6d"},"Job_Title":"Building Cleaning Workers, All Other","Salary_2015":"$29,250 ","Salary_2017":"$27,670 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e6e"},"Job_Title":"Pest Control Workers","Salary_2015":"$32,160 ","Salary_2017":"$34,830 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e6f"},"Job_Title":"Grounds Maintenance Workers","Salary_2015":"$25,610 ","Salary_2017":"$30,060 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e70"},"Job_Title":"Landscaping and Groundskeeping Workers","Salary_2015":"$25,030 ","Salary_2017":"$38,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e71"},"Job_Title":"Pesticide Handlers, Sprayers, and Applicators, Vegetation","Salary_2015":"$32,540 ","Salary_2017":"$48,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e72"},"Job_Title":"Tree Trimmers and Pruners","Salary_2015":"$33,500 ","Salary_2017":"$48,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e73"},"Job_Title":"Grounds Maintenance Workers, All Other","Salary_2015":"$29,220 ","Salary_2017":"$37,450 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e74"},"Job_Title":"Personal Care and Service Occupations","Salary_2015":"$21,850 ","Salary_2017":"$37,450 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e75"},"Job_Title":"Supervisors of Personal Care and Service Workers","Salary_2015":"$36,840 ","Salary_2017":"$23,160 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e76"},"Job_Title":"First-Line Supervisors of Gaming Workers","Salary_2015":"$46,160 ","Salary_2017":"$28,880 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e77"},"Job_Title":"Gaming Supervisors","Salary_2015":"$49,730 ","Salary_2017":"$28,880 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e78"},"Job_Title":"Slot Supervisors","Salary_2015":"$35,680 ","Salary_2017":"$22,950 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e79"},"Job_Title":"First-Line Supervisors of Personal Service Workers","Salary_2015":"$35,710 ","Salary_2017":"$22,950 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e7a"},"Job_Title":"Animal Care and Service Workers","Salary_2015":"$21,260 ","Salary_2017":"$20,230 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e7b"},"Job_Title":"Animal Trainers","Salary_2015":"$26,610 ","Salary_2017":"$19,820 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e7c"},"Job_Title":"Nonfarm Animal Caretakers","Salary_2015":"$21,010 ","Salary_2017":"$27,040 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e7d"},"Job_Title":"Entertainment Attendants and Related Workers","Salary_2015":"$19,320 ","Salary_2017":"$22,050 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e7e"},"Job_Title":"Gaming Services Workers","Salary_2015":"$19,220 ","Salary_2017":"$20,820 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e7f"},"Job_Title":"Gaming Dealers","Salary_2015":"$19,000 ","Salary_2017":"$20,820 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e80"},"Job_Title":"Gaming and Sports Book Writers and Runners","Salary_2015":"$22,700 ","Salary_2017":"$21,370 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e81"},"Job_Title":"Gaming Service Workers, All Other","Salary_2015":"$24,040 ","Salary_2017":"$21,060 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e82"},"Job_Title":"Motion Picture Projectionists","Salary_2015":"$21,490 ","Salary_2017":"$42,620 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e83"},"Job_Title":"Ushers, Lobby Attendants, and Ticket Takers","Salary_2015":"$19,180 ","Salary_2017":"$24,200 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e84"},"Job_Title":"Miscellaneous Entertainment Attendants and Related Workers","Salary_2015":"$19,410 ","Salary_2017":"$42,780 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e85"},"Job_Title":"Amusement and Recreation Attendants","Salary_2015":"$19,280 ","Salary_2017":"$42,780 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e86"},"Job_Title":"Costume Attendants","Salary_2015":"$44,500 ","Salary_2017":"$25,050 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e87"},"Job_Title":"Locker Room, Coatroom, and Dressing Room Attendants","Salary_2015":"$21,020 ","Salary_2017":"$25,050 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e88"},"Job_Title":"Entertainment Attendants and Related Workers, All Other","Salary_2015":"$22,720 ","Salary_2017":"$51,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e89"},"Job_Title":"Funeral Service Workers","Salary_2015":"$30,770 ","Salary_2017":"$51,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e8a"},"Job_Title":"Embalmers","Salary_2015":"$40,410 ","Salary_2017":"$24,410 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e8b"},"Job_Title":"Funeral Attendants","Salary_2015":"$23,770 ","Salary_2017":"$25,650 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e8c"},"Job_Title":"Morticians, Undertakers, and Funeral Directors","Salary_2015":"$48,490 ","Salary_2017":"$23,790 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e8d"},"Job_Title":"Personal Appearance Workers","Salary_2015":"$23,240 ","Salary_2017":"$23,230 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e8e"},"Job_Title":"Barbers, Hairdressers, Hairstylists and Cosmetologists","Salary_2015":"$23,710 ","Salary_2017":"$20,320 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e8f"},"Job_Title":"Barbers","Salary_2015":"$24,850 ","Salary_2017":"$30,080 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e90"},"Job_Title":"Hairdressers, Hairstylists, and Cosmetologists","Salary_2015":"$23,660 ","Salary_2017":"$25,700 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e91"},"Job_Title":"Miscellaneous Personal Appearance Workers","Salary_2015":"$22,150 ","Salary_2017":"$25,700 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e92"},"Job_Title":"Makeup Artists, Theatrical and Performance","Salary_2015":"$53,230 ","Salary_2017":"$23,230 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e93"},"Job_Title":"Manicurists and Pedicurists","Salary_2015":"$20,820 ","Salary_2017":"$30,150 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e94"},"Job_Title":"Shampooers","Salary_2015":"$19,290 ","Salary_2017":"$25,770 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e95"},"Job_Title":"Skincare Specialists","Salary_2015":"$30,090 ","Salary_2017":"$25,770 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e96"},"Job_Title":"Baggage Porters, Bellhops, and Concierges","Salary_2015":"$24,130 ","Salary_2017":"$25,770 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e97"},"Job_Title":"Baggage Porters and Bellhops","Salary_2015":"$21,160 ","Salary_2017":"$22,290 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e98"},"Job_Title":"Concierges","Salary_2015":"$29,030 ","Salary_2017":"$22,290 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e99"},"Job_Title":"Tour and Travel Guides","Salary_2015":"$24,650 ","Salary_2017":"$23,100 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e9a"},"Job_Title":"Tour Guides and Escorts","Salary_2015":"$24,100 ","Salary_2017":"$28,550 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e9b"},"Job_Title":"Travel Guides","Salary_2015":"$34,180 ","Salary_2017":"$39,210 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e9c"},"Job_Title":"Other Personal Care and Service Workers","Salary_2015":"$21,640 ","Salary_2017":"$24,540 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e9d"},"Job_Title":"Childcare Workers","Salary_2015":"$20,320 ","Salary_2017":"$26,830 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e9e"},"Job_Title":"Personal Care Aides","Salary_2015":"$20,980 ","Salary_2017":"$25,900 "}
+{"_id":{"$oid":"5adb7ba225149722c0704e9f"},"Job_Title":"Recreation and Fitness Workers","Salary_2015":"$26,550 ","Salary_2017":"$27,020 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ea0"},"Job_Title":"Fitness Trainers and Aerobics Instructors","Salary_2015":"$36,160 ","Salary_2017":"$41,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ea1"},"Job_Title":"Recreation Workers","Salary_2015":"$23,320 ","Salary_2017":"$41,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ea2"},"Job_Title":"Residential Advisors","Salary_2015":"$24,990 ","Salary_2017":"$38,550 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ea3"},"Job_Title":"Miscellaneous Personal Care and Service Workers","Salary_2015":"$22,310 ","Salary_2017":"$22,400 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ea4"},"Job_Title":"Personal Care and Service Workers, All Other","Salary_2015":"$22,310 ","Salary_2017":"$21,050 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ea5"},"Job_Title":"Sales and Related Occupations","Salary_2015":"$25,660 ","Salary_2017":"$21,030 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ea6"},"Job_Title":"Supervisors of Sales Workers","Salary_2015":"$41,330 ","Salary_2017":"$23,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ea7"},"Job_Title":"First-Line Supervisors of Sales Workers","Salary_2015":"$41,330 ","Salary_2017":"$27,130 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ea8"},"Job_Title":"First-Line Supervisors of Retail Sales Workers","Salary_2015":"$38,310 ","Salary_2017":"$25,820 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ea9"},"Job_Title":"First-Line Supervisors of Non-Retail Sales Workers","Salary_2015":"$72,300 ","Salary_2017":"$29,380 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eaa"},"Job_Title":"Retail Sales Workers","Salary_2015":"$20,470 ","Salary_2017":"$23,210 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eab"},"Job_Title":"Cashiers","Salary_2015":"$19,320 ","Salary_2017":"$23,210 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eac"},"Job_Title":"Gaming Change Persons and Booth Cashiers","Salary_2015":"$22,930 ","Salary_2017":"$49,680 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ead"},"Job_Title":"Counter and Rental Clerks and Parts Salespersons","Salary_2015":"$26,160 ","Salary_2017":"$49,680 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eae"},"Job_Title":"Counter and Rental Clerks","Salary_2015":"$24,440 ","Salary_2017":"$49,710 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eaf"},"Job_Title":"Parts Salespersons","Salary_2015":"$29,650 ","Salary_2017":"$49,710 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eb0"},"Job_Title":"Retail Salespersons","Salary_2015":"$21,780 ","Salary_2017":"$63,780 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eb1"},"Job_Title":"Sales Representatives, Services","Salary_2015":"$51,540 ","Salary_2017":"$36,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eb2"},"Job_Title":"Advertising Sales Agents","Salary_2015":"$48,490 ","Salary_2017":"$36,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eb3"},"Job_Title":"Insurance Sales Agents","Salary_2015":"$48,200 ","Salary_2017":"$52,510 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eb4"},"Job_Title":"Securities, Commodities, and Financial Services Sales Agents","Salary_2015":"$71,550 ","Salary_2017":"$60,340 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eb5"},"Job_Title":"Travel Agents","Salary_2015":"$35,660 ","Salary_2017":"$56,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eb6"},"Job_Title":"Miscellaneous Sales Representatives, Services","Salary_2015":"$51,700 ","Salary_2017":"$26,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eb7"},"Job_Title":"Sales Representatives, Services, All Other","Salary_2015":"$51,700 ","Salary_2017":"$27,060 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eb8"},"Job_Title":"Sales Representatives, Wholesale and Manufacturing","Salary_2015":"$59,080 ","Salary_2017":"$22,900 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eb9"},"Job_Title":"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Salary_2015":"$76,190 ","Salary_2017":"$56,730 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eba"},"Job_Title":"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products","Salary_2015":"$55,730 ","Salary_2017":"$45,990 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ebb"},"Job_Title":"Other Sales and Related Workers","Salary_2015":"$30,870 ","Salary_2017":"$98,720 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ebc"},"Job_Title":"Models, Demonstrators, and Product Promoters","Salary_2015":"$24,970 ","Salary_2017":"$98,720 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ebd"},"Job_Title":"Demonstrators and Product Promoters","Salary_2015":"$24,940 ","Salary_2017":"$24,460 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ebe"},"Job_Title":"Models","Salary_2015":"$27,530 ","Salary_2017":"$24,460 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ebf"},"Job_Title":"Real Estate Brokers and Sales Agents","Salary_2015":"$45,610 ","Salary_2017":"$32,840 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ec0"},"Job_Title":"Real Estate Brokers","Salary_2015":"$56,860 ","Salary_2017":"$23,810 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ec1"},"Job_Title":"Real Estate Sales Agents","Salary_2015":"$43,370 ","Salary_2017":"$33,890 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ec2"},"Job_Title":"Sales Engineers","Salary_2015":"$97,650 ","Salary_2017":"$34,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ec3"},"Job_Title":"Telemarketers","Salary_2015":"$23,530 ","Salary_2017":"$55,060 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ec4"},"Job_Title":"Miscellaneous Sales and Related Workers","Salary_2015":"$31,940 ","Salary_2017":"$29,160 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ec5"},"Job_Title":"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers","Salary_2015":"$22,210 ","Salary_2017":"$28,700 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ec6"},"Job_Title":"Sales and Related Workers, All Other","Salary_2015":"$33,240 ","Salary_2017":"$28,700 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ec7"},"Job_Title":"Office and Administrative Support Occupations","Salary_2015":"$33,200 ","Salary_2017":"$36,320 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ec8"},"Job_Title":"Supervisors of Office and Administrative Support Workers","Salary_2015":"$52,630 ","Salary_2017":"$36,320 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ec9"},"Job_Title":"First-Line Supervisors of Office and Administrative Support Workers","Salary_2015":"$52,630 ","Salary_2017":"$41,480 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eca"},"Job_Title":"Communications Equipment Operators","Salary_2015":"$28,010 ","Salary_2017":"$36,520 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ecb"},"Job_Title":"Switchboard Operators, Including Answering Service","Salary_2015":"$27,440 ","Salary_2017":"$35,330 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ecc"},"Job_Title":"Telephone Operators","Salary_2015":"$35,880 ","Salary_2017":"$36,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ecd"},"Job_Title":"Miscellaneous Communications Equipment Operators","Salary_2015":"$40,330 ","Salary_2017":"$39,240 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ece"},"Job_Title":"Communications Equipment Operators, All Other","Salary_2015":"$40,330 ","Salary_2017":"$39,240 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ecf"},"Job_Title":"Financial Clerks","Salary_2015":"$34,830 ","Salary_2017":"$26,320 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ed0"},"Job_Title":"Bill and Account Collectors","Salary_2015":"$34,440 ","Salary_2017":"$26,320 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ed1"},"Job_Title":"Billing and Posting Clerks","Salary_2015":"$35,050 ","Salary_2017":"$43,890 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ed2"},"Job_Title":"Bookkeeping, Accounting, and Auditing Clerks","Salary_2015":"$37,250 ","Salary_2017":"$41,910 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ed3"},"Job_Title":"Gaming Cage Workers","Salary_2015":"$25,860 ","Salary_2017":"$28,110 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ed4"},"Job_Title":"Payroll and Timekeeping Clerks","Salary_2015":"$41,000 ","Salary_2017":"$39,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ed5"},"Job_Title":"Procurement Clerks","Salary_2015":"$40,600 ","Salary_2017":"$49,800 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ed6"},"Job_Title":"Tellers","Salary_2015":"$26,410 ","Salary_2017":"$36,620 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ed7"},"Job_Title":"Miscellaneous Financial Clerks","Salary_2015":"$40,080 ","Salary_2017":"$37,300 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ed8"},"Job_Title":"Financial Clerks, All Other","Salary_2015":"$40,080 ","Salary_2017":"$37,300 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ed9"},"Job_Title":"Information and Record Clerks","Salary_2015":"$31,010 ","Salary_2017":"$37,290 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eda"},"Job_Title":"Brokerage Clerks","Salary_2015":"$48,180 ","Salary_2017":"$37,290 "}
+{"_id":{"$oid":"5adb7ba225149722c0704edb"},"Job_Title":"Correspondence Clerks","Salary_2015":"$35,320 ","Salary_2017":"$32,890 "}
+{"_id":{"$oid":"5adb7ba225149722c0704edc"},"Job_Title":"Court, Municipal, and License Clerks","Salary_2015":"$35,850 ","Salary_2017":"$44,400 "}
+{"_id":{"$oid":"5adb7ba225149722c0704edd"},"Job_Title":"Credit Authorizers, Checkers, and Clerks","Salary_2015":"$35,280 ","Salary_2017":"$30,120 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ede"},"Job_Title":"Customer Service Representatives","Salary_2015":"$31,720 ","Salary_2017":"$22,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704edf"},"Job_Title":"Eligibility Interviewers, Government Programs","Salary_2015":"$43,170 ","Salary_2017":"$33,110 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ee0"},"Job_Title":"File Clerks","Salary_2015":"$27,850 ","Salary_2017":"$25,810 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ee1"},"Job_Title":"Hotel, Motel, and Resort Desk Clerks","Salary_2015":"$21,040 ","Salary_2017":"$39,060 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ee2"},"Job_Title":"Interviewers, Except Eligibility and Loan","Salary_2015":"$31,410 ","Salary_2017":"$35,260 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ee3"},"Job_Title":"Library Assistants, Clerical","Salary_2015":"$24,480 ","Salary_2017":"$33,510 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ee4"},"Job_Title":"Loan Interviewers and Clerks","Salary_2015":"$37,710 ","Salary_2017":"$39,480 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ee5"},"Job_Title":"New Accounts Clerks","Salary_2015":"$34,880 ","Salary_2017":"$28,390 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ee6"},"Job_Title":"Order Clerks","Salary_2015":"$32,330 ","Salary_2017":"$36,280 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ee7"},"Job_Title":"Human Resources Assistants, Except Payroll and Timekeeping","Salary_2015":"$38,100 ","Salary_2017":"$39,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ee8"},"Job_Title":"Receptionists and Information Clerks","Salary_2015":"$27,300 ","Salary_2017":"$41,820 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ee9"},"Job_Title":"Reservation and Transportation Ticket Agents and Travel Clerks","Salary_2015":"$35,170 ","Salary_2017":"$28,250 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eea"},"Job_Title":"Miscellaneous Information and Record Clerks","Salary_2015":"$37,990 ","Salary_2017":"$39,090 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eeb"},"Job_Title":"Information and Record Clerks, All Other","Salary_2015":"$37,990 ","Salary_2017":"$39,640 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eec"},"Job_Title":"Material Recording, Scheduling, Dispatching, and Distributing Workers","Salary_2015":"$29,780 ","Salary_2017":"$38,790 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eed"},"Job_Title":"Cargo and Freight Agents","Salary_2015":"$41,870 ","Salary_2017":"$39,240 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eee"},"Job_Title":"Couriers and Messengers","Salary_2015":"$27,280 ","Salary_2017":"$57,260 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eef"},"Job_Title":"Dispatchers","Salary_2015":"$37,440 ","Salary_2017":"$57,000 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ef0"},"Job_Title":"Police, Fire, and Ambulance Dispatchers","Salary_2015":"$38,010 ","Salary_2017":"$57,260 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ef1"},"Job_Title":"Dispatchers, Except Police, Fire, and Ambulance","Salary_2015":"$37,150 ","Salary_2017":"$46,670 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ef2"},"Job_Title":"Meter Readers, Utilities","Salary_2015":"$38,510 ","Salary_2017":"$46,670 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ef3"},"Job_Title":"Postal Service Workers","Salary_2015":"$56,790 ","Salary_2017":"$31,810 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ef4"},"Job_Title":"Postal Service Clerks","Salary_2015":"$56,790 ","Salary_2017":"$24,470 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ef5"},"Job_Title":"Postal Service Mail Carriers","Salary_2015":"$58,280 ","Salary_2017":"$24,470 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ef6"},"Job_Title":"Postal Service Mail Sorters, Processors, and Processing Machine Operators","Salary_2015":"$56,740 ","Salary_2017":"$30,180 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ef7"},"Job_Title":"Production, Planning, and Expediting Clerks","Salary_2015":"$46,150 ","Salary_2017":"$30,180 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ef8"},"Job_Title":"Shipping, Receiving, and Traffic Clerks","Salary_2015":"$30,450 ","Salary_2017":"$37,870 "}
+{"_id":{"$oid":"5adb7ba225149722c0704ef9"},"Job_Title":"Stock Clerks and Order Fillers","Salary_2015":"$23,220 ","Salary_2017":"$44,730 "}
+{"_id":{"$oid":"5adb7ba225149722c0704efa"},"Job_Title":"Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Salary_2015":"$28,690 ","Salary_2017":"$35,590 "}
+{"_id":{"$oid":"5adb7ba225149722c0704efb"},"Job_Title":"Secretaries and Administrative Assistants","Salary_2015":"$36,500 ","Salary_2017":"$44,270 "}
+{"_id":{"$oid":"5adb7ba225149722c0704efc"},"Job_Title":"Executive Secretaries and Executive Administrative Assistants","Salary_2015":"$53,370 ","Salary_2017":"$32,960 "}
+{"_id":{"$oid":"5adb7ba225149722c0704efd"},"Job_Title":"Legal Secretaries","Salary_2015":"$43,200 ","Salary_2017":"$30,930 "}
+{"_id":{"$oid":"5adb7ba225149722c0704efe"},"Job_Title":"Medical Secretaries","Salary_2015":"$33,040 ","Salary_2017":"$39,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704eff"},"Job_Title":"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","Salary_2015":"$33,910 ","Salary_2017":"$42,350 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f00"},"Job_Title":"Other Office and Administrative Support Workers","Salary_2015":"$30,520 ","Salary_2017":"$42,350 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f01"},"Job_Title":"Computer Operators","Salary_2015":"$40,420 ","Salary_2017":"$38,790 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f02"},"Job_Title":"Data Entry and Information Processing Workers","Salary_2015":"$31,180 ","Salary_2017":"$29,620 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f03"},"Job_Title":"Data Entry Keyers","Salary_2015":"$29,460 ","Salary_2017":"$29,620 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f04"},"Job_Title":"Word Processors and Typists","Salary_2015":"$37,610 ","Salary_2017":"$31,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f05"},"Job_Title":"Desktop Publishers","Salary_2015":"$39,840 ","Salary_2017":"$31,500 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f06"},"Job_Title":"Insurance Claims and Policy Processing Clerks","Salary_2015":"$37,530 ","Salary_2017":"$31,360 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f07"},"Job_Title":"Mail Clerks and Mail Machine Operators, Except Postal Service","Salary_2015":"$28,570 ","Salary_2017":"$37,550 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f08"},"Job_Title":"Office Clerks, General","Salary_2015":"$29,580 ","Salary_2017":"$47,400 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f09"},"Job_Title":"Office Machine Operators, Except Computer","Salary_2015":"$29,010 ","Salary_2017":"$35,590 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f0a"},"Job_Title":"Proofreaders and Copy Markers","Salary_2015":"$35,630 ","Salary_2017":"$46,570 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f0b"},"Job_Title":"Statistical Assistants","Salary_2015":"$42,700 ","Salary_2017":"$46,570 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f0c"},"Job_Title":"Miscellaneous Office and Administrative Support Workers","Salary_2015":"$32,590 ","Salary_2017":"$43,390 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f0d"},"Job_Title":"Office and Administrative Support Workers, All Other","Salary_2015":"$32,590 ","Salary_2017":"$43,390 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f0e"},"Job_Title":"Farming, Fishing, and Forestry Occupations","Salary_2015":"$21,760 ","Salary_2017":"$37,560 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f0f"},"Job_Title":"Supervisors of Farming, Fishing, and Forestry Workers","Salary_2015":"$45,340 ","Salary_2017":"$37,560 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f10"},"Job_Title":"First-Line Supervisors of Farming, Fishing, and Forestry Workers","Salary_2015":"$45,340 ","Salary_2017":"$23,340 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f11"},"Job_Title":"Agricultural Workers","Salary_2015":"$20,500 ","Salary_2017":"$23,710 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f12"},"Job_Title":"Agricultural Inspectors","Salary_2015":"$43,380 ","Salary_2017":"$30,110 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f13"},"Job_Title":"Animal Breeders","Salary_2015":"$39,380 ","Salary_2017":"$25,470 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f14"},"Job_Title":"Graders and Sorters, Agricultural Products","Salary_2015":"$21,100 ","Salary_2017":"$28,530 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f15"},"Job_Title":"Miscellaneous Agricultural Workers","Salary_2015":"$20,080 ","Salary_2017":"$28,310 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f16"},"Job_Title":"Agricultural Equipment Operators","Salary_2015":"$27,840 ","Salary_2017":"$37,460 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f17"},"Job_Title":"Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Salary_2015":"$19,770 ","Salary_2017":"$27,650 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f18"},"Job_Title":"Farmworkers, Farm, Ranch, and Aquacultural Animals","Salary_2015":"$23,750 ","Salary_2017":"$27,650 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f19"},"Job_Title":"Agricultural Workers, All Other","Salary_2015":"$29,830 ","Salary_2017":"$38,840 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f1a"},"Job_Title":"Fishing and Hunting Workers","Salary_2015":"$28,100 ","Salary_2017":"$40,690 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f1b"},"Job_Title":"Fishers and Related Fishing Workers","Salary_2015":"$27,340 ","Salary_2017":"$38,390 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f1c"},"Job_Title":"Forest, Conservation, and Logging Workers","Salary_2015":"$35,150 ","Salary_2017":"$39,740 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f1d"},"Job_Title":"Forest and Conservation Workers","Salary_2015":"$26,190 ","Salary_2017":"$44,730 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f1e"},"Job_Title":"Logging Workers","Salary_2015":"$36,210 ","Salary_2017":"$64,070 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f1f"},"Job_Title":"Fallers","Salary_2015":"$36,400 ","Salary_2017":"$64,070 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f20"},"Job_Title":"Logging Equipment Operators","Salary_2015":"$36,290 ","Salary_2017":"$43,490 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f21"},"Job_Title":"Log Graders and Scalers","Salary_2015":"$36,110 ","Salary_2017":"$62,260 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f22"},"Job_Title":"Logging Workers, All Other","Salary_2015":"$35,620 ","Salary_2017":"$62,260 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f23"},"Job_Title":"Construction and Extraction Occupations","Salary_2015":"$42,280 ","Salary_2017":"$48,200 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f24"},"Job_Title":"Supervisors of Construction and Extraction Workers","Salary_2015":"$62,070 ","Salary_2017":"$49,770 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f25"},"Job_Title":"First-Line Supervisors of Construction Trades and Extraction Workers","Salary_2015":"$62,070 ","Salary_2017":"$38,940 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f26"},"Job_Title":"Construction Trades Workers","Salary_2015":"$41,020 ","Salary_2017":"$45,170 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f27"},"Job_Title":"Boilermakers","Salary_2015":"$60,120 ","Salary_2017":"$40,250 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f28"},"Job_Title":"Brickmasons, Blockmasons, and Stonemasons","Salary_2015":"$46,420 ","Salary_2017":"$40,040 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f29"},"Job_Title":"Brickmasons and Blockmasons","Salary_2015":"$47,950 ","Salary_2017":"$36,950 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f2a"},"Job_Title":"Stonemasons","Salary_2015":"$38,630 ","Salary_2017":"$41,680 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f2b"},"Job_Title":"Carpenters","Salary_2015":"$42,090 ","Salary_2017":"$40,650 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f2c"},"Job_Title":"Carpet, Floor, and Tile Installers and Finishers","Salary_2015":"$38,230 ","Salary_2017":"$40,590 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f2d"},"Job_Title":"Carpet Installers","Salary_2015":"$37,220 ","Salary_2017":"$34,530 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f2e"},"Job_Title":"Floor Layers, Except Carpet, Wood, and Hard Tiles","Salary_2015":"$37,030 ","Salary_2017":"$34,530 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f2f"},"Job_Title":"Floor Sanders and Finishers","Salary_2015":"$36,930 ","Salary_2017":"$46,080 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f30"},"Job_Title":"Tile and Marble Setters","Salary_2015":"$39,400 ","Salary_2017":"$39,120 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f31"},"Job_Title":"Cement Masons, Concrete Finishers, and Terrazzo Workers","Salary_2015":"$37,780 ","Salary_2017":"$57,650 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f32"},"Job_Title":"Cement Masons and Concrete Finishers","Salary_2015":"$37,740 ","Salary_2017":"$47,040 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f33"},"Job_Title":"Terrazzo Workers and Finishers","Salary_2015":"$40,710 ","Salary_2017":"$43,970 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f34"},"Job_Title":"Construction Laborers","Salary_2015":"$31,910 ","Salary_2017":"$42,860 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f35"},"Job_Title":"Construction Equipment Operators","Salary_2015":"$43,810 ","Salary_2017":"$54,110 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f36"},"Job_Title":"Paving, Surfacing, and Tamping Equipment Operators","Salary_2015":"$38,270 ","Salary_2017":"$54,110 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f37"},"Job_Title":"Pile-Driver Operators","Salary_2015":"$49,430 ","Salary_2017":"$42,580 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f38"},"Job_Title":"Operating Engineers and Other Construction Equipment Operators","Salary_2015":"$44,600 ","Salary_2017":"$42,580 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f39"},"Job_Title":"Drywall Installers, Ceiling Tile Installers, and Tapers","Salary_2015":"$40,470 ","Salary_2017":"$39,930 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f3a"},"Job_Title":"Drywall and Ceiling Tile Installers","Salary_2015":"$39,220 ","Salary_2017":"$37,050 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f3b"},"Job_Title":"Tapers","Salary_2015":"$47,970 ","Salary_2017":"$45,550 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f3c"},"Job_Title":"Electricians","Salary_2015":"$51,880 ","Salary_2017":"$37,950 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f3d"},"Job_Title":"Glaziers","Salary_2015":"$39,440 ","Salary_2017":"$37,030 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f3e"},"Job_Title":"Insulation Workers","Salary_2015":"$38,630 ","Salary_2017":"$38,400 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f3f"},"Job_Title":"Insulation Workers, Floor, Ceiling, and Wall","Salary_2015":"$35,040 ","Salary_2017":"$52,590 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f40"},"Job_Title":"Insulation Workers, Mechanical","Salary_2015":"$43,610 ","Salary_2017":"$40,750 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f41"},"Job_Title":"Painters and Paperhangers","Salary_2015":"$36,550 ","Salary_2017":"$40,750 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f42"},"Job_Title":"Painters, Construction and Maintenance","Salary_2015":"$36,580 ","Salary_2017":"$46,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f43"},"Job_Title":"Paperhangers","Salary_2015":"$33,590 ","Salary_2017":"$46,850 "}
+{"_id":{"$oid":"5adb7ba225149722c0704f44"},"Job_Title":"Pipelayers, Plumbers, Pipefitters, and Steamfitters","Salary_2015":"$49,340 ","Salary_2017":"$38,970 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f45"},"Job_Title":"Pipelayers","Salary_2015":"$37,780 ","Salary_2017":"$38,970 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f46"},"Job_Title":"Plumbers, Pipefitters, and Steamfitters","Salary_2015":"$50,620 ","Salary_2017":"$47,990 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f47"},"Job_Title":"Plasterers and Stucco Masons","Salary_2015":"$37,320 ","Salary_2017":"$47,990 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f48"},"Job_Title":"Reinforcing Iron and Rebar Workers","Salary_2015":"$48,010 ","Salary_2017":"$52,610 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f49"},"Job_Title":"Roofers","Salary_2015":"$36,720 ","Salary_2017":"$39,490 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f4a"},"Job_Title":"Sheet Metal Workers","Salary_2015":"$45,750 ","Salary_2017":"$30,120 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f4b"},"Job_Title":"Structural Iron and Steel Workers","Salary_2015":"$50,490 ","Salary_2017":"$29,860 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f4c"},"Job_Title":"Solar Photovoltaic Installers","Salary_2015":"$37,830 ","Salary_2017":"$28,760 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f4d"},"Job_Title":"Helpers, Construction Trades","Salary_2015":"$28,380 ","Salary_2017":"$28,500 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f4e"},"Job_Title":"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Salary_2015":"$29,320 ","Salary_2017":"$44,090 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f4f"},"Job_Title":"Helpers--Carpenters","Salary_2015":"$27,890 ","Salary_2017":"$59,090 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f50"},"Job_Title":"Helpers--Electricians","Salary_2015":"$28,730 ","Salary_2017":"$59,090 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f51"},"Job_Title":"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Salary_2015":"$26,480 ","Salary_2017":"$79,480 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f52"},"Job_Title":"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Salary_2015":"$28,500 ","Salary_2017":"$79,480 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f53"},"Job_Title":"Helpers--Roofers","Salary_2015":"$27,110 ","Salary_2017":"$33,320 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f54"},"Job_Title":"Helpers, Construction Trades, All Other","Salary_2015":"$28,510 ","Salary_2017":"$33,320 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f55"},"Job_Title":"Other Construction and Related Workers","Salary_2015":"$41,930 ","Salary_2017":"$41,400 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f56"},"Job_Title":"Construction and Building Inspectors","Salary_2015":"$57,340 ","Salary_2017":"$41,400 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f57"},"Job_Title":"Elevator Installers and Repairers","Salary_2015":"$80,870 ","Salary_2017":"$38,700 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f58"},"Job_Title":"Fence Erectors","Salary_2015":"$32,450 ","Salary_2017":"$56,060 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f59"},"Job_Title":"Hazardous Materials Removal Workers","Salary_2015":"$39,690 ","Salary_2017":"$37,950 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f5a"},"Job_Title":"Highway Maintenance Workers","Salary_2015":"$36,930 ","Salary_2017":"$38,040 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f5b"},"Job_Title":"Rail-Track Laying and Maintenance Equipment Operators","Salary_2015":"$52,830 ","Salary_2017":"$49,000 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f5c"},"Job_Title":"Septic Tank Servicers and Sewer Pipe Cleaners","Salary_2015":"$35,370 ","Salary_2017":"$53,980 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f5d"},"Job_Title":"Miscellaneous Construction and Related Workers","Salary_2015":"$36,000 ","Salary_2017":"$43,850 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f5e"},"Job_Title":"Segmental Pavers","Salary_2015":"$30,730 ","Salary_2017":"$43,850 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f5f"},"Job_Title":"Construction and Related Workers, All Other","Salary_2015":"$36,300 ","Salary_2017":"$49,650 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f60"},"Job_Title":"Extraction Workers","Salary_2015":"$42,680 ","Salary_2017":"$49,650 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f61"},"Job_Title":"Derrick, Rotary Drill, and Service Unit Operators, Oil, Gas, and Mining","Salary_2015":"$47,240 ","Salary_2017":"$53,200 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f62"},"Job_Title":"Derrick Operators, Oil and Gas","Salary_2015":"$47,910 ","Salary_2017":"$54,620 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f63"},"Job_Title":"Rotary Drill Operators, Oil and Gas","Salary_2015":"$54,310 ","Salary_2017":"$52,270 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f64"},"Job_Title":"Service Unit Operators, Oil, Gas, and Mining","Salary_2015":"$45,000 ","Salary_2017":"$48,850 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f65"},"Job_Title":"Earth Drillers, Except Oil and Gas","Salary_2015":"$44,240 ","Salary_2017":"$34,350 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f66"},"Job_Title":"Explosives Workers, Ordnance Handling Experts, and Blasters","Salary_2015":"$50,210 ","Salary_2017":"$58,450 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f67"},"Job_Title":"Mining Machine Operators","Salary_2015":"$49,560 ","Salary_2017":"$36,960 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f68"},"Job_Title":"Continuous Mining Machine Operators","Salary_2015":"$48,620 ","Salary_2017":"$36,960 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f69"},"Job_Title":"Mine Cutting and Channeling Machine Operators","Salary_2015":"$51,810 ","Salary_2017":"$35,710 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f6a"},"Job_Title":"Mining Machine Operators, All Other","Salary_2015":"$48,550 ","Salary_2017":"$35,710 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f6b"},"Job_Title":"Rock Splitters, Quarry","Salary_2015":"$33,820 ","Salary_2017":"$49,230 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f6c"},"Job_Title":"Roof Bolters, Mining","Salary_2015":"$54,950 ","Salary_2017":"$44,520 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f6d"},"Job_Title":"Roustabouts, Oil and Gas","Salary_2015":"$36,510 ","Salary_2017":"$64,780 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f6e"},"Job_Title":"Helpers--Extraction Workers","Salary_2015":"$35,760 ","Salary_2017":"$49,530 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f6f"},"Job_Title":"Miscellaneous Extraction Workers","Salary_2015":"$44,370 ","Salary_2017":"$37,710 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f70"},"Job_Title":"Extraction Workers, All Other","Salary_2015":"$44,370 ","Salary_2017":"$53,590 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f71"},"Job_Title":"Installation, Maintenance, and Repair Occupations","Salary_2015":"$42,790 ","Salary_2017":"$56,000 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f72"},"Job_Title":"Supervisors of Installation, Maintenance, and Repair Workers","Salary_2015":"$63,010 ","Salary_2017":"$53,380 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f73"},"Job_Title":"First-Line Supervisors of Mechanics, Installers, and Repairers","Salary_2015":"$63,010 ","Salary_2017":"$51,630 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f74"},"Job_Title":"Electrical and Electronic Equipment Mechanics, Installers, and Repairers","Salary_2015":"$48,470 ","Salary_2017":"$42,580 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f75"},"Job_Title":"Computer, Automated Teller, and Office Machine Repairers","Salary_2015":"$36,840 ","Salary_2017":"$60,840 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f76"},"Job_Title":"Radio and Telecommunications Equipment Installers and Repairers","Salary_2015":"$54,390 ","Salary_2017":"$78,410 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f77"},"Job_Title":"Radio, Cellular, and Tower Equipment Installers and Repairers","Salary_2015":"$51,660 ","Salary_2017":"$34,530 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f78"},"Job_Title":"Telecommunications Equipment Installers and Repairers, Except Line Installers","Salary_2015":"$54,570 ","Salary_2017":"$37,190 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f79"},"Job_Title":"Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers","Salary_2015":"$49,750 ","Salary_2017":"$45,670 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f7a"},"Job_Title":"Avionics Technicians","Salary_2015":"$58,540 ","Salary_2017":"$42,130 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f7b"},"Job_Title":"Electric Motor, Power Tool, and Related Repairers","Salary_2015":"$40,520 ","Salary_2017":"$61,020 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f7c"},"Job_Title":"Electrical and Electronics Installers and Repairers, Transportation Equipment","Salary_2015":"$58,990 ","Salary_2017":"$61,020 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f7d"},"Job_Title":"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Salary_2015":"$55,690 ","Salary_2017":"$39,780 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f7e"},"Job_Title":"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Salary_2015":"$73,810 ","Salary_2017":"$41,970 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f7f"},"Job_Title":"Electronic Equipment Installers and Repairers, Motor Vehicles","Salary_2015":"$31,360 ","Salary_2017":"$34,170 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f80"},"Job_Title":"Electronic Home Entertainment Equipment Installers and Repairers","Salary_2015":"$37,790 ","Salary_2017":"$39,550 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f81"},"Job_Title":"Security and Fire Alarm Systems Installers","Salary_2015":"$43,420 ","Salary_2017":"$46,360 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f82"},"Job_Title":"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers","Salary_2015":"$40,160 ","Salary_2017":"$46,360 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f83"},"Job_Title":"Aircraft Mechanics and Service Technicians","Salary_2015":"$58,370 ","Salary_2017":"$49,440 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f84"},"Job_Title":"Automotive Technicians and Repairers","Salary_2015":"$38,290 ","Salary_2017":"$50,860 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f85"},"Job_Title":"Automotive Body and Related Repairers","Salary_2015":"$40,970 ","Salary_2017":"$57,460 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f86"},"Job_Title":"Automotive Glass Installers and Repairers","Salary_2015":"$33,830 ","Salary_2017":"$35,990 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f87"},"Job_Title":"Automotive Service Technicians and Mechanics","Salary_2015":"$37,850 ","Salary_2017":"$38,960 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f88"},"Job_Title":"Bus and Truck Mechanics and Diesel Engine Specialists","Salary_2015":"$44,520 ","Salary_2017":"$35,680 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f89"},"Job_Title":"Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics","Salary_2015":"$47,120 ","Salary_2017":"$27,690 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f8a"},"Job_Title":"Farm Equipment Mechanics and Service Technicians","Salary_2015":"$37,050 ","Salary_2017":"$28,390 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f8b"},"Job_Title":"Mobile Heavy Equipment Mechanics, Except Engines","Salary_2015":"$48,770 ","Salary_2017":"$37,200 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f8c"},"Job_Title":"Rail Car Repairers","Salary_2015":"$55,570 ","Salary_2017":"$26,710 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f8d"},"Job_Title":"Small Engine Mechanics","Salary_2015":"$34,650 ","Salary_2017":"$42,010 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f8e"},"Job_Title":"Motorboat Mechanics and Service Technicians","Salary_2015":"$38,280 ","Salary_2017":"$49,020 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f8f"},"Job_Title":"Motorcycle Mechanics","Salary_2015":"$34,220 ","Salary_2017":"$39,510 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f90"},"Job_Title":"Outdoor Power Equipment and Other Small Engine Mechanics","Salary_2015":"$32,710 ","Salary_2017":"$55,850 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f91"},"Job_Title":"Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers","Salary_2015":"$25,140 ","Salary_2017":"$47,080 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f92"},"Job_Title":"Bicycle Repairers","Salary_2015":"$27,470 ","Salary_2017":"$47,080 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f93"},"Job_Title":"Recreational Vehicle Service Technicians","Salary_2015":"$35,670 ","Salary_2017":"$38,160 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f94"},"Job_Title":"Tire Repairers and Changers","Salary_2015":"$24,220 ","Salary_2017":"$38,160 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f95"},"Job_Title":"Other Installation, Maintenance, and Repair Occupations","Salary_2015":"$40,330 ","Salary_2017":"$50,430 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f96"},"Job_Title":"Control and Valve Installers and Repairers","Salary_2015":"$47,400 ","Salary_2017":"$51,360 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f97"},"Job_Title":"Mechanical Door Repairers","Salary_2015":"$38,160 ","Salary_2017":"$45,540 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f98"},"Job_Title":"Control and Valve Installers and Repairers, Except Mechanical Door","Salary_2015":"$54,100 ","Salary_2017":"$53,980 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f99"},"Job_Title":"Heating, Air Conditioning, and Refrigeration Mechanics and Installers","Salary_2015":"$45,110 ","Salary_2017":"$48,570 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f9a"},"Job_Title":"Home Appliance Repairers","Salary_2015":"$36,200 ","Salary_2017":"$69,380 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f9b"},"Job_Title":"Industrial Machinery Installation, Repair, and Maintenance Workers","Salary_2015":"$48,410 ","Salary_2017":"$47,920 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f9c"},"Job_Title":"Industrial Machinery Mechanics","Salary_2015":"$49,690 ","Salary_2017":"$40,770 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f9d"},"Job_Title":"Maintenance Workers, Machinery","Salary_2015":"$43,260 ","Salary_2017":"$48,820 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f9e"},"Job_Title":"Millwrights","Salary_2015":"$51,390 ","Salary_2017":"$36,530 "}
+{"_id":{"$oid":"5adb7ba325149722c0704f9f"},"Job_Title":"Refractory Materials Repairers, Except Brickmasons","Salary_2015":"$47,060 ","Salary_2017":"$35,770 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fa0"},"Job_Title":"Line Installers and Repairers","Salary_2015":"$61,430 ","Salary_2017":"$56,940 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fa1"},"Job_Title":"Electrical Power-Line Installers and Repairers","Salary_2015":"$66,450 ","Salary_2017":"$37,670 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fa2"},"Job_Title":"Telecommunications Line Installers and Repairers","Salary_2015":"$52,920 ","Salary_2017":"$37,670 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fa3"},"Job_Title":"Precision Instrument and Equipment Repairers","Salary_2015":"$45,640 ","Salary_2017":"$53,880 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fa4"},"Job_Title":"Camera and Photographic Equipment Repairers","Salary_2015":"$40,620 ","Salary_2017":"$53,880 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fa5"},"Job_Title":"Medical Equipment Repairers","Salary_2015":"$46,340 ","Salary_2017":"$35,200 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fa6"},"Job_Title":"Musical Instrument Repairers and Tuners","Salary_2015":"$35,660 ","Salary_2017":"$33,690 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fa7"},"Job_Title":"Watch Repairers","Salary_2015":"$34,750 ","Salary_2017":"$47,210 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fa8"},"Job_Title":"Precision Instrument and Equipment Repairers, All Other","Salary_2015":"$54,350 ","Salary_2017":"$28,640 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fa9"},"Job_Title":"Maintenance and Repair Workers, General","Salary_2015":"$36,630 ","Salary_2017":"$40,680 "}
+{"_id":{"$oid":"5adb7ba325149722c0704faa"},"Job_Title":"Wind Turbine Service Technicians","Salary_2015":"$51,050 ","Salary_2017":"$48,580 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fab"},"Job_Title":"Miscellaneous Installation, Maintenance, and Repair Workers","Salary_2015":"$33,240 ","Salary_2017":"$28,490 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fac"},"Job_Title":"Coin, Vending, and Amusement Machine Servicers and Repairers","Salary_2015":"$32,700 ","Salary_2017":"$38,800 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fad"},"Job_Title":"Commercial Divers","Salary_2015":"$50,470 ","Salary_2017":"$33,990 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fae"},"Job_Title":"Fabric Menders, Except Garment","Salary_2015":"$24,490 ","Salary_2017":"$58,870 "}
+{"_id":{"$oid":"5adb7ba325149722c0704faf"},"Job_Title":"Locksmiths and Safe Repairers","Salary_2015":"$39,160 ","Salary_2017":"$58,870 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fb0"},"Job_Title":"Manufactured Building and Mobile Home Installers","Salary_2015":"$30,050 ","Salary_2017":"$58,870 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fb1"},"Job_Title":"Riggers","Salary_2015":"$43,220 ","Salary_2017":"$31,850 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fb2"},"Job_Title":"Signal and Track Switch Repairers","Salary_2015":"$63,840 ","Salary_2017":"$53,510 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fb3"},"Job_Title":"Helpers--Installation, Maintenance, and Repair Workers","Salary_2015":"$26,400 ","Salary_2017":"$53,510 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fb4"},"Job_Title":"Installation, Maintenance, and Repair Workers, All Other","Salary_2015":"$37,730 ","Salary_2017":"$32,570 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fb5"},"Job_Title":"Production Occupations","Salary_2015":"$32,250 ","Salary_2017":"$33,310 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fb6"},"Job_Title":"Supervisors of Production Workers","Salary_2015":"$56,340 ","Salary_2017":"$32,530 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fb7"},"Job_Title":"First-Line Supervisors of Production and Operating Workers","Salary_2015":"$56,340 ","Salary_2017":"$43,390 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fb8"},"Job_Title":"Assemblers and Fabricators","Salary_2015":"$30,080 ","Salary_2017":"$38,450 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fb9"},"Job_Title":"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers","Salary_2015":"$48,970 ","Salary_2017":"$38,450 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fba"},"Job_Title":"Electrical, Electronics, and Electromechanical Assemblers","Salary_2015":"$31,350 ","Salary_2017":"$32,290 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fbb"},"Job_Title":"Coil Winders, Tapers, and Finishers","Salary_2015":"$31,730 ","Salary_2017":"$34,800 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fbc"},"Job_Title":"Electrical and Electronic Equipment Assemblers","Salary_2015":"$30,860 ","Salary_2017":"$30,690 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fbd"},"Job_Title":"Electromechanical Equipment Assemblers","Salary_2015":"$33,580 ","Salary_2017":"$27,040 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fbe"},"Job_Title":"Engine and Other Machine Assemblers","Salary_2015":"$39,600 ","Salary_2017":"$25,690 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fbf"},"Job_Title":"Structural Metal Fabricators and Fitters","Salary_2015":"$37,050 ","Salary_2017":"$27,330 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fc0"},"Job_Title":"Miscellaneous Assemblers and Fabricators","Salary_2015":"$28,850 ","Salary_2017":"$25,250 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fc1"},"Job_Title":"Fiberglass Laminators and Fabricators","Salary_2015":"$29,160 ","Salary_2017":"$27,530 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fc2"},"Job_Title":"Team Assemblers","Salary_2015":"$29,080 ","Salary_2017":"$27,630 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fc3"},"Job_Title":"Timing Device Assemblers and Adjusters","Salary_2015":"$36,940 ","Salary_2017":"$29,410 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fc4"},"Job_Title":"Assemblers and Fabricators, All Other","Salary_2015":"$27,620 ","Salary_2017":"$28,500 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fc5"},"Job_Title":"Food Processing Workers","Salary_2015":"$25,470 ","Salary_2017":"$28,420 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fc6"},"Job_Title":"Bakers","Salary_2015":"$24,170 ","Salary_2017":"$24,460 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fc7"},"Job_Title":"Butchers and Other Meat, Poultry, and Fish Processing Workers","Salary_2015":"$25,660 ","Salary_2017":"$40,680 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fc8"},"Job_Title":"Butchers and Meat Cutters","Salary_2015":"$29,130 ","Salary_2017":"$39,230 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fc9"},"Job_Title":"Meat, Poultry, and Fish Cutters and Trimmers","Salary_2015":"$23,870 ","Salary_2017":"$52,550 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fca"},"Job_Title":"Slaughterers and Meat Packers","Salary_2015":"$25,650 ","Salary_2017":"$35,910 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fcb"},"Job_Title":"Miscellaneous Food Processing Workers","Salary_2015":"$26,350 ","Salary_2017":"$34,600 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fcc"},"Job_Title":"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","Salary_2015":"$28,060 ","Salary_2017":"$38,650 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fcd"},"Job_Title":"Food Batchmakers","Salary_2015":"$26,950 ","Salary_2017":"$37,860 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fce"},"Job_Title":"Food Cooking Machine Operators and Tenders","Salary_2015":"$27,760 ","Salary_2017":"$34,230 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fcf"},"Job_Title":"Food Processing Workers, All Other","Salary_2015":"$23,720 ","Salary_2017":"$33,060 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fd0"},"Job_Title":"Metal Workers and Plastic Workers","Salary_2015":"$36,730 ","Salary_2017":"$37,270 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fd1"},"Job_Title":"Computer Control Programmers and Operators","Salary_2015":"$38,430 ","Salary_2017":"$33,480 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fd2"},"Job_Title":"Computer-Controlled Machine Tool Operators, Metal and Plastic","Salary_2015":"$37,030 ","Salary_2017":"$38,580 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fd3"},"Job_Title":"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic","Salary_2015":"$48,990 ","Salary_2017":"$42,650 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fd4"},"Job_Title":"Forming Machine Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$34,990 ","Salary_2017":"$42,600 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fd5"},"Job_Title":"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$33,120 ","Salary_2017":"$42,600 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fd6"},"Job_Title":"Forging Machine Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$35,070 ","Salary_2017":"$40,250 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fd7"},"Job_Title":"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$40,590 ","Salary_2017":"$41,300 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fd8"},"Job_Title":"Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$32,830 ","Salary_2017":"$38,210 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fd9"},"Job_Title":"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$31,280 ","Salary_2017":"$50,390 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fda"},"Job_Title":"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$35,480 ","Salary_2017":"$53,670 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fdb"},"Job_Title":"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$32,840 ","Salary_2017":"$45,030 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fdc"},"Job_Title":"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$36,810 ","Salary_2017":"$31,420 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fdd"},"Job_Title":"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$38,250 ","Salary_2017":"$35,140 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fde"},"Job_Title":"Machinists","Salary_2015":"$40,550 ","Salary_2017":"$31,090 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fdf"},"Job_Title":"Metal Furnace Operators, Tenders, Pourers, and Casters","Salary_2015":"$39,490 ","Salary_2017":"$34,800 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fe0"},"Job_Title":"Metal-Refining Furnace Operators and Tenders","Salary_2015":"$42,240 ","Salary_2017":"$52,480 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fe1"},"Job_Title":"Pourers and Casters, Metal","Salary_2015":"$33,850 ","Salary_2017":"$52,480 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fe2"},"Job_Title":"Model Makers and Patternmakers, Metal and Plastic","Salary_2015":"$43,950 ","Salary_2017":"$39,910 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fe3"},"Job_Title":"Model Makers, Metal and Plastic","Salary_2015":"$45,980 ","Salary_2017":"$40,240 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fe4"},"Job_Title":"Patternmakers, Metal and Plastic","Salary_2015":"$40,960 ","Salary_2017":"$37,190 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fe5"},"Job_Title":"Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$29,630 ","Salary_2017":"$35,390 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fe6"},"Job_Title":"Foundry Mold and Coremakers","Salary_2015":"$32,680 ","Salary_2017":"$37,300 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fe7"},"Job_Title":"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$29,340 ","Salary_2017":"$46,310 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fe8"},"Job_Title":"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$33,950 ","Salary_2017":"$31,920 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fe9"},"Job_Title":"Tool and Die Makers","Salary_2015":"$50,290 ","Salary_2017":"$35,820 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fea"},"Job_Title":"Welding, Soldering, and Brazing Workers","Salary_2015":"$37,910 ","Salary_2017":"$35,560 "}
+{"_id":{"$oid":"5adb7ba325149722c0704feb"},"Job_Title":"Welders, Cutters, Solderers, and Brazers","Salary_2015":"$38,150 ","Salary_2017":"$39,910 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fec"},"Job_Title":"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Salary_2015":"$36,150 ","Salary_2017":"$35,760 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fed"},"Job_Title":"Miscellaneous Metal Workers and Plastic Workers","Salary_2015":"$34,270 ","Salary_2017":"$32,040 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fee"},"Job_Title":"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$36,600 ","Salary_2017":"$24,370 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fef"},"Job_Title":"Layout Workers, Metal and Plastic","Salary_2015":"$44,530 ","Salary_2017":"$22,370 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ff0"},"Job_Title":"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic","Salary_2015":"$30,550 ","Salary_2017":"$22,370 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ff1"},"Job_Title":"Tool Grinders, Filers, and Sharpeners","Salary_2015":"$35,550 ","Salary_2017":"$22,440 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ff2"},"Job_Title":"Metal Workers and Plastic Workers, All Other","Salary_2015":"$32,990 ","Salary_2017":"$22,440 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ff3"},"Job_Title":"Printing Workers","Salary_2015":"$34,620 ","Salary_2017":"$24,320 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ff4"},"Job_Title":"Prepress Technicians and Workers","Salary_2015":"$38,270 ","Salary_2017":"$26,240 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ff5"},"Job_Title":"Printing Press Operators","Salary_2015":"$35,240 ","Salary_2017":"$25,610 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ff6"},"Job_Title":"Print Binding and Finishing Workers","Salary_2015":"$30,260 ","Salary_2017":"$27,420 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ff7"},"Job_Title":"Textile, Apparel, and Furnishings Workers","Salary_2015":"$22,990 ","Salary_2017":"$27,920 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ff8"},"Job_Title":"Laundry and Dry-Cleaning Workers","Salary_2015":"$20,820 ","Salary_2017":"$26,230 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ff9"},"Job_Title":"Pressers, Textile, Garment, and Related Materials","Salary_2015":"$20,470 ","Salary_2017":"$28,010 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ffa"},"Job_Title":"Sewing Machine Operators","Salary_2015":"$22,550 ","Salary_2017":"$26,890 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ffb"},"Job_Title":"Shoe and Leather Workers","Salary_2015":"$24,090 ","Salary_2017":"$28,270 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ffc"},"Job_Title":"Shoe and Leather Workers and Repairers","Salary_2015":"$23,630 ","Salary_2017":"$32,670 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ffd"},"Job_Title":"Shoe Machine Operators and Tenders","Salary_2015":"$25,190 ","Salary_2017":"$33,470 "}
+{"_id":{"$oid":"5adb7ba325149722c0704ffe"},"Job_Title":"Tailors, Dressmakers, and Sewers","Salary_2015":"$25,120 ","Salary_2017":"$40,460 "}
+{"_id":{"$oid":"5adb7ba325149722c0704fff"},"Job_Title":"Sewers, Hand","Salary_2015":"$23,640 ","Salary_2017":"$33,660 "}
+{"_id":{"$oid":"5adb7ba325149722c0705000"},"Job_Title":"Tailors, Dressmakers, and Custom Sewers","Salary_2015":"$25,830 ","Salary_2017":"$26,670 "}
+{"_id":{"$oid":"5adb7ba325149722c0705001"},"Job_Title":"Textile Machine Setters, Operators, and Tenders","Salary_2015":"$26,690 ","Salary_2017":"$30,900 "}
+{"_id":{"$oid":"5adb7ba325149722c0705002"},"Job_Title":"Textile Bleaching and Dyeing Machine Operators and Tenders","Salary_2015":"$26,340 ","Salary_2017":"$33,920 "}
+{"_id":{"$oid":"5adb7ba325149722c0705003"},"Job_Title":"Textile Cutting Machine Setters, Operators, and Tenders","Salary_2015":"$25,490 ","Salary_2017":"$33,920 "}
+{"_id":{"$oid":"5adb7ba325149722c0705004"},"Job_Title":"Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Salary_2015":"$27,220 ","Salary_2017":"$31,300 "}
+{"_id":{"$oid":"5adb7ba325149722c0705005"},"Job_Title":"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Salary_2015":"$26,870 ","Salary_2017":"$31,300 "}
+{"_id":{"$oid":"5adb7ba325149722c0705006"},"Job_Title":"Miscellaneous Textile, Apparel, and Furnishings Workers","Salary_2015":"$31,120 ","Salary_2017":"$51,470 "}
+{"_id":{"$oid":"5adb7ba325149722c0705007"},"Job_Title":"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Salary_2015":"$32,980 ","Salary_2017":"$50,150 "}
+{"_id":{"$oid":"5adb7ba325149722c0705008"},"Job_Title":"Fabric and Apparel Patternmakers","Salary_2015":"$43,900 ","Salary_2017":"$52,380 "}
+{"_id":{"$oid":"5adb7ba325149722c0705009"},"Job_Title":"Upholsterers","Salary_2015":"$32,020 ","Salary_2017":"$29,100 "}
+{"_id":{"$oid":"5adb7ba325149722c070500a"},"Job_Title":"Textile, Apparel, and Furnishings Workers, All Other","Salary_2015":"$26,310 ","Salary_2017":"$29,080 "}
+{"_id":{"$oid":"5adb7ba325149722c070500b"},"Job_Title":"Woodworkers","Salary_2015":"$29,500 ","Salary_2017":"$29,110 "}
+{"_id":{"$oid":"5adb7ba325149722c070500c"},"Job_Title":"Cabinetmakers and Bench Carpenters","Salary_2015":"$32,270 ","Salary_2017":"$30,680 "}
+{"_id":{"$oid":"5adb7ba325149722c070500d"},"Job_Title":"Furniture Finishers","Salary_2015":"$29,200 ","Salary_2017":"$58,350 "}
+{"_id":{"$oid":"5adb7ba325149722c070500e"},"Job_Title":"Model Makers and Patternmakers, Wood","Salary_2015":"$35,720 ","Salary_2017":"$93,370 "}
+{"_id":{"$oid":"5adb7ba325149722c070500f"},"Job_Title":"Model Makers, Wood","Salary_2015":"$33,590 ","Salary_2017":"$82,510 "}
+{"_id":{"$oid":"5adb7ba325149722c0705010"},"Job_Title":"Patternmakers, Wood","Salary_2015":"$38,410 ","Salary_2017":"$77,180 "}
+{"_id":{"$oid":"5adb7ba325149722c0705011"},"Job_Title":"Woodworking Machine Setters, Operators, and Tenders","Salary_2015":"$27,810 ","Salary_2017":"$59,890 "}
+{"_id":{"$oid":"5adb7ba325149722c0705012"},"Job_Title":"Sawing Machine Setters, Operators, and Tenders, Wood","Salary_2015":"$27,800 ","Salary_2017":"$59,890 "}
+{"_id":{"$oid":"5adb7ba325149722c0705013"},"Job_Title":"Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Salary_2015":"$27,820 ","Salary_2017":"$46,150 "}
+{"_id":{"$oid":"5adb7ba325149722c0705014"},"Job_Title":"Miscellaneous Woodworkers","Salary_2015":"$28,990 ","Salary_2017":"$46,150 "}
+{"_id":{"$oid":"5adb7ba325149722c0705015"},"Job_Title":"Woodworkers, All Other","Salary_2015":"$28,990 ","Salary_2017":"$64,560 "}
+{"_id":{"$oid":"5adb7ba325149722c0705016"},"Job_Title":"Plant and System Operators","Salary_2015":"$57,160 ","Salary_2017":"$62,170 "}
+{"_id":{"$oid":"5adb7ba325149722c0705017"},"Job_Title":"Power Plant Operators, Distributors, and Dispatchers","Salary_2015":"$75,660 ","Salary_2017":"$69,030 "}
+{"_id":{"$oid":"5adb7ba325149722c0705018"},"Job_Title":"Nuclear Power Reactor Operators","Salary_2015":"$88,560 ","Salary_2017":"$67,770 "}
+{"_id":{"$oid":"5adb7ba325149722c0705019"},"Job_Title":"Power Distributors and Dispatchers","Salary_2015":"$80,840 ","Salary_2017":"$56,330 "}
+{"_id":{"$oid":"5adb7ba325149722c070501a"},"Job_Title":"Power Plant Operators","Salary_2015":"$71,940 ","Salary_2017":"$32,510 "}
+{"_id":{"$oid":"5adb7ba325149722c070501b"},"Job_Title":"Stationary Engineers and Boiler Operators","Salary_2015":"$58,530 ","Salary_2017":"$44,110 "}
+{"_id":{"$oid":"5adb7ba325149722c070501c"},"Job_Title":"Water and Wastewater Treatment Plant and System Operators","Salary_2015":"$44,790 ","Salary_2017":"$39,040 "}
+{"_id":{"$oid":"5adb7ba325149722c070501d"},"Job_Title":"Miscellaneous Plant and System Operators","Salary_2015":"$62,100 ","Salary_2017":"$35,380 "}
+{"_id":{"$oid":"5adb7ba325149722c070501e"},"Job_Title":"Chemical Plant and System Operators","Salary_2015":"$59,320 ","Salary_2017":"$28,830 "}
+{"_id":{"$oid":"5adb7ba325149722c070501f"},"Job_Title":"Gas Plant Operators","Salary_2015":"$66,010 ","Salary_2017":"$36,600 "}
+{"_id":{"$oid":"5adb7ba325149722c0705020"},"Job_Title":"Petroleum Pump System Operators, Refinery Operators, and Gaugers","Salary_2015":"$65,190 ","Salary_2017":"$32,650 "}
+{"_id":{"$oid":"5adb7ba325149722c0705021"},"Job_Title":"Plant and System Operators, All Other","Salary_2015":"$55,540 ","Salary_2017":"$28,210 "}
+{"_id":{"$oid":"5adb7ba325149722c0705022"},"Job_Title":"Other Production Occupations","Salary_2015":"$30,590 ","Salary_2017":"$33,610 "}
+{"_id":{"$oid":"5adb7ba325149722c0705023"},"Job_Title":"Chemical Processing Machine Setters, Operators, and Tenders","Salary_2015":"$43,340 ","Salary_2017":"$33,680 "}
+{"_id":{"$oid":"5adb7ba325149722c0705024"},"Job_Title":"Chemical Equipment Operators and Tenders","Salary_2015":"$47,220 ","Salary_2017":"$33,680 "}
+{"_id":{"$oid":"5adb7ba325149722c0705025"},"Job_Title":"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Salary_2015":"$38,420 ","Salary_2017":"$37,580 "}
+{"_id":{"$oid":"5adb7ba325149722c0705026"},"Job_Title":"Crushing, Grinding, Polishing, Mixing, and Blending Workers","Salary_2015":"$33,460 ","Salary_2017":"$37,580 "}
+{"_id":{"$oid":"5adb7ba325149722c0705027"},"Job_Title":"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Salary_2015":"$33,810 ","Salary_2017":"$37,340 "}
+{"_id":{"$oid":"5adb7ba325149722c0705028"},"Job_Title":"Grinding and Polishing Workers, Hand","Salary_2015":"$28,610 ","Salary_2017":"$37,340 "}
+{"_id":{"$oid":"5adb7ba325149722c0705029"},"Job_Title":"Mixing and Blending Machine Setters, Operators, and Tenders","Salary_2015":"$34,600 ","Salary_2017":"$37,960 "}
+{"_id":{"$oid":"5adb7ba325149722c070502a"},"Job_Title":"Cutting Workers","Salary_2015":"$30,970 ","Salary_2017":"$37,960 "}
+{"_id":{"$oid":"5adb7ba325149722c070502b"},"Job_Title":"Cutters and Trimmers, Hand","Salary_2015":"$26,820 ","Salary_2017":"$35,250 "}
+{"_id":{"$oid":"5adb7ba325149722c070502c"},"Job_Title":"Cutting and Slicing Machine Setters, Operators, and Tenders","Salary_2015":"$32,190 ","Salary_2017":"$38,670 "}
+{"_id":{"$oid":"5adb7ba325149722c070502d"},"Job_Title":"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","Salary_2015":"$32,160 ","Salary_2017":"$37,190 "}
+{"_id":{"$oid":"5adb7ba325149722c070502e"},"Job_Title":"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders","Salary_2015":"$35,360 ","Salary_2017":"$29,350 "}
+{"_id":{"$oid":"5adb7ba325149722c070502f"},"Job_Title":"Inspectors, Testers, Sorters, Samplers, and Weighers","Salary_2015":"$36,000 ","Salary_2017":"$36,010 "}
+{"_id":{"$oid":"5adb7ba325149722c0705030"},"Job_Title":"Jewelers and Precious Stone and Metal Workers","Salary_2015":"$37,060 ","Salary_2017":"$41,850 "}
+{"_id":{"$oid":"5adb7ba325149722c0705031"},"Job_Title":"Medical, Dental, and Ophthalmic Laboratory Technicians","Salary_2015":"$33,950 ","Salary_2017":"$36,580 "}
+{"_id":{"$oid":"5adb7ba325149722c0705032"},"Job_Title":"Dental Laboratory Technicians","Salary_2015":"$37,190 ","Salary_2017":"$36,580 "}
+{"_id":{"$oid":"5adb7ba325149722c0705033"},"Job_Title":"Medical Appliance Technicians","Salary_2015":"$34,890 ","Salary_2017":"$27,480 "}
+{"_id":{"$oid":"5adb7ba325149722c0705034"},"Job_Title":"Ophthalmic Laboratory Technicians","Salary_2015":"$29,860 ","Salary_2017":"$27,480 "}
+{"_id":{"$oid":"5adb7ba325149722c0705035"},"Job_Title":"Packaging and Filling Machine Operators and Tenders","Salary_2015":"$27,080 ","Salary_2017":"$28,710 "}
+{"_id":{"$oid":"5adb7ba325149722c0705036"},"Job_Title":"Painting Workers","Salary_2015":"$34,340 ","Salary_2017":"$29,950 "}
+{"_id":{"$oid":"5adb7ba325149722c0705037"},"Job_Title":"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Salary_2015":"$31,940 ","Salary_2017":"$30,860 "}
+{"_id":{"$oid":"5adb7ba325149722c0705038"},"Job_Title":"Painters, Transportation Equipment","Salary_2015":"$41,150 ","Salary_2017":"$30,890 "}
+{"_id":{"$oid":"5adb7ba325149722c0705039"},"Job_Title":"Painting, Coating, and Decorating Workers","Salary_2015":"$29,270 ","Salary_2017":"$31,950 "}
+{"_id":{"$oid":"5adb7ba325149722c070503a"},"Job_Title":"Semiconductor Processors","Salary_2015":"$35,390 ","Salary_2017":"$37,890 "}
+{"_id":{"$oid":"5adb7ba325149722c070503b"},"Job_Title":"Photographic Process Workers and Processing Machine Operators","Salary_2015":"$26,590 ","Salary_2017":"$26,070 "}
+{"_id":{"$oid":"5adb7ba325149722c070503c"},"Job_Title":"Miscellaneous Production Workers","Salary_2015":"$26,590 ","Salary_2017":"$31,600 "}
+{"_id":{"$oid":"5adb7ba325149722c070503d"},"Job_Title":"Adhesive Bonding Machine Operators and Tenders","Salary_2015":"$31,710 ","Salary_2017":"$53,700 "}
+{"_id":{"$oid":"5adb7ba325149722c070503e"},"Job_Title":"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Salary_2015":"$27,880 ","Salary_2017":"$48,150 "}
+{"_id":{"$oid":"5adb7ba325149722c070503f"},"Job_Title":"Cooling and Freezing Equipment Operators and Tenders","Salary_2015":"$28,630 ","Salary_2017":"$48,150 "}
+{"_id":{"$oid":"5adb7ba325149722c0705040"},"Job_Title":"Etchers and Engravers","Salary_2015":"$29,810 ","Salary_2017":"$53,810 "}
+{"_id":{"$oid":"5adb7ba325149722c0705041"},"Job_Title":"Molders, Shapers, and Casters, Except Metal and Plastic","Salary_2015":"$29,630 ","Salary_2017":"$53,810 "}
+{"_id":{"$oid":"5adb7ba325149722c0705042"},"Job_Title":"Paper Goods Machine Setters, Operators, and Tenders","Salary_2015":"$35,710 ","Salary_2017":"$72,310 "}
+{"_id":{"$oid":"5adb7ba325149722c0705043"},"Job_Title":"Tire Builders","Salary_2015":"$39,120 ","Salary_2017":"$111,930 "}
+{"_id":{"$oid":"5adb7ba325149722c0705044"},"Job_Title":"Helpers--Production Workers","Salary_2015":"$23,960 ","Salary_2017":"$137,330 "}
+{"_id":{"$oid":"5adb7ba325149722c0705045"},"Job_Title":"Production Workers, All Other","Salary_2015":"$27,950 ","Salary_2017":"$78,740 "}
+{"_id":{"$oid":"5adb7ba325149722c0705046"},"Job_Title":"Transportation and Material Moving Occupations","Salary_2015":"$30,090 ","Salary_2017":"$96,980 "}
+{"_id":{"$oid":"5adb7ba325149722c0705047"},"Job_Title":"Supervisors of Transportation and Material Moving Workers","Salary_2015":"$51,280 ","Salary_2017":"$124,540 "}
+{"_id":{"$oid":"5adb7ba325149722c0705048"},"Job_Title":"Aircraft Cargo Handling Supervisors","Salary_2015":"$45,470 ","Salary_2017":"$52,360 "}
+{"_id":{"$oid":"5adb7ba325149722c0705049"},"Job_Title":"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","Salary_2015":"$46,960 ","Salary_2017":"$50,500 "}
+{"_id":{"$oid":"5adb7ba325149722c070504a"},"Job_Title":"First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators","Salary_2015":"$55,860 ","Salary_2017":"$24,260 "}
+{"_id":{"$oid":"5adb7ba325149722c070504b"},"Job_Title":"Air Transportation Workers","Salary_2015":"$68,510 ","Salary_2017":"$33,010 "}
+{"_id":{"$oid":"5adb7ba325149722c070504c"},"Job_Title":"Aircraft Pilots and Flight Engineers","Salary_2015":"$102,520 ","Salary_2017":"$40,780 "}
+{"_id":{"$oid":"5adb7ba325149722c070504d"},"Job_Title":"Airline Pilots, Copilots, and Flight Engineers","Salary_2015":"$117,290 ","Salary_2017":"$31,060 "}
+{"_id":{"$oid":"5adb7ba325149722c070504e"},"Job_Title":"Commercial Pilots","Salary_2015":"$76,150 ","Salary_2017":"$37,610 "}
+{"_id":{"$oid":"5adb7ba325149722c070504f"},"Job_Title":"Air Traffic Controllers and Airfield Operations Specialists","Salary_2015":"$99,940 ","Salary_2017":"$24,040 "}
+{"_id":{"$oid":"5adb7ba325149722c0705050"},"Job_Title":"Air Traffic Controllers","Salary_2015":"$122,950 ","Salary_2017":"$42,480 "}
+{"_id":{"$oid":"5adb7ba325149722c0705051"},"Job_Title":"Airfield Operations Specialists","Salary_2015":"$51,880 ","Salary_2017":"$31,450 "}
+{"_id":{"$oid":"5adb7ba325149722c0705052"},"Job_Title":"Flight Attendants","Salary_2015":"$44,860 ","Salary_2017":"$24,880 "}
+{"_id":{"$oid":"5adb7ba325149722c0705053"},"Job_Title":"Motor Vehicle Operators","Salary_2015":"$34,170 ","Salary_2017":"$26,640 "}
+{"_id":{"$oid":"5adb7ba325149722c0705054"},"Job_Title":"Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Salary_2015":"$23,740 ","Salary_2017":"$26,640 "}
+{"_id":{"$oid":"5adb7ba325149722c0705055"},"Job_Title":"Bus Drivers","Salary_2015":"$30,950 ","Salary_2017":"$59,810 "}
+{"_id":{"$oid":"5adb7ba325149722c0705056"},"Job_Title":"Bus Drivers, Transit and Intercity","Salary_2015":"$38,290 ","Salary_2017":"$60,990 "}
+{"_id":{"$oid":"5adb7ba325149722c0705057"},"Job_Title":"Bus Drivers, School or Special Client","Salary_2015":"$29,490 ","Salary_2017":"$60,360 "}
+{"_id":{"$oid":"5adb7ba325149722c0705058"},"Job_Title":"Driver/Sales Workers and Truck Drivers","Salary_2015":"$35,850 ","Salary_2017":"$50,150 "}
+{"_id":{"$oid":"5adb7ba325149722c0705059"},"Job_Title":"Driver/Sales Workers","Salary_2015":"$22,450 ","Salary_2017":"$57,260 "}
+{"_id":{"$oid":"5adb7ba325149722c070505a"},"Job_Title":"Heavy and Tractor-Trailer Truck Drivers","Salary_2015":"$40,260 ","Salary_2017":"$57,260 "}
+{"_id":{"$oid":"5adb7ba325149722c070505b"},"Job_Title":"Light Truck or Delivery Services Drivers","Salary_2015":"$29,850 ","Salary_2017":"$60,300 "}
+{"_id":{"$oid":"5adb7ba325149722c070505c"},"Job_Title":"Taxi Drivers and Chauffeurs","Salary_2015":"$23,510 ","Salary_2017":"$60,300 "}
+{"_id":{"$oid":"5adb7ba325149722c070505d"},"Job_Title":"Miscellaneous Motor Vehicle Operators","Salary_2015":"$29,230 ","Salary_2017":"$66,420 "}
+{"_id":{"$oid":"5adb7ba325149722c070505e"},"Job_Title":"Motor Vehicle Operators, All Other","Salary_2015":"$29,230 ","Salary_2017":"$58,690 "}
+{"_id":{"$oid":"5adb7ba325149722c070505f"},"Job_Title":"Rail Transportation Workers","Salary_2015":"$55,900 ","Salary_2017":"$58,690 "}
+{"_id":{"$oid":"5adb7ba325149722c0705060"},"Job_Title":"Locomotive Engineers and Operators","Salary_2015":"$55,030 ","Salary_2017":"$55,590 "}
+{"_id":{"$oid":"5adb7ba325149722c0705061"},"Job_Title":"Locomotive Engineers","Salary_2015":"$56,240 ","Salary_2017":"$40,730 "}
+{"_id":{"$oid":"5adb7ba325149722c0705062"},"Job_Title":"Locomotive Firers","Salary_2015":"$48,470 ","Salary_2017":"$40,730 "}
+{"_id":{"$oid":"5adb7ba325149722c0705063"},"Job_Title":"Rail Yard Engineers, Dinkey Operators, and Hostlers","Salary_2015":"$45,780 ","Salary_2017":"$68,930 "}
+{"_id":{"$oid":"5adb7ba325149722c0705064"},"Job_Title":"Railroad Brake, Signal, and Switch Operators","Salary_2015":"$54,020 ","Salary_2017":"$70,920 "}
+{"_id":{"$oid":"5adb7ba325149722c0705065"},"Job_Title":"Railroad Conductors and Yardmasters","Salary_2015":"$55,930 ","Salary_2017":"$73,110 "}
+{"_id":{"$oid":"5adb7ba325149722c0705066"},"Job_Title":"Subway and Streetcar Operators","Salary_2015":"$62,360 ","Salary_2017":"$24,480 "}
+{"_id":{"$oid":"5adb7ba325149722c0705067"},"Job_Title":"Miscellaneous Rail Transportation Workers","Salary_2015":"$59,840 ","Salary_2017":"$50,240 "}
+{"_id":{"$oid":"5adb7ba325149722c0705068"},"Job_Title":"Rail Transportation Workers, All Other","Salary_2015":"$59,840 ","Salary_2017":"$22,810 "}
+{"_id":{"$oid":"5adb7ba325149722c0705069"},"Job_Title":"Water Transportation Workers","Salary_2015":"$55,000 ","Salary_2017":"$22,810 "}
+{"_id":{"$oid":"5adb7ba325149722c070506a"},"Job_Title":"Sailors and Marine Oilers","Salary_2015":"$41,260 ","Salary_2017":"$23,390 "}
+{"_id":{"$oid":"5adb7ba325149722c070506b"},"Job_Title":"Ship and Boat Captains and Operators","Salary_2015":"$72,420 ","Salary_2017":"$45,670 "}
+{"_id":{"$oid":"5adb7ba325149722c070506c"},"Job_Title":"Captains, Mates, and Pilots of Water Vessels","Salary_2015":"$76,780 ","Salary_2017":"$45,670 "}
+{"_id":{"$oid":"5adb7ba325149722c070506d"},"Job_Title":"Motorboat Operators","Salary_2015":"$36,800 ","Salary_2017":"$72,140 "}
+{"_id":{"$oid":"5adb7ba325149722c070506e"},"Job_Title":"Ship Engineers","Salary_2015":"$72,870 ","Salary_2017":"$72,140 "}
+{"_id":{"$oid":"5adb7ba325149722c070506f"},"Job_Title":"Other Transportation Workers","Salary_2015":"$22,880 ","Salary_2017":"$27,830 "}
+{"_id":{"$oid":"5adb7ba325149722c0705070"},"Job_Title":"Bridge and Lock Tenders","Salary_2015":"$48,520 ","Salary_2017":"$36,760 "}
+{"_id":{"$oid":"5adb7ba325149722c0705071"},"Job_Title":"Parking Lot Attendants","Salary_2015":"$20,630 ","Salary_2017":"$27,320 "}
+{"_id":{"$oid":"5adb7ba325149722c0705072"},"Job_Title":"Automotive and Watercraft Service Attendants","Salary_2015":"$21,560 ","Salary_2017":"$32,300 "}
+{"_id":{"$oid":"5adb7ba325149722c0705073"},"Job_Title":"Traffic Technicians","Salary_2015":"$43,930 ","Salary_2017":"$52,200 "}
+{"_id":{"$oid":"5adb7ba325149722c0705074"},"Job_Title":"Transportation Inspectors","Salary_2015":"$70,820 ","Salary_2017":"$43,230 "}
+{"_id":{"$oid":"5adb7ba325149722c0705075"},"Job_Title":"Transportation Attendants, Except Flight Attendants","Salary_2015":"$25,930 ","Salary_2017":"$52,420 "}
+{"_id":{"$oid":"5adb7ba325149722c0705076"},"Job_Title":"Miscellaneous Transportation Workers","Salary_2015":"$36,890 ","Salary_2017":"$43,210 "}
+{"_id":{"$oid":"5adb7ba325149722c0705077"},"Job_Title":"Transportation Workers, All Other","Salary_2015":"$36,890 ","Salary_2017":"$33,630 "}
+{"_id":{"$oid":"5adb7ba325149722c0705078"},"Job_Title":"Material Moving Workers","Salary_2015":"$25,420 ","Salary_2017":"$33,630 "}
+{"_id":{"$oid":"5adb7ba325149722c0705079"},"Job_Title":"Conveyor Operators and Tenders","Salary_2015":"$32,050 ","Salary_2017":"$25,680 "}
+{"_id":{"$oid":"5adb7ba325149722c070507a"},"Job_Title":"Crane and Tower Operators","Salary_2015":"$51,650 ","Salary_2017":"$27,040 "}
+{"_id":{"$oid":"5adb7ba325149722c070507b"},"Job_Title":"Dredge, Excavating, and Loading Machine Operators","Salary_2015":"$40,650 ","Salary_2017":"$23,430 "}
+{"_id":{"$oid":"5adb7ba325149722c070507c"},"Job_Title":"Dredge Operators","Salary_2015":"$40,060 ","Salary_2017":"$50,250 "}
+{"_id":{"$oid":"5adb7ba325149722c070507d"},"Job_Title":"Excavating and Loading Machine and Dragline Operators","Salary_2015":"$40,050 ","Salary_2017":"$62,810 "}
+{"_id":{"$oid":"5adb7ba325149722c070507e"},"Job_Title":"Loading Machine Operators, Underground Mining","Salary_2015":"$52,320 ","Salary_2017":"$43,500 "}
+{"_id":{"$oid":"5adb7ba325149722c070507f"},"Job_Title":"Hoist and Winch Operators","Salary_2015":"$42,220 ","Salary_2017":"$52,260 "}
+{"_id":{"$oid":"5adb7ba325149722c0705080"},"Job_Title":"Industrial Truck and Tractor Operators","Salary_2015":"$32,090 ","Salary_2017":"$36,160 "}
+{"_id":{"$oid":"5adb7ba325149722c0705081"},"Job_Title":"Laborers and Material Movers, Hand","Salary_2015":"$23,930 ","Salary_2017":"$56,890 "}
+{"_id":{"$oid":"5adb7ba325149722c0705082"},"Job_Title":"Cleaners of Vehicles and Equipment","Salary_2015":"$21,310 ","Salary_2017":"$36,860 "}
+{"_id":{"$oid":"5adb7ba325149722c0705083"},"Job_Title":"Laborers and Freight, Stock, and Material Movers, Hand","Salary_2015":"$25,010 ","Salary_2017":"$36,860 "}
+{"_id":{"$oid":"5adb7ba325149722c0705084"},"Job_Title":"Machine Feeders and Offbearers","Salary_2015":"$29,440 ","Salary_2017":"$29,610 "}
+{"_id":{"$oid":"5adb7ba325149722c0705085"},"Job_Title":"Packers and Packagers, Hand","Salary_2015":"$21,010 ","Salary_2017":"$29,610 "}
+{"_id":{"$oid":"5adb7ba325149722c0705086"},"Job_Title":"Pumping Station Operators","Salary_2015":"$47,200 ","Salary_2017":"$50,250 "}
+{"_id":{"$oid":"5adb7ba325149722c0705087"},"Job_Title":"Gas Compressor and Gas Pumping Station Operators","Salary_2015":"$58,350 ","Salary_2017":"$62,810 "}
+{"_id":{"$oid":"5adb7ba325149722c0705088"},"Job_Title":"Pump Operators, Except Wellhead Pumpers","Salary_2015":"$42,420 ","Salary_2017":"$43,500 "}
+{"_id":{"$oid":"5adb7ba325149722c0705089"},"Job_Title":"Wellhead Pumpers","Salary_2015":"$46,990 ","Salary_2017":"$52,260 "}
+{"_id":{"$oid":"5adb7ba325149722c070508a"},"Job_Title":"Refuse and Recyclable Material Collectors","Salary_2015":"$33,800 ","Salary_2017":"$36,160 "}
+{"_id":{"$oid":"5adb7ba325149722c070508b"},"Job_Title":"Mine Shuttle Car Operators","Salary_2015":"$55,320 ","Salary_2017":"$56,890 "}
+{"_id":{"$oid":"5adb7ba325149722c070508c"},"Job_Title":"Tank Car, Truck, and Ship Loaders","Salary_2015":"$36,660 ","Salary_2017":"$36,860 "}
+{"_id":{"$oid":"5adb7ba325149722c070508d"},"Job_Title":"Miscellaneous Material Moving Workers","Salary_2015":"$30,360 ","Salary_2017":"$29,610 "}
+{"_id":{"$oid":"5adb7ba325149722c070508e"},"Job_Title":"Material Moving Workers, All Other","Salary_2015":"$30,360 ","Salary_2017":"$29,610 "}

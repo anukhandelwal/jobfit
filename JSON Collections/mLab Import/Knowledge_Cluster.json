@@ -1,0 +1,966 @@
+{"_id":{"$oid":"5adb6b0f25149722c06e41a4"},"Class":0,"Title":"Tank Car, Truck, and Ship Loaders"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41a5"},"Class":0,"Title":"Model Makers, Wood"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41a6"},"Class":0,"Title":"Cabinetmakers and Bench Carpenters"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41a7"},"Class":0,"Title":"Layout Workers, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41a8"},"Class":0,"Title":"Welders, Cutters, and Welder Fitters"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41a9"},"Class":0,"Title":"Mechanical Door Repairers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41aa"},"Class":0,"Title":"Recreational Vehicle Service Technicians"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ab"},"Class":0,"Title":"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ac"},"Class":0,"Title":"Helpers--Electricians"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ad"},"Class":0,"Title":"Solar Photovoltaic Installers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ae"},"Class":0,"Title":"Structural Iron and Steel Workers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41af"},"Class":0,"Title":"Sheet Metal Workers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41b0"},"Class":0,"Title":"Terrazzo Workers and Finishers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41b1"},"Class":0,"Title":"Floor Layers, Except Carpet, Wood, and Hard Tiles"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41b2"},"Class":0,"Title":"Operating Engineers and Other Construction Equipment Operators"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41b3"},"Class":0,"Title":"Patternmakers, Wood"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41b4"},"Class":1,"Title":"Logisticians"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41b5"},"Class":1,"Title":"Purchasing Agents, Except Wholesale, Retail, and Farm Products"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41b6"},"Class":1,"Title":"Aircraft Cargo Handling Supervisors"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41b7"},"Class":1,"Title":"Buyers and Purchasing Agents, Farm Products"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41b8"},"Class":1,"Title":"Loss Prevention Managers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41b9"},"Class":1,"Title":"Logistics Analysts"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ba"},"Class":1,"Title":"Supply Chain Managers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41bb"},"Class":1,"Title":"General and Operations Managers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41bc"},"Class":1,"Title":"Logistics Managers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41bd"},"Class":1,"Title":"Storage and Distribution Managers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41be"},"Class":1,"Title":"Transportation Managers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41bf"},"Class":1,"Title":"Purchasing Managers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41c0"},"Class":1,"Title":"Postmasters and Mail Superintendents"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41c1"},"Class":1,"Title":"Business Continuity Planners"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41c2"},"Class":2,"Title":"Gaming and Sports Book Writers and Runners"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41c3"},"Class":2,"Title":"Ushers, Lobby Attendants, and Ticket Takers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41c4"},"Class":2,"Title":"Bartenders"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41c5"},"Class":2,"Title":"Pharmacy Aides"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41c6"},"Class":2,"Title":"Amusement and Recreation Attendants"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41c7"},"Class":2,"Title":"Interviewers, Except Eligibility and Loan"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41c8"},"Class":2,"Title":"Cashiers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41c9"},"Class":2,"Title":"Counter and Rental Clerks"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ca"},"Class":2,"Title":"Demonstrators and Product Promoters"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41cb"},"Class":2,"Title":"Telemarketers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41cc"},"Class":2,"Title":"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41cd"},"Class":2,"Title":"Telephone Operators"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ce"},"Class":2,"Title":"Gaming Cage Workers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41cf"},"Class":2,"Title":"Library Technicians"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41d0"},"Class":2,"Title":"Hairdressers, Hairstylists, and Cosmetologists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41d1"},"Class":2,"Title":"Cooks, Private Household"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41d2"},"Class":3,"Title":"Wind Energy Engineers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41d3"},"Class":3,"Title":"Robotics Engineers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41d4"},"Class":3,"Title":"Electrical Engineering Technologists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41d5"},"Class":3,"Title":"Logistics Engineers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41d6"},"Class":3,"Title":"Petroleum Engineers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41d7"},"Class":3,"Title":"Mining and Geological Engineers, Including Mining Safety Engineers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41d8"},"Class":3,"Title":"Automotive Engineers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41d9"},"Class":3,"Title":"Marine Architects"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41da"},"Class":3,"Title":"Marine Engineers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41db"},"Class":4,"Title":"Internists, General"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41dc"},"Class":4,"Title":"Neurologists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41dd"},"Class":4,"Title":"Advanced Practice Psychiatric Nurses"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41de"},"Class":4,"Title":"Preventive Medicine Physicians"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41df"},"Class":4,"Title":"Midwives"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41e0"},"Class":4,"Title":"Physician Assistants"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41e1"},"Class":4,"Title":"Clinical Nurse Specialists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41e2"},"Class":4,"Title":"Nurse Midwives"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41e3"},"Class":4,"Title":"Neuropsychologists and Clinical Neuropsychologists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41e4"},"Class":4,"Title":"Nurse Practitioners"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41e5"},"Class":4,"Title":"Psychiatrists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41e6"},"Class":4,"Title":"Naturopathic Physicians"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41e7"},"Class":4,"Title":"Nursing Instructors and Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41e8"},"Class":4,"Title":"Pediatricians, General"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41e9"},"Class":4,"Title":"Coroners"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ea"},"Class":5,"Title":"English Language and Literature Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41eb"},"Class":5,"Title":"Interpreters and Translators"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ec"},"Class":5,"Title":"Foreign Language and Literature Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ed"},"Class":5,"Title":"Philosophy and Religion Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ee"},"Class":6,"Title":"Office Clerks, General"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ef"},"Class":6,"Title":"Proofreaders and Copy Markers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41f0"},"Class":6,"Title":"Judicial Law Clerks"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41f1"},"Class":6,"Title":"Word Processors and Typists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41f2"},"Class":6,"Title":"Medical Transcriptionists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41f3"},"Class":6,"Title":"Legal Secretaries"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41f4"},"Class":6,"Title":"Switchboard Operators, Including Answering Service"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41f5"},"Class":6,"Title":"Billing, Cost, and Rate Clerks"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41f6"},"Class":6,"Title":"Title Examiners, Abstractors, and Searchers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41f7"},"Class":6,"Title":"Paralegals and Legal Assistants"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41f8"},"Class":6,"Title":"Court Reporters"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41f9"},"Class":6,"Title":"Court Clerks"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41fa"},"Class":6,"Title":"Receptionists and Information Clerks"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41fb"},"Class":6,"Title":"Medical Records and Health Information Technicians"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41fc"},"Class":7,"Title":"Neurodiagnostic Technologists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41fd"},"Class":7,"Title":"Athletic Trainers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41fe"},"Class":7,"Title":"Ophthalmic Medical Technologists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e41ff"},"Class":7,"Title":"Magnetic Resonance Imaging Technologists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4200"},"Class":7,"Title":"Radiologic Technologists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4201"},"Class":7,"Title":"Nuclear Medicine Technologists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4202"},"Class":7,"Title":"Diagnostic Medical Sonographers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4203"},"Class":7,"Title":"Audiologists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4204"},"Class":7,"Title":"Respiratory Therapy Technicians"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4205"},"Class":7,"Title":"Respiratory Therapists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4206"},"Class":7,"Title":"Radiation Therapists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4207"},"Class":8,"Title":"Personal Financial Advisors"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4208"},"Class":8,"Title":"Fundraisers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4209"},"Class":8,"Title":"Public Relations and Fundraising Managers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e420a"},"Class":8,"Title":"Insurance Sales Agents"}
+{"_id":{"$oid":"5adb6b0f25149722c06e420b"},"Class":8,"Title":"Sales Agents, Securities and Commodities"}
+{"_id":{"$oid":"5adb6b0f25149722c06e420c"},"Class":8,"Title":"Financial Managers, Branch or Department"}
+{"_id":{"$oid":"5adb6b0f25149722c06e420d"},"Class":8,"Title":"Market Research Analysts and Marketing Specialists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e420e"},"Class":8,"Title":"Loan Officers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e420f"},"Class":8,"Title":"Real Estate Sales Agents"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4210"},"Class":8,"Title":"Survey Researchers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4211"},"Class":8,"Title":"Sales Agents, Financial Services"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4212"},"Class":9,"Title":"Statisticians"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4213"},"Class":9,"Title":"Database Architects"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4214"},"Class":9,"Title":"Software Quality Assurance Engineers and Testers"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4215"},"Class":9,"Title":"Computer User Support Specialists"}
+{"_id":{"$oid":"5adb6b0f25149722c06e4216"},"Class":9,"Title":"Mathematical Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4217"},"Class":9,"Title":"Computer Systems Analysts"}
+{"_id":{"$oid":"5adb6b1025149722c06e4218"},"Class":9,"Title":"Web Developers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4219"},"Class":9,"Title":"Software Developers, Applications"}
+{"_id":{"$oid":"5adb6b1025149722c06e421a"},"Class":9,"Title":"Computer Programmers"}
+{"_id":{"$oid":"5adb6b1025149722c06e421b"},"Class":9,"Title":"Electronic Drafters"}
+{"_id":{"$oid":"5adb6b1025149722c06e421c"},"Class":10,"Title":"Arbitrators, Mediators, and Conciliators"}
+{"_id":{"$oid":"5adb6b1025149722c06e421d"},"Class":10,"Title":"Training and Development Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e421e"},"Class":10,"Title":"Directors, Religious Activities and Education"}
+{"_id":{"$oid":"5adb6b1025149722c06e421f"},"Class":10,"Title":"Human Resources Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4220"},"Class":10,"Title":"Equal Opportunity Representatives and Officers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4221"},"Class":10,"Title":"Education Administrators, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4222"},"Class":10,"Title":"Education Administrators, Preschool and Childcare Center/Program"}
+{"_id":{"$oid":"5adb6b1025149722c06e4223"},"Class":10,"Title":"Industrial-Organizational Psychologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4224"},"Class":10,"Title":"Training and Development Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4225"},"Class":10,"Title":"Health Educators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4226"},"Class":11,"Title":"Electronics Engineers, Except Computer"}
+{"_id":{"$oid":"5adb6b1025149722c06e4227"},"Class":11,"Title":"Computer Hardware Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4228"},"Class":11,"Title":"Nanotechnology Engineering Technologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4229"},"Class":11,"Title":"Electronics Engineering Technologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e422a"},"Class":11,"Title":"Mechanical Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e422b"},"Class":11,"Title":"Photonics Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e422c"},"Class":11,"Title":"Microsystems Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e422d"},"Class":11,"Title":"Fuel Cell Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e422e"},"Class":11,"Title":"Physicists"}
+{"_id":{"$oid":"5adb6b1025149722c06e422f"},"Class":12,"Title":"Chemists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4230"},"Class":12,"Title":"Food Science Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4231"},"Class":12,"Title":"Biofuels/Biodiesel Technology and Product Development Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4232"},"Class":12,"Title":"Geological Sample Test Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4233"},"Class":12,"Title":"Quality Control Analysts"}
+{"_id":{"$oid":"5adb6b1025149722c06e4234"},"Class":13,"Title":"Transit and Railroad Police"}
+{"_id":{"$oid":"5adb6b1025149722c06e4235"},"Class":13,"Title":"Sheriffs and Deputy Sheriffs"}
+{"_id":{"$oid":"5adb6b1025149722c06e4236"},"Class":13,"Title":"Police Patrol Officers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4237"},"Class":13,"Title":"Judges, Magistrate Judges, and Magistrates"}
+{"_id":{"$oid":"5adb6b1025149722c06e4238"},"Class":13,"Title":"Criminal Investigators and Special Agents"}
+{"_id":{"$oid":"5adb6b1025149722c06e4239"},"Class":13,"Title":"Police Detectives"}
+{"_id":{"$oid":"5adb6b1025149722c06e423a"},"Class":13,"Title":"First-Line Supervisors of Police and Detectives"}
+{"_id":{"$oid":"5adb6b1025149722c06e423b"},"Class":13,"Title":"Immigration and Customs Inspectors"}
+{"_id":{"$oid":"5adb6b1025149722c06e423c"},"Class":13,"Title":"Police, Fire, and Ambulance Dispatchers"}
+{"_id":{"$oid":"5adb6b1025149722c06e423d"},"Class":14,"Title":"Fine Artists, Including Painters, Sculptors, and Illustrators"}
+{"_id":{"$oid":"5adb6b1025149722c06e423e"},"Class":14,"Title":"Art Directors"}
+{"_id":{"$oid":"5adb6b1025149722c06e423f"},"Class":14,"Title":"Desktop Publishers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4240"},"Class":14,"Title":"Graphic Designers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4241"},"Class":14,"Title":"Video Game Designers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4242"},"Class":14,"Title":"Advertising and Promotions Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4243"},"Class":15,"Title":"Shipping, Receiving, and Traffic Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e4244"},"Class":15,"Title":"Office Machine Operators, Except Computer"}
+{"_id":{"$oid":"5adb6b1025149722c06e4245"},"Class":15,"Title":"Automotive Glass Installers and Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4246"},"Class":15,"Title":"Painting, Coating, and Decorating Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4247"},"Class":15,"Title":"Tailors, Dressmakers, and Custom Sewers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4248"},"Class":15,"Title":"Gem and Diamond Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4249"},"Class":15,"Title":"Floral Designers"}
+{"_id":{"$oid":"5adb6b1025149722c06e424a"},"Class":15,"Title":"Log Graders and Scalers"}
+{"_id":{"$oid":"5adb6b1025149722c06e424b"},"Class":15,"Title":"Order Fillers, Wholesale and Retail Sales"}
+{"_id":{"$oid":"5adb6b1025149722c06e424c"},"Class":15,"Title":"Marking Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e424d"},"Class":15,"Title":"Merchandise Displayers and Window Trimmers"}
+{"_id":{"$oid":"5adb6b1025149722c06e424e"},"Class":15,"Title":"Parts Salespersons"}
+{"_id":{"$oid":"5adb6b1025149722c06e424f"},"Class":15,"Title":"Photographic Process Workers and Processing Machine Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4250"},"Class":16,"Title":"Residential Advisors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4251"},"Class":16,"Title":"Rehabilitation Counselors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4252"},"Class":16,"Title":"Child, Family, and School Social Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4253"},"Class":16,"Title":"School Psychologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4254"},"Class":16,"Title":"Probation Officers and Correctional Treatment Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4255"},"Class":16,"Title":"Social and Human Service Assistants"}
+{"_id":{"$oid":"5adb6b1025149722c06e4256"},"Class":16,"Title":"Occupational Therapy Assistants"}
+{"_id":{"$oid":"5adb6b1025149722c06e4257"},"Class":16,"Title":"Speech-Language Pathology Assistants"}
+{"_id":{"$oid":"5adb6b1025149722c06e4258"},"Class":16,"Title":"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4259"},"Class":16,"Title":"Speech-Language Pathologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e425a"},"Class":16,"Title":"Psychiatric Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e425b"},"Class":17,"Title":"Biochemical Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e425c"},"Class":17,"Title":"Nuclear Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e425d"},"Class":17,"Title":"Biomedical Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e425e"},"Class":17,"Title":"Materials Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e425f"},"Class":17,"Title":"Chemical Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4260"},"Class":17,"Title":"Materials Scientists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4261"},"Class":17,"Title":"Nanosystems Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4262"},"Class":18,"Title":"Climate Change Analysts"}
+{"_id":{"$oid":"5adb6b1025149722c06e4263"},"Class":18,"Title":"Geography Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4264"},"Class":18,"Title":"Geographers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4265"},"Class":18,"Title":"Environmental Science Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4266"},"Class":19,"Title":"Postal Service Mail Carriers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4267"},"Class":19,"Title":"Couriers and Messengers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4268"},"Class":19,"Title":"Light Truck or Delivery Services Drivers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4269"},"Class":19,"Title":"Driver/Sales Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e426a"},"Class":19,"Title":"Mail Clerks and Mail Machine Operators, Except Postal Service"}
+{"_id":{"$oid":"5adb6b1025149722c06e426b"},"Class":19,"Title":"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"}
+{"_id":{"$oid":"5adb6b1025149722c06e426c"},"Class":19,"Title":"Gaming Change Persons and Booth Cashiers"}
+{"_id":{"$oid":"5adb6b1025149722c06e426d"},"Class":19,"Title":"Parking Lot Attendants"}
+{"_id":{"$oid":"5adb6b1025149722c06e426e"},"Class":19,"Title":"Waiters and Waitresses"}
+{"_id":{"$oid":"5adb6b1025149722c06e426f"},"Class":20,"Title":"Weatherization Installers and Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4270"},"Class":20,"Title":"Riggers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4271"},"Class":20,"Title":"Structural Metal Fabricators and Fitters"}
+{"_id":{"$oid":"5adb6b1025149722c06e4272"},"Class":20,"Title":"Roofers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4273"},"Class":20,"Title":"Reinforcing Iron and Rebar Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4274"},"Class":20,"Title":"Pipe Fitters and Steamfitters"}
+{"_id":{"$oid":"5adb6b1025149722c06e4275"},"Class":20,"Title":"Helpers--Carpenters"}
+{"_id":{"$oid":"5adb6b1025149722c06e4276"},"Class":20,"Title":"Paperhangers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4277"},"Class":20,"Title":"Drywall and Ceiling Tile Installers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4278"},"Class":20,"Title":"Construction Carpenters"}
+{"_id":{"$oid":"5adb6b1025149722c06e4279"},"Class":20,"Title":"Insulation Workers, Mechanical"}
+{"_id":{"$oid":"5adb6b1025149722c06e427a"},"Class":20,"Title":"Cement Masons and Concrete Finishers"}
+{"_id":{"$oid":"5adb6b1025149722c06e427b"},"Class":20,"Title":"Carpet Installers"}
+{"_id":{"$oid":"5adb6b1025149722c06e427c"},"Class":20,"Title":"Rough Carpenters"}
+{"_id":{"$oid":"5adb6b1025149722c06e427d"},"Class":20,"Title":"Boilermakers"}
+{"_id":{"$oid":"5adb6b1025149722c06e427e"},"Class":20,"Title":"Brickmasons and Blockmasons"}
+{"_id":{"$oid":"5adb6b1025149722c06e427f"},"Class":21,"Title":"Conveyor Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e4280"},"Class":21,"Title":"Stock Clerks- Stockroom, Warehouse, or Storage Yard"}
+{"_id":{"$oid":"5adb6b1025149722c06e4281"},"Class":21,"Title":"Fallers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4282"},"Class":21,"Title":"Pourers and Casters, Metal"}
+{"_id":{"$oid":"5adb6b1025149722c06e4283"},"Class":21,"Title":"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e4284"},"Class":21,"Title":"Laborers and Freight, Stock, and Material Movers, Hand"}
+{"_id":{"$oid":"5adb6b1025149722c06e4285"},"Class":21,"Title":"Solderers and Brazers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4286"},"Class":21,"Title":"Team Assemblers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4287"},"Class":21,"Title":"Pressers, Textile, Garment, and Related Materials"}
+{"_id":{"$oid":"5adb6b1025149722c06e4288"},"Class":21,"Title":"Sewing Machine Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4289"},"Class":21,"Title":"Shoe and Leather Workers and Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e428a"},"Class":21,"Title":"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e428b"},"Class":21,"Title":"Postal Service Mail Sorters, Processors, and Processing Machine Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e428c"},"Class":21,"Title":"Dishwashers"}
+{"_id":{"$oid":"5adb6b1025149722c06e428d"},"Class":21,"Title":"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e428e"},"Class":21,"Title":"Stock Clerks, Sales Floor"}
+{"_id":{"$oid":"5adb6b1025149722c06e428f"},"Class":21,"Title":"Models"}
+{"_id":{"$oid":"5adb6b1025149722c06e4290"},"Class":22,"Title":"Farm and Home Management Advisors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4291"},"Class":22,"Title":"Precision Agriculture Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4292"},"Class":22,"Title":"Agricultural Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4293"},"Class":22,"Title":"Soil and Plant Scientists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4294"},"Class":22,"Title":"Agricultural Sciences Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4295"},"Class":22,"Title":"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4296"},"Class":22,"Title":"Forestry and Conservation Science Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4297"},"Class":22,"Title":"Zoologists and Wildlife Biologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4298"},"Class":22,"Title":"Biological Science Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4299"},"Class":23,"Title":"Occupational Health and Safety Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e429a"},"Class":23,"Title":"Government Property Inspectors and Investigators"}
+{"_id":{"$oid":"5adb6b1025149722c06e429b"},"Class":23,"Title":"Environmental Scientists and Specialists, Including Health"}
+{"_id":{"$oid":"5adb6b1025149722c06e429c"},"Class":23,"Title":"Forest and Conservation Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e429d"},"Class":23,"Title":"Foresters"}
+{"_id":{"$oid":"5adb6b1025149722c06e429e"},"Class":23,"Title":"Quality Control Systems Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e429f"},"Class":23,"Title":"Environmental Compliance Inspectors"}
+{"_id":{"$oid":"5adb6b1025149722c06e42a0"},"Class":23,"Title":"Natural Sciences Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42a1"},"Class":23,"Title":"Environmental Engineering Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e42a2"},"Class":23,"Title":"Water and Wastewater Treatment Plant and System Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e42a3"},"Class":23,"Title":"Forensic Science Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e42a4"},"Class":24,"Title":"Nanotechnology Engineering Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e42a5"},"Class":24,"Title":"Pump Operators, Except Wellhead Pumpers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42a6"},"Class":24,"Title":"Gas Plant Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e42a7"},"Class":24,"Title":"Gas Compressor and Gas Pumping Station Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e42a8"},"Class":24,"Title":"Biomass Plant Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e42a9"},"Class":24,"Title":"Nuclear Power Reactor Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e42aa"},"Class":24,"Title":"Wellhead Pumpers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ab"},"Class":24,"Title":"Biofuels Processing Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ac"},"Class":24,"Title":"Medical Equipment Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ad"},"Class":24,"Title":"Electrical and Electronics Installers and Repairers, Transportation Equipment"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ae"},"Class":24,"Title":"Nuclear Monitoring Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e42af"},"Class":24,"Title":"Nuclear Equipment Operation Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e42b0"},"Class":24,"Title":"Non-Destructive Testing Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e42b1"},"Class":24,"Title":"Tool and Die Makers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42b2"},"Class":24,"Title":"Geothermal Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e42b3"},"Class":24,"Title":"Maintenance Workers, Machinery"}
+{"_id":{"$oid":"5adb6b1025149722c06e42b4"},"Class":24,"Title":"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e42b5"},"Class":24,"Title":"Computer-Controlled Machine Tool Operators, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e42b6"},"Class":24,"Title":"Electro-Mechanical Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e42b7"},"Class":24,"Title":"Industrial Machinery Mechanics"}
+{"_id":{"$oid":"5adb6b1025149722c06e42b8"},"Class":25,"Title":"First-Line Supervisors of Construction Trades and Extraction Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42b9"},"Class":25,"Title":"Locksmiths and Safe Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ba"},"Class":25,"Title":"Wind Energy Operations Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42bb"},"Class":25,"Title":"First-Line Supervisors of Mechanics, Installers, and Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42bc"},"Class":25,"Title":"Explosives Workers, Ordnance Handling Experts, and Blasters"}
+{"_id":{"$oid":"5adb6b1025149722c06e42bd"},"Class":25,"Title":"Industrial Production Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42be"},"Class":25,"Title":"Freight and Cargo Inspectors"}
+{"_id":{"$oid":"5adb6b1025149722c06e42bf"},"Class":26,"Title":"Data Entry Keyers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42c0"},"Class":26,"Title":"Insurance Claims Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e42c1"},"Class":26,"Title":"Human Resources Assistants, Except Payroll and Timekeeping"}
+{"_id":{"$oid":"5adb6b1025149722c06e42c2"},"Class":26,"Title":"Executive Secretaries and Executive Administrative Assistants"}
+{"_id":{"$oid":"5adb6b1025149722c06e42c3"},"Class":26,"Title":"Medical Secretaries"}
+{"_id":{"$oid":"5adb6b1025149722c06e42c4"},"Class":26,"Title":"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"}
+{"_id":{"$oid":"5adb6b1025149722c06e42c5"},"Class":26,"Title":"Library Assistants, Clerical"}
+{"_id":{"$oid":"5adb6b1025149722c06e42c6"},"Class":26,"Title":"Insurance Policy Processing Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e42c7"},"Class":26,"Title":"Customer Service Representatives"}
+{"_id":{"$oid":"5adb6b1025149722c06e42c8"},"Class":26,"Title":"Credit Checkers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42c9"},"Class":26,"Title":"License Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ca"},"Class":26,"Title":"Correspondence Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e42cb"},"Class":26,"Title":"New Accounts Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e42cc"},"Class":26,"Title":"Tellers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42cd"},"Class":26,"Title":"Brokerage Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ce"},"Class":26,"Title":"Bookkeeping, Accounting, and Auditing Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e42cf"},"Class":26,"Title":"Accountants"}
+{"_id":{"$oid":"5adb6b1025149722c06e42d0"},"Class":26,"Title":"Credit Analysts"}
+{"_id":{"$oid":"5adb6b1025149722c06e42d1"},"Class":26,"Title":"Credit Counselors"}
+{"_id":{"$oid":"5adb6b1025149722c06e42d2"},"Class":26,"Title":"Payroll and Timekeeping Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e42d3"},"Class":26,"Title":"Loan Counselors"}
+{"_id":{"$oid":"5adb6b1025149722c06e42d4"},"Class":26,"Title":"Tax Examiners and Collectors, and Revenue Agents"}
+{"_id":{"$oid":"5adb6b1025149722c06e42d5"},"Class":26,"Title":"Loan Interviewers and Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e42d6"},"Class":26,"Title":"Tax Preparers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42d7"},"Class":26,"Title":"First-Line Supervisors of Office and Administrative Support Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42d8"},"Class":26,"Title":"Bill and Account Collectors"}
+{"_id":{"$oid":"5adb6b1025149722c06e42d9"},"Class":26,"Title":"Statement Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e42da"},"Class":27,"Title":"Vocational Education Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e42db"},"Class":27,"Title":"Massage Therapists"}
+{"_id":{"$oid":"5adb6b1025149722c06e42dc"},"Class":27,"Title":"Insurance Underwriters"}
+{"_id":{"$oid":"5adb6b1025149722c06e42dd"},"Class":27,"Title":"Self-Enrichment Education Teachers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42de"},"Class":27,"Title":"Fitness and Wellness Coordinators"}
+{"_id":{"$oid":"5adb6b1025149722c06e42df"},"Class":27,"Title":"Hearing Aid Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e42e0"},"Class":27,"Title":"First-Line Supervisors of Personal Service Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42e1"},"Class":27,"Title":"Coaches and Scouts"}
+{"_id":{"$oid":"5adb6b1025149722c06e42e2"},"Class":27,"Title":"Fitness Trainers and Aerobics Instructors"}
+{"_id":{"$oid":"5adb6b1025149722c06e42e3"},"Class":27,"Title":"Animal Trainers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42e4"},"Class":28,"Title":"Coin, Vending, and Amusement Machine Servicers and Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42e5"},"Class":28,"Title":"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42e6"},"Class":28,"Title":"First-Line Supervisors of Production and Operating Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42e7"},"Class":28,"Title":"Forging Machine Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e42e8"},"Class":28,"Title":"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e42e9"},"Class":28,"Title":"Machinists"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ea"},"Class":28,"Title":"Patternmakers, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e42eb"},"Class":28,"Title":"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ec"},"Class":28,"Title":"Watch Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ed"},"Class":28,"Title":"Tool Grinders, Filers, and Sharpeners"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ee"},"Class":28,"Title":"Tire Repairers and Changers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ef"},"Class":28,"Title":"Electric Motor, Power Tool, and Related Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42f0"},"Class":28,"Title":"Engine and Other Machine Assemblers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42f1"},"Class":28,"Title":"Precious Metal Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42f2"},"Class":28,"Title":"Glass Blowers, Molders, Benders, and Finishers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42f3"},"Class":28,"Title":"Recycling and Reclamation Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42f4"},"Class":29,"Title":"Instructional Designers and Technologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e42f5"},"Class":29,"Title":"Information Technology Project Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42f6"},"Class":29,"Title":"Informatics Nurse Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e42f7"},"Class":29,"Title":"Document Management Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e42f8"},"Class":29,"Title":"Human Factors Engineers and Ergonomists"}
+{"_id":{"$oid":"5adb6b1025149722c06e42f9"},"Class":29,"Title":"Web Administrators"}
+{"_id":{"$oid":"5adb6b1025149722c06e42fa"},"Class":29,"Title":"Computer and Information Systems Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e42fb"},"Class":30,"Title":"Political Science Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e42fc"},"Class":30,"Title":"Sociologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e42fd"},"Class":30,"Title":"Sociology Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e42fe"},"Class":30,"Title":"Political Scientists"}
+{"_id":{"$oid":"5adb6b1025149722c06e42ff"},"Class":30,"Title":"History Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4300"},"Class":31,"Title":"Security Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4301"},"Class":31,"Title":"Emergency Management Directors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4302"},"Class":31,"Title":"Forest Fire Fighting and Prevention Supervisors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4303"},"Class":31,"Title":"Fire Investigators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4304"},"Class":31,"Title":"Municipal Fire Fighting and Prevention Supervisors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4305"},"Class":31,"Title":"Municipal Firefighters"}
+{"_id":{"$oid":"5adb6b1025149722c06e4306"},"Class":31,"Title":"Fish and Game Wardens"}
+{"_id":{"$oid":"5adb6b1025149722c06e4307"},"Class":31,"Title":"Emergency Medical Technicians and Paramedics"}
+{"_id":{"$oid":"5adb6b1025149722c06e4308"},"Class":31,"Title":"Forest Fire Inspectors and Prevention Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4309"},"Class":31,"Title":"Forest Firefighters"}
+{"_id":{"$oid":"5adb6b1025149722c06e430a"},"Class":31,"Title":"Fire Inspectors"}
+{"_id":{"$oid":"5adb6b1025149722c06e430b"},"Class":32,"Title":"Transportation Attendants, Except Flight Attendants"}
+{"_id":{"$oid":"5adb6b1025149722c06e430c"},"Class":32,"Title":"Taxi Drivers and Chauffeurs"}
+{"_id":{"$oid":"5adb6b1025149722c06e430d"},"Class":32,"Title":"Bus Drivers, School or Special Client"}
+{"_id":{"$oid":"5adb6b1025149722c06e430e"},"Class":32,"Title":"Baggage Porters and Bellhops"}
+{"_id":{"$oid":"5adb6b1025149722c06e430f"},"Class":32,"Title":"Funeral Attendants"}
+{"_id":{"$oid":"5adb6b1025149722c06e4310"},"Class":32,"Title":"Bailiffs"}
+{"_id":{"$oid":"5adb6b1025149722c06e4311"},"Class":32,"Title":"Security Guards"}
+{"_id":{"$oid":"5adb6b1025149722c06e4312"},"Class":32,"Title":"Crossing Guards"}
+{"_id":{"$oid":"5adb6b1025149722c06e4313"},"Class":32,"Title":"Umpires, Referees, and Other Sports Officials"}
+{"_id":{"$oid":"5adb6b1025149722c06e4314"},"Class":32,"Title":"Transportation Security Screeners"}
+{"_id":{"$oid":"5adb6b1025149722c06e4315"},"Class":32,"Title":"Orderlies"}
+{"_id":{"$oid":"5adb6b1025149722c06e4316"},"Class":33,"Title":"Petroleum Pump System Operators, Refinery Operators, and Gaugers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4317"},"Class":33,"Title":"Stone Cutters and Carvers, Manufacturing"}
+{"_id":{"$oid":"5adb6b1025149722c06e4318"},"Class":33,"Title":"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e4319"},"Class":33,"Title":"Shoe Machine Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e431a"},"Class":33,"Title":"Mixing and Blending Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e431b"},"Class":33,"Title":"Grinding and Polishing Workers, Hand"}
+{"_id":{"$oid":"5adb6b1025149722c06e431c"},"Class":33,"Title":"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e431d"},"Class":33,"Title":"Industrial Truck and Tractor Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e431e"},"Class":33,"Title":"Cleaners of Vehicles and Equipment"}
+{"_id":{"$oid":"5adb6b1025149722c06e431f"},"Class":33,"Title":"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e4320"},"Class":33,"Title":"Machine Feeders and Offbearers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4321"},"Class":33,"Title":"Power Plant Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4322"},"Class":33,"Title":"Roof Bolters, Mining"}
+{"_id":{"$oid":"5adb6b1025149722c06e4323"},"Class":33,"Title":"Fiberglass Laminators and Fabricators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4324"},"Class":33,"Title":"Automotive Body and Related Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4325"},"Class":33,"Title":"Molding and Casting Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4326"},"Class":33,"Title":"Stationary Engineers and Boiler Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4327"},"Class":33,"Title":"Chemical Plant and System Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4328"},"Class":33,"Title":"Helpers--Extraction Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4329"},"Class":33,"Title":"Adhesive Bonding Machine Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e432a"},"Class":34,"Title":"Public Address System and Other Announcers"}
+{"_id":{"$oid":"5adb6b1025149722c06e432b"},"Class":34,"Title":"Agents and Business Managers of Artists, Performers, and Athletes"}
+{"_id":{"$oid":"5adb6b1025149722c06e432c"},"Class":34,"Title":"Musicians, Instrumental"}
+{"_id":{"$oid":"5adb6b1025149722c06e432d"},"Class":34,"Title":"Photographers"}
+{"_id":{"$oid":"5adb6b1025149722c06e432e"},"Class":34,"Title":"Singers"}
+{"_id":{"$oid":"5adb6b1025149722c06e432f"},"Class":34,"Title":"Music Composers and Arrangers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4330"},"Class":34,"Title":"Talent Directors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4331"},"Class":35,"Title":"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"}
+{"_id":{"$oid":"5adb6b1025149722c06e4332"},"Class":35,"Title":"First-Line Supervisors of Food Preparation and Serving Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4333"},"Class":35,"Title":"Animal Breeders"}
+{"_id":{"$oid":"5adb6b1025149722c06e4334"},"Class":35,"Title":"First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4335"},"Class":35,"Title":"Procurement Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e4336"},"Class":35,"Title":"Dispatchers, Except Police, Fire, and Ambulance"}
+{"_id":{"$oid":"5adb6b1025149722c06e4337"},"Class":35,"Title":"Recycling Coordinators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4338"},"Class":35,"Title":"Agricultural Inspectors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4339"},"Class":36,"Title":"Counseling Psychologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e433a"},"Class":36,"Title":"Clinical Psychologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e433b"},"Class":36,"Title":"Marriage and Family Therapists"}
+{"_id":{"$oid":"5adb6b1025149722c06e433c"},"Class":36,"Title":"Mental Health Counselors"}
+{"_id":{"$oid":"5adb6b1025149722c06e433d"},"Class":36,"Title":"Mental Health and Substance Abuse Social Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e433e"},"Class":36,"Title":"Healthcare Social Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e433f"},"Class":37,"Title":"Radio and Television Announcers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4340"},"Class":37,"Title":"Broadcast News Analysts"}
+{"_id":{"$oid":"5adb6b1025149722c06e4341"},"Class":37,"Title":"Reporters and Correspondents"}
+{"_id":{"$oid":"5adb6b1025149722c06e4342"},"Class":37,"Title":"Public Relations Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4343"},"Class":37,"Title":"Library Science Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4344"},"Class":37,"Title":"Poets, Lyricists and Creative Writers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4345"},"Class":37,"Title":"Librarians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4346"},"Class":37,"Title":"Program Directors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4347"},"Class":37,"Title":"Producers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4348"},"Class":37,"Title":"Editors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4349"},"Class":38,"Title":"Anesthesiologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e434a"},"Class":38,"Title":"Sports Medicine Physicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e434b"},"Class":38,"Title":"Nuclear Medicine Physicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e434c"},"Class":38,"Title":"Optometrists"}
+{"_id":{"$oid":"5adb6b1025149722c06e434d"},"Class":38,"Title":"Prosthodontists"}
+{"_id":{"$oid":"5adb6b1025149722c06e434e"},"Class":38,"Title":"Orthodontists"}
+{"_id":{"$oid":"5adb6b1025149722c06e434f"},"Class":38,"Title":"Dentists, General"}
+{"_id":{"$oid":"5adb6b1025149722c06e4350"},"Class":38,"Title":"Veterinarians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4351"},"Class":39,"Title":"Slaughterers and Meat Packers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4352"},"Class":39,"Title":"Farm Labor Contractors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4353"},"Class":39,"Title":"Food Cooking Machine Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e4354"},"Class":39,"Title":"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e4355"},"Class":39,"Title":"Dietetic Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4356"},"Class":39,"Title":"Cooks, Restaurant"}
+{"_id":{"$oid":"5adb6b1025149722c06e4357"},"Class":39,"Title":"Combined Food Preparation and Serving Workers, Including Fast Food"}
+{"_id":{"$oid":"5adb6b1025149722c06e4358"},"Class":39,"Title":"Cooks, Short Order"}
+{"_id":{"$oid":"5adb6b1025149722c06e4359"},"Class":39,"Title":"Cooks, Fast Food"}
+{"_id":{"$oid":"5adb6b1025149722c06e435a"},"Class":39,"Title":"Graders and Sorters, Agricultural Products"}
+{"_id":{"$oid":"5adb6b1025149722c06e435b"},"Class":39,"Title":"Bakers"}
+{"_id":{"$oid":"5adb6b1025149722c06e435c"},"Class":39,"Title":"Nursery Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e435d"},"Class":39,"Title":"Farmworkers and Laborers, Crop"}
+{"_id":{"$oid":"5adb6b1025149722c06e435e"},"Class":39,"Title":"Butchers and Meat Cutters"}
+{"_id":{"$oid":"5adb6b1025149722c06e435f"},"Class":40,"Title":"Bus Drivers, Transit and Intercity"}
+{"_id":{"$oid":"5adb6b1025149722c06e4360"},"Class":40,"Title":"Bridge and Lock Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e4361"},"Class":40,"Title":"Heavy and Tractor-Trailer Truck Drivers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4362"},"Class":40,"Title":"Subway and Streetcar Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4363"},"Class":40,"Title":"Railroad Conductors and Yardmasters"}
+{"_id":{"$oid":"5adb6b1025149722c06e4364"},"Class":40,"Title":"Railroad Brake, Signal, and Switch Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4365"},"Class":40,"Title":"Locomotive Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4366"},"Class":40,"Title":"Rail Yard Engineers, Dinkey Operators, and Hostlers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4367"},"Class":40,"Title":"Locomotive Firers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4368"},"Class":41,"Title":"Radio Frequency Identification Device Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4369"},"Class":41,"Title":"Operations Research Analysts"}
+{"_id":{"$oid":"5adb6b1025149722c06e436a"},"Class":41,"Title":"Computer and Information Research Scientists"}
+{"_id":{"$oid":"5adb6b1025149722c06e436b"},"Class":41,"Title":"Sales Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e436c"},"Class":41,"Title":"Computer Science Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e436d"},"Class":42,"Title":"Education Administrators, Elementary and Secondary School"}
+{"_id":{"$oid":"5adb6b1025149722c06e436e"},"Class":42,"Title":"Business Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e436f"},"Class":42,"Title":"Social Work Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4370"},"Class":42,"Title":"Clergy"}
+{"_id":{"$oid":"5adb6b1025149722c06e4371"},"Class":42,"Title":"Communications Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4372"},"Class":42,"Title":"Criminal Justice and Law Enforcement Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4373"},"Class":42,"Title":"Education Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4374"},"Class":42,"Title":"Psychology Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4375"},"Class":42,"Title":"Instructional Coordinators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4376"},"Class":42,"Title":"Home Economics Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4377"},"Class":43,"Title":"Historians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4378"},"Class":43,"Title":"Park Naturalists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4379"},"Class":43,"Title":"Archivists"}
+{"_id":{"$oid":"5adb6b1025149722c06e437a"},"Class":43,"Title":"Curators"}
+{"_id":{"$oid":"5adb6b1025149722c06e437b"},"Class":43,"Title":"Intelligence Analysts"}
+{"_id":{"$oid":"5adb6b1025149722c06e437c"},"Class":43,"Title":"Urban and Regional Planners"}
+{"_id":{"$oid":"5adb6b1025149722c06e437d"},"Class":44,"Title":"Medical Scientists, Except Epidemiologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e437e"},"Class":44,"Title":"Geneticists"}
+{"_id":{"$oid":"5adb6b1025149722c06e437f"},"Class":44,"Title":"Regulatory Affairs Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4380"},"Class":45,"Title":"Telecommunications Equipment Installers and Repairers, Except Line Installers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4381"},"Class":45,"Title":"Electronic Home Entertainment Equipment Installers and Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4382"},"Class":45,"Title":"Telecommunications Line Installers and Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4383"},"Class":45,"Title":"Radio Mechanics"}
+{"_id":{"$oid":"5adb6b1025149722c06e4384"},"Class":45,"Title":"Power Distributors and Dispatchers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4385"},"Class":45,"Title":"Security and Fire Alarm Systems Installers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4386"},"Class":45,"Title":"Radio, Cellular, and Tower Equipment Installers and Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4387"},"Class":45,"Title":"Broadcast Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4388"},"Class":45,"Title":"Technical Writers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4389"},"Class":46,"Title":"Parking Enforcement Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e438a"},"Class":46,"Title":"Gaming Surveillance Officers and Gaming Investigators"}
+{"_id":{"$oid":"5adb6b1025149722c06e438b"},"Class":46,"Title":"Police Identification and Records Officers"}
+{"_id":{"$oid":"5adb6b1025149722c06e438c"},"Class":46,"Title":"Correctional Officers and Jailers"}
+{"_id":{"$oid":"5adb6b1025149722c06e438d"},"Class":46,"Title":"Administrative Law Judges, Adjudicators, and Hearing Officers"}
+{"_id":{"$oid":"5adb6b1025149722c06e438e"},"Class":46,"Title":"Retail Loss Prevention Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e438f"},"Class":46,"Title":"Private Detectives and Investigators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4390"},"Class":46,"Title":"First-Line Supervisors of Correctional Officers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4391"},"Class":46,"Title":"Animal Control Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4392"},"Class":46,"Title":"Licensing Examiners and Inspectors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4393"},"Class":46,"Title":"Compliance Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4394"},"Class":46,"Title":"Claims Examiners, Property and Casualty Insurance"}
+{"_id":{"$oid":"5adb6b1025149722c06e4395"},"Class":46,"Title":"File Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e4396"},"Class":46,"Title":"Eligibility Interviewers, Government Programs"}
+{"_id":{"$oid":"5adb6b1025149722c06e4397"},"Class":47,"Title":"Motorcycle Mechanics"}
+{"_id":{"$oid":"5adb6b1025149722c06e4398"},"Class":47,"Title":"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation"}
+{"_id":{"$oid":"5adb6b1025149722c06e4399"},"Class":47,"Title":"Outdoor Power Equipment and Other Small Engine Mechanics"}
+{"_id":{"$oid":"5adb6b1025149722c06e439a"},"Class":47,"Title":"Bus and Truck Mechanics and Diesel Engine Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e439b"},"Class":47,"Title":"Electronic Equipment Installers and Repairers, Motor Vehicles"}
+{"_id":{"$oid":"5adb6b1025149722c06e439c"},"Class":47,"Title":"Automotive Specialty Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e439d"},"Class":47,"Title":"Motorboat Mechanics and Service Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e439e"},"Class":47,"Title":"Automotive Master Mechanics"}
+{"_id":{"$oid":"5adb6b1025149722c06e439f"},"Class":47,"Title":"Mobile Heavy Equipment Mechanics, Except Engines"}
+{"_id":{"$oid":"5adb6b1025149722c06e43a0"},"Class":47,"Title":"Automotive and Watercraft Service Attendants"}
+{"_id":{"$oid":"5adb6b1025149722c06e43a1"},"Class":47,"Title":"Aircraft Mechanics and Service Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43a2"},"Class":47,"Title":"Signal and Track Switch Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43a3"},"Class":48,"Title":"Mates- Ship, Boat, and Barge"}
+{"_id":{"$oid":"5adb6b1025149722c06e43a4"},"Class":48,"Title":"Airfield Operations Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43a5"},"Class":48,"Title":"Forest and Conservation Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43a6"},"Class":48,"Title":"Commercial Pilots"}
+{"_id":{"$oid":"5adb6b1025149722c06e43a7"},"Class":48,"Title":"Pilots, Ship"}
+{"_id":{"$oid":"5adb6b1025149722c06e43a8"},"Class":48,"Title":"Motorboat Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e43a9"},"Class":48,"Title":"Airline Pilots, Copilots, and Flight Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43aa"},"Class":48,"Title":"Ship and Boat Captains"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ab"},"Class":49,"Title":"Clinical Research Coordinators"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ac"},"Class":49,"Title":"Cardiovascular Technologists and Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ad"},"Class":49,"Title":"Radiologic Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ae"},"Class":49,"Title":"Ophthalmic Medical Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43af"},"Class":49,"Title":"Physical Therapist Assistants"}
+{"_id":{"$oid":"5adb6b1025149722c06e43b0"},"Class":49,"Title":"Physical Therapist Aides"}
+{"_id":{"$oid":"5adb6b1025149722c06e43b1"},"Class":49,"Title":"Medical Assistants"}
+{"_id":{"$oid":"5adb6b1025149722c06e43b2"},"Class":49,"Title":"Orthoptists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43b3"},"Class":49,"Title":"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43b4"},"Class":49,"Title":"Pharmacy Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43b5"},"Class":49,"Title":"Phlebotomists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43b6"},"Class":50,"Title":"Cartographers and Photogrammetrists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43b7"},"Class":50,"Title":"Mapping Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43b8"},"Class":50,"Title":"Remote Sensing Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43b9"},"Class":51,"Title":"Manufacturing Production Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ba"},"Class":51,"Title":"Manufacturing Engineering Technologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43bb"},"Class":51,"Title":"Industrial Engineering Technologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43bc"},"Class":51,"Title":"Automotive Engineering Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43bd"},"Class":51,"Title":"Aviation Inspectors"}
+{"_id":{"$oid":"5adb6b1025149722c06e43be"},"Class":51,"Title":"Industrial Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43bf"},"Class":51,"Title":"Biomass Power Plant Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43c0"},"Class":51,"Title":"Manufacturing Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43c1"},"Class":51,"Title":"Validation Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43c2"},"Class":51,"Title":"Hydroelectric Production Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43c3"},"Class":51,"Title":"Chemical Equipment Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e43c4"},"Class":52,"Title":"Pharmacists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43c5"},"Class":52,"Title":"Dermatologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43c6"},"Class":52,"Title":"Hospitalists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43c7"},"Class":52,"Title":"Dietitians and Nutritionists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43c8"},"Class":52,"Title":"Critical Care Nurses"}
+{"_id":{"$oid":"5adb6b1025149722c06e43c9"},"Class":52,"Title":"Acute Care Nurses"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ca"},"Class":52,"Title":"Acupuncturists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43cb"},"Class":52,"Title":"Physical Therapists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43cc"},"Class":52,"Title":"Licensed Practical and Licensed Vocational Nurses"}
+{"_id":{"$oid":"5adb6b1025149722c06e43cd"},"Class":52,"Title":"Genetic Counselors"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ce"},"Class":52,"Title":"Family and General Practitioners"}
+{"_id":{"$oid":"5adb6b1025149722c06e43cf"},"Class":52,"Title":"Registered Nurses"}
+{"_id":{"$oid":"5adb6b1025149722c06e43d0"},"Class":53,"Title":"Art, Drama, and Music Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e43d1"},"Class":53,"Title":"Music Directors"}
+{"_id":{"$oid":"5adb6b1025149722c06e43d2"},"Class":53,"Title":"Choreographers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43d3"},"Class":53,"Title":"Actors"}
+{"_id":{"$oid":"5adb6b1025149722c06e43d4"},"Class":54,"Title":"Obstetricians and Gynecologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43d5"},"Class":54,"Title":"Urologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43d6"},"Class":54,"Title":"Pathologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43d7"},"Class":54,"Title":"Podiatrists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43d8"},"Class":54,"Title":"Exercise Physiologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43d9"},"Class":54,"Title":"Health Specialties Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e43da"},"Class":54,"Title":"Physical Medicine and Rehabilitation Physicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43db"},"Class":54,"Title":"Radiologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43dc"},"Class":54,"Title":"Oral and Maxillofacial Surgeons"}
+{"_id":{"$oid":"5adb6b1025149722c06e43dd"},"Class":54,"Title":"Nurse Anesthetists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43de"},"Class":54,"Title":"Chiropractors"}
+{"_id":{"$oid":"5adb6b1025149722c06e43df"},"Class":54,"Title":"Ophthalmologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43e0"},"Class":54,"Title":"Allergists and Immunologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43e1"},"Class":54,"Title":"Surgeons"}
+{"_id":{"$oid":"5adb6b1025149722c06e43e2"},"Class":55,"Title":"Economists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43e3"},"Class":55,"Title":"Environmental Economists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43e4"},"Class":55,"Title":"Economics Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e43e5"},"Class":56,"Title":"Civil Engineering Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43e6"},"Class":56,"Title":"Electrical Drafters"}
+{"_id":{"$oid":"5adb6b1025149722c06e43e7"},"Class":56,"Title":"Civil Drafters"}
+{"_id":{"$oid":"5adb6b1025149722c06e43e8"},"Class":56,"Title":"Surveying Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43e9"},"Class":56,"Title":"Architectural Drafters"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ea"},"Class":56,"Title":"Traffic Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43eb"},"Class":57,"Title":"Surgical Assistants"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ec"},"Class":57,"Title":"Anesthesiologist Assistants"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ed"},"Class":57,"Title":"Dental Assistants"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ee"},"Class":57,"Title":"Surgical Technologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ef"},"Class":57,"Title":"Endoscopy Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43f0"},"Class":57,"Title":"Dental Hygienists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43f1"},"Class":58,"Title":"Compensation, Benefits, and Job Analysis Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43f2"},"Class":58,"Title":"Labor Relations Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43f3"},"Class":58,"Title":"Compensation and Benefits Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43f4"},"Class":58,"Title":"Human Resources Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43f5"},"Class":58,"Title":"Medical and Health Services Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43f6"},"Class":58,"Title":"Municipal Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e43f7"},"Class":58,"Title":"Chief Executives"}
+{"_id":{"$oid":"5adb6b1025149722c06e43f8"},"Class":58,"Title":"Lawyers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43f9"},"Class":58,"Title":"Spa Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43fa"},"Class":59,"Title":"Medical Equipment Preparers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43fb"},"Class":59,"Title":"Veterinary Assistants and Laboratory Animal Caretakers"}
+{"_id":{"$oid":"5adb6b1025149722c06e43fc"},"Class":59,"Title":"Medical and Clinical Laboratory Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43fd"},"Class":59,"Title":"Histotechnologists and Histologic Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e43fe"},"Class":59,"Title":"Cytotechnologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e43ff"},"Class":59,"Title":"Biological Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4400"},"Class":59,"Title":"Cytogenetic Technologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4401"},"Class":59,"Title":"Veterinary Technologists and Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4402"},"Class":59,"Title":"Medical and Clinical Laboratory Technologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4403"},"Class":59,"Title":"Regulatory Affairs Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4404"},"Class":60,"Title":"Occupational Health and Safety Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4405"},"Class":60,"Title":"Product Safety Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4406"},"Class":60,"Title":"Industrial Safety and Health Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4407"},"Class":60,"Title":"Geothermal Production Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4408"},"Class":61,"Title":"Bicycle Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4409"},"Class":61,"Title":"Fabric Menders, Except Garment"}
+{"_id":{"$oid":"5adb6b1025149722c06e440a"},"Class":61,"Title":"Production, Planning, and Expediting Clerks"}
+{"_id":{"$oid":"5adb6b1025149722c06e440b"},"Class":61,"Title":"Camera and Photographic Equipment Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e440c"},"Class":62,"Title":"Funeral Service Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e440d"},"Class":62,"Title":"Morticians, Undertakers, and Funeral Directors"}
+{"_id":{"$oid":"5adb6b1025149722c06e440e"},"Class":62,"Title":"Embalmers"}
+{"_id":{"$oid":"5adb6b1025149722c06e440f"},"Class":63,"Title":"Agricultural Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4410"},"Class":63,"Title":"Water Resource Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4411"},"Class":63,"Title":"Engineering Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4412"},"Class":63,"Title":"Environmental Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4413"},"Class":63,"Title":"Water/Wastewater Engineers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4414"},"Class":63,"Title":"Hydrologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4415"},"Class":63,"Title":"Architectural and Engineering Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4416"},"Class":64,"Title":"Brownfield Redevelopment Specialists and Site Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4417"},"Class":64,"Title":"Chief Sustainability Officers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4418"},"Class":64,"Title":"Sustainability Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4419"},"Class":64,"Title":"Surveyors"}
+{"_id":{"$oid":"5adb6b1025149722c06e441a"},"Class":64,"Title":"Environmental Science and Protection Technicians, Including Health"}
+{"_id":{"$oid":"5adb6b1025149722c06e441b"},"Class":64,"Title":"Industrial Ecologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e441c"},"Class":64,"Title":"Range Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e441d"},"Class":64,"Title":"Soil and Water Conservationists"}
+{"_id":{"$oid":"5adb6b1025149722c06e441e"},"Class":64,"Title":"Environmental Restoration Planners"}
+{"_id":{"$oid":"5adb6b1025149722c06e441f"},"Class":65,"Title":"Makeup Artists, Theatrical and Performance"}
+{"_id":{"$oid":"5adb6b1025149722c06e4420"},"Class":65,"Title":"Museum Technicians and Conservators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4421"},"Class":65,"Title":"Costume Attendants"}
+{"_id":{"$oid":"5adb6b1025149722c06e4422"},"Class":65,"Title":"Craft Artists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4423"},"Class":65,"Title":"Potters, Manufacturing"}
+{"_id":{"$oid":"5adb6b1025149722c06e4424"},"Class":65,"Title":"Musical Instrument Repairers and Tuners"}
+{"_id":{"$oid":"5adb6b1025149722c06e4425"},"Class":65,"Title":"Jewelers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4426"},"Class":66,"Title":"Physics Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4427"},"Class":66,"Title":"Astronomers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4428"},"Class":66,"Title":"Mathematicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4429"},"Class":67,"Title":"Metal-Refining Furnace Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e442a"},"Class":67,"Title":"Model Makers, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e442b"},"Class":67,"Title":"Print Binding and Finishing Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e442c"},"Class":67,"Title":"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e442d"},"Class":67,"Title":"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e442e"},"Class":67,"Title":"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e442f"},"Class":67,"Title":"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e4430"},"Class":67,"Title":"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e4431"},"Class":67,"Title":"Timing Device Assemblers and Adjusters"}
+{"_id":{"$oid":"5adb6b1025149722c06e4432"},"Class":67,"Title":"Electromechanical Equipment Assemblers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4433"},"Class":67,"Title":"Computer, Automated Teller, and Office Machine Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4434"},"Class":67,"Title":"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e4435"},"Class":67,"Title":"Foundry Mold and Coremakers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4436"},"Class":67,"Title":"Motion Picture Projectionists"}
+{"_id":{"$oid":"5adb6b1025149722c06e4437"},"Class":67,"Title":"Printing Press Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4438"},"Class":67,"Title":"Semiconductor Processors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4439"},"Class":67,"Title":"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1025149722c06e443a"},"Class":67,"Title":"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e443b"},"Class":67,"Title":"Paper Goods Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e443c"},"Class":67,"Title":"Tire Builders"}
+{"_id":{"$oid":"5adb6b1025149722c06e443d"},"Class":67,"Title":"Inspectors, Testers, Sorters, Samplers, and Weighers"}
+{"_id":{"$oid":"5adb6b1025149722c06e443e"},"Class":67,"Title":"Ophthalmic Laboratory Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e443f"},"Class":67,"Title":"Cutting and Slicing Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e4440"},"Class":67,"Title":"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4441"},"Class":67,"Title":"Textile Cutting Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1025149722c06e4442"},"Class":67,"Title":"Chemical Technicians"}
+{"_id":{"$oid":"5adb6b1025149722c06e4443"},"Class":67,"Title":"Painters, Transportation Equipment"}
+{"_id":{"$oid":"5adb6b1025149722c06e4444"},"Class":68,"Title":"Pest Control Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4445"},"Class":68,"Title":"Landscaping and Groundskeeping Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4446"},"Class":68,"Title":"Pesticide Handlers, Sprayers, and Applicators, Vegetation"}
+{"_id":{"$oid":"5adb6b1025149722c06e4447"},"Class":68,"Title":"Tree Trimmers and Pruners"}
+{"_id":{"$oid":"5adb6b1025149722c06e4448"},"Class":68,"Title":"Refuse and Recyclable Material Collectors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4449"},"Class":68,"Title":"Hunters and Trappers"}
+{"_id":{"$oid":"5adb6b1025149722c06e444a"},"Class":68,"Title":"Farmworkers, Farm, Ranch, and Aquacultural Animals"}
+{"_id":{"$oid":"5adb6b1025149722c06e444b"},"Class":68,"Title":"Home Appliance Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e444c"},"Class":68,"Title":"Meter Readers, Utilities"}
+{"_id":{"$oid":"5adb6b1025149722c06e444d"},"Class":69,"Title":"Helpers--Installation, Maintenance, and Repair Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e444e"},"Class":69,"Title":"Sawing Machine Setters, Operators, and Tenders, Wood"}
+{"_id":{"$oid":"5adb6b1025149722c06e444f"},"Class":69,"Title":"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"}
+{"_id":{"$oid":"5adb6b1025149722c06e4450"},"Class":69,"Title":"Helpers--Production Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4451"},"Class":69,"Title":"Mine Shuttle Car Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4452"},"Class":69,"Title":"Refractory Materials Repairers, Except Brickmasons"}
+{"_id":{"$oid":"5adb6b1025149722c06e4453"},"Class":69,"Title":"Rail Car Repairers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4454"},"Class":69,"Title":"Dredge Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4455"},"Class":69,"Title":"Logging Equipment Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4456"},"Class":69,"Title":"Hoist and Winch Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4457"},"Class":69,"Title":"Upholsterers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4458"},"Class":69,"Title":"Mine Cutting and Channeling Machine Operators"}
+{"_id":{"$oid":"5adb6b1025149722c06e4459"},"Class":69,"Title":"Electrical and Electronic Equipment Assemblers"}
+{"_id":{"$oid":"5adb6b1025149722c06e445a"},"Class":69,"Title":"Furniture Finishers"}
+{"_id":{"$oid":"5adb6b1025149722c06e445b"},"Class":70,"Title":"Biofuels Production Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e445c"},"Class":70,"Title":"Animal Scientists"}
+{"_id":{"$oid":"5adb6b1025149722c06e445d"},"Class":70,"Title":"Nursery and Greenhouse Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e445e"},"Class":70,"Title":"Food Scientists and Technologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e445f"},"Class":70,"Title":"Farm and Ranch Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4460"},"Class":70,"Title":"Aquacultural Managers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4461"},"Class":70,"Title":"Meat, Poultry, and Fish Cutters and Trimmers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4462"},"Class":70,"Title":"First-Line Supervisors of Aquacultural Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4463"},"Class":70,"Title":"First-Line Supervisors of Agricultural Crop and Horticultural Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4464"},"Class":71,"Title":"City and Regional Planning Aides"}
+{"_id":{"$oid":"5adb6b1025149722c06e4465"},"Class":71,"Title":"Transportation Planners"}
+{"_id":{"$oid":"5adb6b1025149722c06e4466"},"Class":72,"Title":"Appraisers, Real Estate"}
+{"_id":{"$oid":"5adb6b1025149722c06e4467"},"Class":72,"Title":"Customs Brokers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4468"},"Class":72,"Title":"Assessors"}
+{"_id":{"$oid":"5adb6b1025149722c06e4469"},"Class":72,"Title":"Energy Brokers"}
+{"_id":{"$oid":"5adb6b1025149722c06e446a"},"Class":72,"Title":"Credit Authorizers"}
+{"_id":{"$oid":"5adb6b1025149722c06e446b"},"Class":72,"Title":"Statistical Assistants"}
+{"_id":{"$oid":"5adb6b1025149722c06e446c"},"Class":73,"Title":"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e446d"},"Class":73,"Title":"Anthropologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e446e"},"Class":73,"Title":"Archeologists"}
+{"_id":{"$oid":"5adb6b1025149722c06e446f"},"Class":73,"Title":"Anthropology and Archeology Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1025149722c06e4470"},"Class":74,"Title":"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"}
+{"_id":{"$oid":"5adb6b1025149722c06e4471"},"Class":74,"Title":"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"}
+{"_id":{"$oid":"5adb6b1025149722c06e4472"},"Class":74,"Title":"Dining Room and Cafeteria Attendants and Bartender Helpers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4473"},"Class":74,"Title":"Food Servers, Nonrestaurant"}
+{"_id":{"$oid":"5adb6b1025149722c06e4474"},"Class":74,"Title":"Baristas"}
+{"_id":{"$oid":"5adb6b1025149722c06e4475"},"Class":74,"Title":"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"}
+{"_id":{"$oid":"5adb6b1025149722c06e4476"},"Class":74,"Title":"Food Preparation Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4477"},"Class":74,"Title":"Barbers"}
+{"_id":{"$oid":"5adb6b1025149722c06e4478"},"Class":74,"Title":"Cooks, Institution and Cafeteria"}
+{"_id":{"$oid":"5adb6b1025149722c06e4479"},"Class":74,"Title":"Maids and Housekeeping Cleaners"}
+{"_id":{"$oid":"5adb6b1025149722c06e447a"},"Class":74,"Title":"Manicurists and Pedicurists"}
+{"_id":{"$oid":"5adb6b1025149722c06e447b"},"Class":74,"Title":"Shampooers"}
+{"_id":{"$oid":"5adb6b1025149722c06e447c"},"Class":74,"Title":"Skincare Specialists"}
+{"_id":{"$oid":"5adb6b1025149722c06e447d"},"Class":74,"Title":"Laundry and Dry-Cleaning Workers"}
+{"_id":{"$oid":"5adb6b1025149722c06e447e"},"Class":74,"Title":"Packers and Packagers, Hand"}
+{"_id":{"$oid":"5adb6b1025149722c06e447f"},"Class":74,"Title":"Locker Room, Coatroom, and Dressing Room Attendants"}
+{"_id":{"$oid":"5adb6b1025149722c06e4480"},"Class":74,"Title":"Nonfarm Animal Caretakers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4481"},"Class":74,"Title":"Dancers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4482"},"Class":74,"Title":"Gaming Dealers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4483"},"Class":75,"Title":"Occupational Therapists"}
+{"_id":{"$oid":"5adb6b1125149722c06e4484"},"Class":75,"Title":"Patient Representatives"}
+{"_id":{"$oid":"5adb6b1125149722c06e4485"},"Class":75,"Title":"Adapted Physical Education Specialists"}
+{"_id":{"$oid":"5adb6b1125149722c06e4486"},"Class":75,"Title":"Community Health Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4487"},"Class":75,"Title":"Substance Abuse and Behavioral Disorder Counselors"}
+{"_id":{"$oid":"5adb6b1125149722c06e4488"},"Class":75,"Title":"Social and Community Service Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4489"},"Class":75,"Title":"Educational, Guidance, School, and Vocational Counselors"}
+{"_id":{"$oid":"5adb6b1125149722c06e448a"},"Class":75,"Title":"Recreation Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e448b"},"Class":75,"Title":"Music Therapists"}
+{"_id":{"$oid":"5adb6b1125149722c06e448c"},"Class":75,"Title":"Art Therapists"}
+{"_id":{"$oid":"5adb6b1125149722c06e448d"},"Class":75,"Title":"Recreational Therapists"}
+{"_id":{"$oid":"5adb6b1125149722c06e448e"},"Class":76,"Title":"Multimedia Artists and Animators"}
+{"_id":{"$oid":"5adb6b1125149722c06e448f"},"Class":76,"Title":"Prepress Technicians and Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4490"},"Class":76,"Title":"Etchers and Engravers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4491"},"Class":76,"Title":"Sewers, Hand"}
+{"_id":{"$oid":"5adb6b1125149722c06e4492"},"Class":76,"Title":"Film and Video Editors"}
+{"_id":{"$oid":"5adb6b1125149722c06e4493"},"Class":76,"Title":"Fashion Designers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4494"},"Class":76,"Title":"Fabric and Apparel Patternmakers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4495"},"Class":77,"Title":"Information Security Analysts"}
+{"_id":{"$oid":"5adb6b1125149722c06e4496"},"Class":77,"Title":"Telecommunications Engineering Specialists"}
+{"_id":{"$oid":"5adb6b1125149722c06e4497"},"Class":77,"Title":"Computer Network Architects"}
+{"_id":{"$oid":"5adb6b1125149722c06e4498"},"Class":77,"Title":"Computer Systems Engineers/Architects"}
+{"_id":{"$oid":"5adb6b1125149722c06e4499"},"Class":77,"Title":"Database Administrators"}
+{"_id":{"$oid":"5adb6b1125149722c06e449a"},"Class":77,"Title":"Software Developers, Systems Software"}
+{"_id":{"$oid":"5adb6b1125149722c06e449b"},"Class":77,"Title":"Computer Network Support Specialists"}
+{"_id":{"$oid":"5adb6b1125149722c06e449c"},"Class":77,"Title":"Network and Computer Systems Administrators"}
+{"_id":{"$oid":"5adb6b1125149722c06e449d"},"Class":78,"Title":"Gaming Supervisors"}
+{"_id":{"$oid":"5adb6b1125149722c06e449e"},"Class":78,"Title":"Retail Salespersons"}
+{"_id":{"$oid":"5adb6b1125149722c06e449f"},"Class":78,"Title":"Insurance Appraisers, Auto Damage"}
+{"_id":{"$oid":"5adb6b1125149722c06e44a0"},"Class":78,"Title":"First-Line Supervisors of Retail Sales Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44a1"},"Class":78,"Title":"Slot Supervisors"}
+{"_id":{"$oid":"5adb6b1125149722c06e44a2"},"Class":78,"Title":"Order Clerks"}
+{"_id":{"$oid":"5adb6b1125149722c06e44a3"},"Class":78,"Title":"Computer Operators"}
+{"_id":{"$oid":"5adb6b1125149722c06e44a4"},"Class":78,"Title":"Hotel, Motel, and Resort Desk Clerks"}
+{"_id":{"$oid":"5adb6b1125149722c06e44a5"},"Class":78,"Title":"Opticians, Dispensing"}
+{"_id":{"$oid":"5adb6b1125149722c06e44a6"},"Class":78,"Title":"Insurance Adjusters, Examiners, and Investigators"}
+{"_id":{"$oid":"5adb6b1125149722c06e44a7"},"Class":78,"Title":"Postal Service Clerks"}
+{"_id":{"$oid":"5adb6b1125149722c06e44a8"},"Class":79,"Title":"Tour Guides and Escorts"}
+{"_id":{"$oid":"5adb6b1125149722c06e44a9"},"Class":79,"Title":"Cargo and Freight Agents"}
+{"_id":{"$oid":"5adb6b1125149722c06e44aa"},"Class":79,"Title":"Flight Attendants"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ab"},"Class":79,"Title":"Freight Forwarders"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ac"},"Class":79,"Title":"Air Traffic Controllers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ad"},"Class":79,"Title":"Reservation and Transportation Ticket Agents and Travel Clerks"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ae"},"Class":79,"Title":"Radio Operators"}
+{"_id":{"$oid":"5adb6b1125149722c06e44af"},"Class":79,"Title":"Concierges"}
+{"_id":{"$oid":"5adb6b1125149722c06e44b0"},"Class":80,"Title":"Landscape Architects"}
+{"_id":{"$oid":"5adb6b1125149722c06e44b1"},"Class":80,"Title":"Interior Designers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44b2"},"Class":80,"Title":"Architecture Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1125149722c06e44b3"},"Class":80,"Title":"Set and Exhibit Designers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44b4"},"Class":80,"Title":"Architects, Except Landscape and Naval"}
+{"_id":{"$oid":"5adb6b1125149722c06e44b5"},"Class":81,"Title":"Segmental Pavers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44b6"},"Class":81,"Title":"Stonemasons"}
+{"_id":{"$oid":"5adb6b1125149722c06e44b7"},"Class":81,"Title":"Plasterers and Stucco Masons"}
+{"_id":{"$oid":"5adb6b1125149722c06e44b8"},"Class":81,"Title":"Fence Erectors"}
+{"_id":{"$oid":"5adb6b1125149722c06e44b9"},"Class":81,"Title":"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ba"},"Class":81,"Title":"Insulation Workers, Floor, Ceiling, and Wall"}
+{"_id":{"$oid":"5adb6b1125149722c06e44bb"},"Class":81,"Title":"Tile and Marble Setters"}
+{"_id":{"$oid":"5adb6b1125149722c06e44bc"},"Class":81,"Title":"Tapers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44bd"},"Class":81,"Title":"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"}
+{"_id":{"$oid":"5adb6b1125149722c06e44be"},"Class":81,"Title":"Helpers--Roofers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44bf"},"Class":81,"Title":"Excavating and Loading Machine and Dragline Operators"}
+{"_id":{"$oid":"5adb6b1125149722c06e44c0"},"Class":81,"Title":"Floor Sanders and Finishers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44c1"},"Class":81,"Title":"Glaziers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44c2"},"Class":82,"Title":"Biochemists and Biophysicists"}
+{"_id":{"$oid":"5adb6b1125149722c06e44c3"},"Class":82,"Title":"Molecular and Cellular Biologists"}
+{"_id":{"$oid":"5adb6b1125149722c06e44c4"},"Class":82,"Title":"Biologists"}
+{"_id":{"$oid":"5adb6b1125149722c06e44c5"},"Class":82,"Title":"Bioinformatics Scientists"}
+{"_id":{"$oid":"5adb6b1125149722c06e44c6"},"Class":82,"Title":"Chemistry Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1125149722c06e44c7"},"Class":82,"Title":"Microbiologists"}
+{"_id":{"$oid":"5adb6b1125149722c06e44c8"},"Class":83,"Title":"Geoscientists, Except Hydrologists and Geographers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44c9"},"Class":83,"Title":"Geodetic Surveyors"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ca"},"Class":83,"Title":"Geophysical Data Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e44cb"},"Class":83,"Title":"Atmospheric and Space Scientists"}
+{"_id":{"$oid":"5adb6b1125149722c06e44cc"},"Class":83,"Title":"Remote Sensing Scientists and Technologists"}
+{"_id":{"$oid":"5adb6b1125149722c06e44cd"},"Class":83,"Title":"Geographic Information Systems Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ce"},"Class":83,"Title":"Geospatial Information Scientists and Technologists"}
+{"_id":{"$oid":"5adb6b1125149722c06e44cf"},"Class":84,"Title":"Law Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1125149722c06e44d0"},"Class":85,"Title":"Energy Auditors"}
+{"_id":{"$oid":"5adb6b1125149722c06e44d1"},"Class":85,"Title":"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"}
+{"_id":{"$oid":"5adb6b1125149722c06e44d2"},"Class":85,"Title":"Solar Thermal Installers and Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e44d3"},"Class":85,"Title":"Hydroelectric Plant Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e44d4"},"Class":85,"Title":"Heating and Air Conditioning Mechanics and Installers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44d5"},"Class":85,"Title":"Plumbers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44d6"},"Class":85,"Title":"Ship Engineers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44d7"},"Class":85,"Title":"Control and Valve Installers and Repairers, Except Mechanical Door"}
+{"_id":{"$oid":"5adb6b1125149722c06e44d8"},"Class":85,"Title":"Service Unit Operators, Oil, Gas, and Mining"}
+{"_id":{"$oid":"5adb6b1125149722c06e44d9"},"Class":85,"Title":"Farm Equipment Mechanics and Service Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e44da"},"Class":85,"Title":"Wind Turbine Service Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e44db"},"Class":85,"Title":"Elevator Installers and Repairers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44dc"},"Class":85,"Title":"Electricians"}
+{"_id":{"$oid":"5adb6b1125149722c06e44dd"},"Class":85,"Title":"Millwrights"}
+{"_id":{"$oid":"5adb6b1125149722c06e44de"},"Class":85,"Title":"Refrigeration Mechanics and Installers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44df"},"Class":86,"Title":"Graduate Teaching Assistants"}
+{"_id":{"$oid":"5adb6b1125149722c06e44e0"},"Class":86,"Title":"Recreation and Fitness Studies Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1125149722c06e44e1"},"Class":86,"Title":"Secondary School Teachers, Except Special and Career/Technical Education"}
+{"_id":{"$oid":"5adb6b1125149722c06e44e2"},"Class":86,"Title":"Middle School Teachers, Except Special and Career/Technical Education"}
+{"_id":{"$oid":"5adb6b1125149722c06e44e3"},"Class":86,"Title":"Tutors"}
+{"_id":{"$oid":"5adb6b1125149722c06e44e4"},"Class":86,"Title":"Elementary School Teachers, Except Special Education"}
+{"_id":{"$oid":"5adb6b1125149722c06e44e5"},"Class":86,"Title":"Social Science Research Assistants"}
+{"_id":{"$oid":"5adb6b1125149722c06e44e6"},"Class":86,"Title":"Special Education Teachers, Kindergarten and Elementary School"}
+{"_id":{"$oid":"5adb6b1125149722c06e44e7"},"Class":86,"Title":"Special Education Teachers, Middle School"}
+{"_id":{"$oid":"5adb6b1125149722c06e44e8"},"Class":86,"Title":"Mathematical Science Teachers, Postsecondary"}
+{"_id":{"$oid":"5adb6b1125149722c06e44e9"},"Class":86,"Title":"Special Education Teachers, Secondary School"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ea"},"Class":86,"Title":"Adult Basic and Secondary Education and Literacy Teachers and Instructors"}
+{"_id":{"$oid":"5adb6b1125149722c06e44eb"},"Class":86,"Title":"Epidemiologists"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ec"},"Class":87,"Title":"Property, Real Estate, and Community Association Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ed"},"Class":87,"Title":"Administrative Services Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ee"},"Class":87,"Title":"Lodging Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ef"},"Class":87,"Title":"Career/Technical Education Teachers, Middle School"}
+{"_id":{"$oid":"5adb6b1125149722c06e44f0"},"Class":87,"Title":"Career/Technical Education Teachers, Secondary School"}
+{"_id":{"$oid":"5adb6b1125149722c06e44f1"},"Class":87,"Title":"Meeting, Convention, and Event Planners"}
+{"_id":{"$oid":"5adb6b1125149722c06e44f2"},"Class":87,"Title":"First-Line Supervisors of Housekeeping and Janitorial Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44f3"},"Class":87,"Title":"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44f4"},"Class":87,"Title":"Gaming Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44f5"},"Class":87,"Title":"Athletes and Sports Competitors"}
+{"_id":{"$oid":"5adb6b1125149722c06e44f6"},"Class":87,"Title":"Chefs and Head Cooks"}
+{"_id":{"$oid":"5adb6b1125149722c06e44f7"},"Class":87,"Title":"Food Service Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44f8"},"Class":88,"Title":"Audio-Visual and Multimedia Collections Specialists"}
+{"_id":{"$oid":"5adb6b1125149722c06e44f9"},"Class":88,"Title":"Technical Directors/Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44fa"},"Class":88,"Title":"Directors- Stage, Motion Pictures, Television, and Radio"}
+{"_id":{"$oid":"5adb6b1125149722c06e44fb"},"Class":88,"Title":"Audio and Video Equipment Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e44fc"},"Class":88,"Title":"Camera Operators, Television, Video, and Motion Picture"}
+{"_id":{"$oid":"5adb6b1125149722c06e44fd"},"Class":88,"Title":"Sound Engineering Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e44fe"},"Class":89,"Title":"Clinical Data Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e44ff"},"Class":89,"Title":"Bioinformatics Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e4500"},"Class":89,"Title":"Biostatisticians"}
+{"_id":{"$oid":"5adb6b1125149722c06e4501"},"Class":90,"Title":"Personal Care Aides"}
+{"_id":{"$oid":"5adb6b1125149722c06e4502"},"Class":90,"Title":"Preschool Teachers, Except Special Education"}
+{"_id":{"$oid":"5adb6b1125149722c06e4503"},"Class":90,"Title":"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4504"},"Class":90,"Title":"Occupational Therapy Aides"}
+{"_id":{"$oid":"5adb6b1125149722c06e4505"},"Class":90,"Title":"Childcare Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4506"},"Class":90,"Title":"Kindergarten Teachers, Except Special Education"}
+{"_id":{"$oid":"5adb6b1125149722c06e4507"},"Class":90,"Title":"Teacher Assistants"}
+{"_id":{"$oid":"5adb6b1125149722c06e4508"},"Class":90,"Title":"Nursing Assistants"}
+{"_id":{"$oid":"5adb6b1125149722c06e4509"},"Class":90,"Title":"Psychiatric Aides"}
+{"_id":{"$oid":"5adb6b1125149722c06e450a"},"Class":90,"Title":"Home Health Aides"}
+{"_id":{"$oid":"5adb6b1125149722c06e450b"},"Class":90,"Title":"Nannies"}
+{"_id":{"$oid":"5adb6b1125149722c06e450c"},"Class":91,"Title":"Crane and Tower Operators"}
+{"_id":{"$oid":"5adb6b1125149722c06e450d"},"Class":91,"Title":"Loading Machine Operators, Underground Mining"}
+{"_id":{"$oid":"5adb6b1125149722c06e450e"},"Class":91,"Title":"Pipelayers"}
+{"_id":{"$oid":"5adb6b1125149722c06e450f"},"Class":91,"Title":"Painters, Construction and Maintenance"}
+{"_id":{"$oid":"5adb6b1125149722c06e4510"},"Class":91,"Title":"Hazardous Materials Removal Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4511"},"Class":91,"Title":"Rail-Track Laying and Maintenance Equipment Operators"}
+{"_id":{"$oid":"5adb6b1125149722c06e4512"},"Class":91,"Title":"Highway Maintenance Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4513"},"Class":91,"Title":"First-Line Supervisors of Logging Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4514"},"Class":91,"Title":"Pile-Driver Operators"}
+{"_id":{"$oid":"5adb6b1125149722c06e4515"},"Class":91,"Title":"Continuous Mining Machine Operators"}
+{"_id":{"$oid":"5adb6b1125149722c06e4516"},"Class":91,"Title":"Earth Drillers, Except Oil and Gas"}
+{"_id":{"$oid":"5adb6b1125149722c06e4517"},"Class":91,"Title":"Rotary Drill Operators, Oil and Gas"}
+{"_id":{"$oid":"5adb6b1125149722c06e4518"},"Class":91,"Title":"Manufactured Building and Mobile Home Installers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4519"},"Class":91,"Title":"Roustabouts, Oil and Gas"}
+{"_id":{"$oid":"5adb6b1125149722c06e451a"},"Class":91,"Title":"Septic Tank Servicers and Sewer Pipe Cleaners"}
+{"_id":{"$oid":"5adb6b1125149722c06e451b"},"Class":91,"Title":"Derrick Operators, Oil and Gas"}
+{"_id":{"$oid":"5adb6b1125149722c06e451c"},"Class":91,"Title":"Paving, Surfacing, and Tamping Equipment Operators"}
+{"_id":{"$oid":"5adb6b1125149722c06e451d"},"Class":91,"Title":"Maintenance and Repair Workers, General"}
+{"_id":{"$oid":"5adb6b1125149722c06e451e"},"Class":91,"Title":"Electrical Power-Line Installers and Repairers"}
+{"_id":{"$oid":"5adb6b1125149722c06e451f"},"Class":91,"Title":"Construction Laborers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4520"},"Class":91,"Title":"Commercial Divers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4521"},"Class":92,"Title":"Treasurers and Controllers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4522"},"Class":92,"Title":"Fraud Examiners, Investigators and Analysts"}
+{"_id":{"$oid":"5adb6b1125149722c06e4523"},"Class":92,"Title":"Investment Fund Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4524"},"Class":92,"Title":"Financial Examiners"}
+{"_id":{"$oid":"5adb6b1125149722c06e4525"},"Class":92,"Title":"Risk Management Specialists"}
+{"_id":{"$oid":"5adb6b1125149722c06e4526"},"Class":92,"Title":"Auditors"}
+{"_id":{"$oid":"5adb6b1125149722c06e4527"},"Class":92,"Title":"Budget Analysts"}
+{"_id":{"$oid":"5adb6b1125149722c06e4528"},"Class":92,"Title":"Financial Quantitative Analysts"}
+{"_id":{"$oid":"5adb6b1125149722c06e4529"},"Class":92,"Title":"Financial Analysts"}
+{"_id":{"$oid":"5adb6b1125149722c06e452a"},"Class":92,"Title":"Actuaries"}
+{"_id":{"$oid":"5adb6b1125149722c06e452b"},"Class":93,"Title":"First-Line Supervisors of Animal Husbandry and Animal Care Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e452c"},"Class":93,"Title":"Sailors and Marine Oilers"}
+{"_id":{"$oid":"5adb6b1125149722c06e452d"},"Class":93,"Title":"Fishers and Related Fishing Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e452e"},"Class":93,"Title":"Food Batchmakers"}
+{"_id":{"$oid":"5adb6b1125149722c06e452f"},"Class":93,"Title":"Cooling and Freezing Equipment Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1125149722c06e4530"},"Class":93,"Title":"Textile Bleaching and Dyeing Machine Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1125149722c06e4531"},"Class":93,"Title":"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1125149722c06e4532"},"Class":93,"Title":"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1125149722c06e4533"},"Class":93,"Title":"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"}
+{"_id":{"$oid":"5adb6b1125149722c06e4534"},"Class":93,"Title":"Packaging and Filling Machine Operators and Tenders"}
+{"_id":{"$oid":"5adb6b1125149722c06e4535"},"Class":93,"Title":"Cutters and Trimmers, Hand"}
+{"_id":{"$oid":"5adb6b1125149722c06e4536"},"Class":93,"Title":"Rock Splitters, Quarry"}
+{"_id":{"$oid":"5adb6b1125149722c06e4537"},"Class":94,"Title":"Coil Winders, Tapers, and Finishers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4538"},"Class":94,"Title":"Orthotists and Prosthetists"}
+{"_id":{"$oid":"5adb6b1125149722c06e4539"},"Class":94,"Title":"Medical Appliance Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e453a"},"Class":94,"Title":"Dental Laboratory Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e453b"},"Class":95,"Title":"Online Merchants"}
+{"_id":{"$oid":"5adb6b1125149722c06e453c"},"Class":95,"Title":"Business Intelligence Analysts"}
+{"_id":{"$oid":"5adb6b1125149722c06e453d"},"Class":95,"Title":"Real Estate Brokers"}
+{"_id":{"$oid":"5adb6b1125149722c06e453e"},"Class":95,"Title":"Marketing Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e453f"},"Class":95,"Title":"Sales Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4540"},"Class":95,"Title":"Management Analysts"}
+{"_id":{"$oid":"5adb6b1125149722c06e4541"},"Class":95,"Title":"Distance Learning Coordinators"}
+{"_id":{"$oid":"5adb6b1125149722c06e4542"},"Class":95,"Title":"First-Line Supervisors of Non-Retail Sales Workers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4543"},"Class":96,"Title":"Travel Guides"}
+{"_id":{"$oid":"5adb6b1125149722c06e4544"},"Class":96,"Title":"Travel Agents"}
+{"_id":{"$oid":"5adb6b1125149722c06e4545"},"Class":96,"Title":"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"}
+{"_id":{"$oid":"5adb6b1125149722c06e4546"},"Class":96,"Title":"Copy Writers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4547"},"Class":96,"Title":"Wholesale and Retail Buyers, Except Farm Products"}
+{"_id":{"$oid":"5adb6b1125149722c06e4548"},"Class":96,"Title":"Advertising Sales Agents"}
+{"_id":{"$oid":"5adb6b1125149722c06e4549"},"Class":96,"Title":"Securities and Commodities Traders"}
+{"_id":{"$oid":"5adb6b1125149722c06e454a"},"Class":96,"Title":"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"}
+{"_id":{"$oid":"5adb6b1125149722c06e454b"},"Class":96,"Title":"Search Marketing Strategists"}
+{"_id":{"$oid":"5adb6b1125149722c06e454c"},"Class":97,"Title":"Agricultural Equipment Operators"}
+{"_id":{"$oid":"5adb6b1125149722c06e454d"},"Class":98,"Title":"Avionics Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e454e"},"Class":98,"Title":"Aerospace Engineers"}
+{"_id":{"$oid":"5adb6b1125149722c06e454f"},"Class":98,"Title":"Electrical and Electronics Repairers, Commercial and Industrial Equipment"}
+{"_id":{"$oid":"5adb6b1125149722c06e4550"},"Class":98,"Title":"Mechanical Engineering Technologists"}
+{"_id":{"$oid":"5adb6b1125149722c06e4551"},"Class":98,"Title":"Mechanical Engineering Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e4552"},"Class":98,"Title":"Commercial and Industrial Designers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4553"},"Class":98,"Title":"Electrical Engineers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4554"},"Class":98,"Title":"Photonics Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e4555"},"Class":98,"Title":"Electromechanical Engineering Technologists"}
+{"_id":{"$oid":"5adb6b1125149722c06e4556"},"Class":98,"Title":"Industrial Engineering Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e4557"},"Class":98,"Title":"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic"}
+{"_id":{"$oid":"5adb6b1125149722c06e4558"},"Class":98,"Title":"Robotics Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e4559"},"Class":98,"Title":"Mechatronics Engineers"}
+{"_id":{"$oid":"5adb6b1125149722c06e455a"},"Class":98,"Title":"Electrical Engineering Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e455b"},"Class":98,"Title":"Mechanical Drafters"}
+{"_id":{"$oid":"5adb6b1125149722c06e455c"},"Class":98,"Title":"Aerospace Engineering and Operations Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e455d"},"Class":98,"Title":"Electronics Engineering Technicians"}
+{"_id":{"$oid":"5adb6b1125149722c06e455e"},"Class":99,"Title":"Civil Engineers"}
+{"_id":{"$oid":"5adb6b1125149722c06e455f"},"Class":99,"Title":"Wind Energy Project Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4560"},"Class":99,"Title":"Solar Sales Representatives and Assessors"}
+{"_id":{"$oid":"5adb6b1125149722c06e4561"},"Class":99,"Title":"Solar Energy Systems Engineers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4562"},"Class":99,"Title":"Construction and Building Inspectors"}
+{"_id":{"$oid":"5adb6b1125149722c06e4563"},"Class":99,"Title":"Energy Engineers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4564"},"Class":99,"Title":"Security Management Specialists"}
+{"_id":{"$oid":"5adb6b1125149722c06e4565"},"Class":99,"Title":"Construction Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4566"},"Class":99,"Title":"Solar Energy Installation Managers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4567"},"Class":99,"Title":"Transportation Engineers"}
+{"_id":{"$oid":"5adb6b1125149722c06e4568"},"Class":99,"Title":"Cost Estimators"}
+{"_id":{"$oid":"5adb6b1125149722c06e4569"},"Class":99,"Title":"Fire-Prevention and Protection Engineers"}
