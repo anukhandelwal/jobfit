@@ -9,6 +9,7 @@ from flask import(
 import numpy as np
 import pandas as pd
 import json
+import predict_score_users
 
 # Initialize the Flask application
 app = Flask(__name__)
@@ -83,6 +84,44 @@ def pymongo_Salary_State_Year_display():
         document.pop("_id")
         Salary_State_Year_result.append(document)
     return jsonify(Salary_State_Year_result)
+
+@app.route("/Predict_Score_Users")
+def pymongo_Predict_Score_Users():
+    Knowledge_Cluster_result=[]
+    print("Retrieving Data from Mongo Knowledge_Cluster")
+    cursor = Knowledge_Cluster_collection.find({})
+    for document in cursor:
+        document.pop("_id")
+        Knowledge_Cluster_result.append(document)
+
+    #TODO -> Also pass the user_response collection on latest submission
+    predicted_title_group = predict_score_users.predict_title_grouping(Knowledge_Cluster_result)
+
+    #Get the Education Experinece Scoring Data present 
+    Education_Experience_result=[]
+    print("Retrieving Data from Mongo Education_Experience")
+    cursor = Education_Experience_collection.find({})
+    for document in cursor:
+        document.pop("_id")
+        Education_Experience_result.append(document)
+
+    #TODO -> Also pass the user_response collection on latest submission
+    scored_titles =  predict_score_users.score_user(predicted_title_group, Education_Experience_result)
+
+    return jsonify(scored_titles)
+
+@app.route("/Alternate_Titles_User")
+def pymongo_Display_Alternate_Titles_For_User():
+    Alternate_Titles_result=[]
+    print("Retrieving Data from Mongo Alternate_Titles")
+    cursor = Alternate_Titles_collection.find({})
+    for document in cursor:
+        document.pop("_id")
+        Alternate_Titles_result.append(document)
+
+    #TODO -> Also pass the user_response collection on latest submission
+    user_alt_titles = predict_score_users.show_alternate_titles(Alternate_Titles_result)
+    return jsonify(user_alt_titles)
 
 # Run the Application
 if __name__ == "__main__":
