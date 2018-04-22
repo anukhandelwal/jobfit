@@ -23,7 +23,8 @@ Education_Experience_collection = db.Education_Experience
 Alternate_Titles_collection = db.Alternate_Titles 
 Job_State_Salary_collection = db.Job_State_Salary 
 Knowledge_Cluster_collection  = db.Knowledge_Cluster 
-Salary_State_Year_collection = db.Salary_State_Year 
+Salary_State_Year_collection = db.Salary_State_Year
+Occupation_collection = db.Occupation 
 
 # App route definitions
 @app.route("/")
@@ -84,6 +85,16 @@ def pymongo_Salary_State_Year_display():
         document.pop("_id")
         Salary_State_Year_result.append(document)
     return jsonify(Salary_State_Year_result)
+
+@app.route("/Occupation")
+def pymongo_Occupation_display():
+    Occupation_result=[]
+    print("Retrieving Data from Mongo Occupation")
+    cursor = Occupation_collection.find({})
+    for document in cursor:
+        document.pop("_id")
+        Occupation_result.append(document)
+    return jsonify(Occupation_result)
 
 @app.route("/Predict_Score_Users")
 def pymongo_Predict_Score_Users():
