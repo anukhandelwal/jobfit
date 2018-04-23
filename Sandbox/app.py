@@ -41,11 +41,11 @@ def result():
     return(render_template("results.html"))
 
 @app.route("/trends")
-def survey():
+def trends():
     return(render_template("trends.html"))
 
 @app.route("/about")
-def survey():
+def about():
     return(render_template("about.html"))
 
 @app.route("/Education_Experience")
