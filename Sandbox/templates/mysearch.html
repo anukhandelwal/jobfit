@@ -1,32 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Search Form</title>
+	<title>JobFitt Form</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
-	<link rel="icon" type="image/png" href="ContactForm/images/icons/favicon.ico"/>
+	<link rel="icon" type="image/png" href="static/ContactForm/images/icons/favicon.ico"/>
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="ContactForm/vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="ContactForm/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="static/ContactForm/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="ContactForm/fonts/iconic/css/material-design-iconic-font.min.css">
+	<link rel="stylesheet" type="text/css" href="static/ContactForm/fonts/iconic/css/material-design-iconic-font.min.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="ContactForm/vendor/animate/animate.css">
+	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/animate/animate.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="ContactForm/vendor/css-hamburgers/hamburgers.min.css">
+	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/css-hamburgers/hamburgers.min.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="ContactForm/vendor/animsition/css/animsition.min.css">
+	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/animsition/css/animsition.min.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="ContactForm/vendor/select2/select2.min.css">
+	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/select2/select2.min.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="ContactForm/vendor/daterangepicker/daterangepicker.css">
+	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/daterangepicker/daterangepicker.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="ContactForm/vendor/noui/nouislider.min.css">
+	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/noui/nouislider.min.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="css/util.css">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="static/css/util.css">
+	<link rel="stylesheet" type="text/css" href="static/css/main.css">
 <!--===============================================================================================-->
 
 <!-- Bootstrap Core CSS -->
@@ -71,6 +71,7 @@
       </div>
     </nav>
 
+<div class = "container">
 
 	<div class="container">
 		<p>
@@ -79,65 +80,52 @@
 		</p>
 	</div>
 
-<div class="container">
-  
-  <a href="#demo" class="btn btn-info" data-toggle="collapse">Contact Information</a>
-  <div id="demo" class="collapse">
-  	<form class="contact100-form validate-form">
-				<span class="contact100-form-title">
-					Begin Search
-				</span>
+	<div class="container">
+	 
+	  	<a href="#demo" class="btn btn-info" data-toggle="collapse">Contact Information</a>
+	 	<div id="demo" class="collapse">
+	  	<form class="contact100-form validate-form">
+			<span class="contact100-form-title">Begin Search</span>
+			<div class="wrap-input100 validate-input bg1" data-validate="Please Enter your Name ">
+			<span class="label-input100">FULL NAME *</span>
+			<input class="input100" type="text" name="name" placeholder="Please Enter Your Name">
+			</div>
 
-				<div class="wrap-input100 validate-input bg1" data-validate="Please Enter your Name ">
-					<span class="label-input100">FULL NAME *</span>
-					<input class="input100" type="text" name="name" placeholder="Please Enter Your Name">
-				</div>
+			<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Please enter Your Email (e@a.x)">
+			<span class="label-input100">Email *</span>
+			<input class="input100" type="text" name="email" placeholder="Enter Email ">
+			</div>
 
-				<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Please enter Your Email (e@a.x)">
-					<span class="label-input100">Email *</span>
-					<input class="input100" type="text" name="email" placeholder="Enter Email ">
-				</div>
-
-				<div class="wrap-input100 bg1 rs1-wrap-input100">
-					<span class="label-input100">Phone</span>
-					<input class="input100" type="text" name="phone" placeholder="Enter phone number">
-				</div>
+			<div class="wrap-input100 bg1 rs1-wrap-input100">
+			<span class="label-input100">Phone</span>
+			<input class="input100" type="text" name="phone" placeholder="Enter phone number">
+			</div>
 				
-				<div class="container-contact100-form-btn">
-					<button class="contact100-form-btn">
-						<span>
-							Submit
-							<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i>
-						</span>
-					</button>
-				</div>
-			</form>
-   
-  </div>
-</div>
+			<div class="container-contact100-form-btn">
+			<button class="contact100-form-btn">
+			<span>Submit<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i></span>
+			</button>
+			</div>
+		</form>
+        </div>
+	</div>
 
-<div class="container">
-	<p>
-	</p>
-	<p>
-	</p>
-	<p>
-	</p>
-</div>
+	<div class="container">
+	<p>	</p><p>	</p><p>	</p>
+    </div>
 <!-- survey -->
-<div class="container">
+	
+	<div class="container">
   
-  <a href="#survey" class="btn btn-info" data-toggle="collapse">Skills Assessment</a>
-  <div id="survey" class="collapse">
-  <form class="form-inline">
-	<div class="form-group ">
-      <label class="control-label ">
-       
-      </label>
+  		<a href="#survey" class="btn btn-info" data-toggle="collapse">Skills Assessment</a>
+  		<div id="survey" class="collapse">
+  		<form class="form-inline">
+		<div class="form-group ">
+      	<label class="control-label "></label>
 
- 	<div class="table-responsive">
-  	<table class="table"> 
-  		<thead>
+ 		<div class="table-responsive">
+  		<table class="table"> 
+  			<thead>
   			<tr>
   				<th scope="col">Skills</th>
   				<th scope="col">Beginner</th>
@@ -146,1569 +134,1441 @@
 			    <th scope="col">Advanced</th>
 			    <th scope="col">Expert</th>
 			</tr>
-		</thead>
-		<tbody>
-
+			</thead>
+		
+			<tbody>
+			
 <!-- Question no 1 -->
-  	<form>
-  	<tr>
-  		<th scope="row">Administration and Management</th>
-  		
-  		<td>
-  			    
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill11" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill12" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill13" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radi">
-	         <input name="radio" id= "skill14" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill15" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+  				<tr>
+  				<th scope="row">Administration and Management</th>
+  				<td>
+  			 		<div class="radio">
+	        		<label class="radio">
+	         		<input name="radio1" id ="skill11" type="radio" value="First Choice"/>
+	         		</label>
+	       			</div>
+   				</td>
+     			<td>
+			       	<div class="radio">
+			        <label class="radio">
+			        <input name="radio1" id= "skill12" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			       <label class="radio">
+			       <input name="radio1" id="skill13" type="radio" value="Third Choice"/>
+			       </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			        <input name="radio1" id= "skill14" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio1" id="skill15" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!-- Skills Question 2 -->
-      <form>
-      <tr>
-  		<th scope="row">Clerical</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill21" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill22" type="radio" value="Second Choice " />
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill23" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill24" type="radio" value="Fourth Choice " />
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill25" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
+      		
+		      	<tr>
+		  		<th scope="row">Clerical</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio2" id ="skill21" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio2" id= "skill22" type="radio" value="Second Choice " />
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio2" id="skill23" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio2" id= "skill24" type="radio" value="Fourth Choice " />
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio2" id="skill25" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
 
-</form>
 <!-- Skills Question 3-->
-	  <form>
-	  <tr>
-  		<th scope="row">Economics and Accounting</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill31" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill32" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill33" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill34" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill35" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+	 		
+			  	<tr>
+		  		<th scope="row">Economics and Accounting</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio3" id ="skill31" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio3" id= "skill32" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio3" id="skill33" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio3" id= "skill34" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio3" id="skill35" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+	
 
 <!-- Skills Question 4 -->
-      <form>
-      <tr>
-  		<th scope="row">Sales and MArketing</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill41" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill42" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill43" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill44" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill45" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+      		
+		      	<tr>
+		  		<th scope="row">Sales and MArketing</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio" id ="skill41" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio4" id= "skill42" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio4" id="skill43" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio4" id= "skill44" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio4" id="skill45" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
   
 <!-- Skills Question 5-->
-	<form>
-	  <tr>
-  		<th scope="row">Customer and Personal Service</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill51" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill52" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill53" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill54" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill55" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Customer and Personal Service</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio5" id ="skill51" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio5" id= "skill52" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio5" id="skill53" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio5" id= "skill54" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio5" id="skill55" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!-- Skills Question 6-->
-		<form>
-	  <tr>
-  		<th scope="row">Personnel and Human Resurces</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill61" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill62" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill63" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill64" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill65" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Personnel and Human Resurces</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio6" id ="skill61" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio6" id= "skill62" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio6" id="skill63" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio6" id= "skill64" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio6" id="skill65" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!-- Skills Question 7-->
-	  	<form>
-	  <tr>
-  		<th scope="row">Production and Processing</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill71" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill72" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill73" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill74" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill75" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+	  		
+			  	<tr>
+		  		<th scope="row">Production and Processing</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio7" id ="skill71" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio7" id= "skill72" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio7" id="skill73" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio7" id= "skill74" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio7" id="skill75" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!-- Skills Question 8-->
-	<form>
-	  <tr>
-  		<th scope="row">Food Production</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill81" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill82" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill83" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill84" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill85" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Food Production</th>
+	  			<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio8" id ="skill81" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio8" id= "skill82" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio8" id="skill83" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio8" id= "skill84" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio8" id="skill85" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!-- Skills Question 9 -->
-		<form>
-	  <tr>
-  		<th scope="row">Computers and Electronics</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill91" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill92" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill93" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill94" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill95" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Computers and Electronics</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio9" id ="skill91" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio9" id= "skill92" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio9" id="skill93" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio9" id= "skill94" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio9" id="skill95" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!-- Skills Question 10-->
-		<form>
-	  <tr>
-  		<th scope="row">Engineering and Technology</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill101" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill102" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill103" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill104" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill105" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Engineering and Technology</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio10" id ="skill101" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio10" id= "skill102" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio10" id="skill103" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio10" id= "skill104" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio10" id="skill105" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!-- Skills Question 11-->
-		<form>
-	  <tr>
-  		<th scope="row">Design</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill111" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill112" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill113" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill114" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill115" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Design</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio11" id ="skill111" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio11" id= "skill112" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio11" id="skill113" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio11" id= "skill114" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio11" id="skill115" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!-- Skills Question 12-->
-	  	<form>
-	  <tr>
-  		<th scope="row">Building and Construction</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill121" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill122" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill123" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill124" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill125" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+	  		
+			  	<tr>
+		  		<th scope="row">Building and Construction</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio12" id ="skill121" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio12" id= "skill122" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio12" id="skill123" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio12" id= "skill124" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio12" id="skill125" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!-- Skills Question 13-->
-	 	<form>
-	  <tr>
-  		<th scope="row">Mechanical</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill131" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill132" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill133" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill134" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill135" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+	 		
+			  	<tr>
+		  		<th scope="row">Mechanical</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio13" id ="skill131" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio13" id= "skill132" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio13" id="skill133" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio13" id= "skill134" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio13" id="skill135" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
 <!-- Question 14 -->
 
 <!-- Skills Question 14-->
-	<form>
-	  <tr>
-  		<th scope="row">Mathematics</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill141" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill142" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill143" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill144" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill145" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			 	<tr>
+		  		<th scope="row">Mathematics</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio14" id ="skill141" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio14" id= "skill142" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio14" id="skill143" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio14" id= "skill144" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio14" id="skill145" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Question 15 -->
       <!-- Skills Question 15-->
-	  	<form>
-	  <tr>
-  		<th scope="row">Physics</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill151" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill152" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill153" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill154" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill155" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+	  		
+			  	<tr>
+		  		<th scope="row">Physics</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio15" id ="skill151" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio15" id= "skill152" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio15" id="skill153" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio15" id= "skill154" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio15" id="skill155" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!--Question 16 -->
 <!-- Skills Question 16-->
-	  	<form>
-	  <tr>
-  		<th scope="row">Chemistry</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill161" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill162" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill163" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill164" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill165" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
-
-     <!-- Question 17 -->
+	  		
+			  	<tr>
+		  		<th scope="row">Chemistry</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio16" id ="skill161" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio16" id= "skill162" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio16" id="skill163" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio16" id= "skill164" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio16" id="skill165" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		     	</tr>
+			
 
      <!-- Skills Question 17-->
-     	<form>
-	  <tr>
-  		<th scope="row">Biology</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill171" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill172" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill173" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill174" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill175" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
-<!-- Question 18 -->
+     		
+			  	<tr>
+		  		<th scope="row">Biology</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio17" id ="skill171" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio17" id= "skill172" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio17" id="skill173" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio17" id= "skill174" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio17" id="skill175" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
 <!-- Skills Question 18-->
-	  	<form>
-	  <tr>
-  		<th scope="row">Psychology</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill181" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill182" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill183" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill184" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill185" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
-      <!-- Question 19 -->
-
+	  		
+			  	<tr>
+		  		<th scope="row">Psychology</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio18" id ="skill181" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio18" id= "skill182" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio18" id="skill183" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio18" id= "skill184" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio18" id="skill185" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
       <!-- Skills Question 19-->
-		<form>
-	  <tr>
-  		<th scope="row">Sociology and Anthropology</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill191" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill192" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill193" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill194" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill195" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
-<!-- Question 20 -->
+			
+			  	<tr>
+		  		<th scope="row">Sociology and Anthropology</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio19" id ="skill191" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio19" id= "skill192" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio19" id="skill193" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio19" id= "skill194" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio19" id="skill195" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
+
 <!-- Skills Question 20-->
-	<form>
-	  <tr>
-  		<th scope="row">Geography</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill201" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill202" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill203" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill204" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill205" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Geography</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio20" id ="skill201" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio20" id= "skill202" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio20" id="skill203" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio20" id= "skill204" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio20" id="skill205" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 <!-- Skills Question 21-->
-	  	<form>
-	  <tr>
-  		<th scope="row">Medicine and Dentistry</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill211" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill212" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill213" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill214" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill215" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+	  		
+			  	<tr>
+		  		<th scope="row">Medicine and Dentistry</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio21" id ="skill211" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio21" id= "skill212" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio21" id="skill213" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio21" id= "skill214" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio21" id="skill215" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 22-->
-		<form>
-	  <tr>
-  		<th scope="row">THerapy and COunselling</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill221" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill222" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill223" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill224" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill225" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			 	<tr>
+		  		<th scope="row">Therapy and Counselling</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio22" id ="skill221" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio22" id= "skill222" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio22" id="skill223" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio22" id= "skill224" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio22" id="skill225" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 23-->
-		<form>
-	  <tr>
-  		<th scope="row">Education and Training</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill231" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill232" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill233" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill234" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill235" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Education and Training</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio23" id ="skill231" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio23" id= "skill232" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio23" id="skill233" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio23" id= "skill234" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio23" id="skill235" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 24-->
-	<form>
-	  <tr>
-  		<th scope="row">English Language</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill241" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill242" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill243" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill244" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill245" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">English Language</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio24" id ="skill241" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio24" id= "skill242" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio24" id="skill243" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio24" id= "skill244" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio24" id="skill245" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 25-->
-	<form>
-	  <tr>
-  		<th scope="row">Foreign Language</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill251" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill252" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill253" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill254" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill255" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Foreign Language</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio25" id ="skill251" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio25" id= "skill252" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio25" id="skill253" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio25" id= "skill254" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio25" id="skill255" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 26-->
-	<form>
-	  <tr>
-  		<th scope="row">Fine Arts</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill261" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill262" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill263" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill264" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill265" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Fine Arts</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio26" id ="skill261" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio26" id= "skill262" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio26" id="skill263" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio26" id= "skill264" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio26" id="skill265" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 27-->
-	<form>
-	  <tr>
-  		<th scope="row">History and Archeology</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill271" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill272" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill273" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill274" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill275" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">History and Archeology</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio27" id ="skill271" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio27" id= "skill272" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio27" id="skill273" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio27" id= "skill274" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio27" id="skill275" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 28-->
-	<form>
-	  <tr>
-  		<th scope="row">Philosophy and Theology</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill281" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill282" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill283" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill284" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill285" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+			
+			  	<tr>
+		  		<th scope="row">Philosophy and Theology</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio28" id ="skill281" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio28" id= "skill282" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio28" id="skill283" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio28" id= "skill284" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio28" id="skill285" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 29-->
-	  	<form>
-  		<th scope="row">Public Safety and Security</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill291" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill292" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill293" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill294" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill295" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+	  		
+		  		<th scope="row">Public Safety and Security</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio29" id ="skill291" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio29" id= "skill292" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio29" id="skill293" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio29" id= "skill294" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio29" id="skill295" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 30-->
-	  	<form>
-	  <tr>
-  		<th scope="row">Law and Government</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill301" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill302" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill303" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill304" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill305" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+	  		
+			  	<tr>
+		  		<th scope="row">Law and Government</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio30" id ="skill301" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio30" id= "skill302" type="radio" value="Second Choice "/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio30" id="skill303" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio30" id= "skill304" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio30" id="skill305" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 31-->
-	  	<form>
-  		<th scope="row">Telecommunications</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill311" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill312" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill313" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill314" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill315" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
+	  			<tr>
+		  		<th scope="row">Telecommunications</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio31" id ="skill311" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio31" id= "skill312" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio31" id="skill313" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio31" id= "skill314" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio31" id="skill315" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
 
       <!-- Skills Question 32-->
-	<form>
-	  <tr>
-  		<th scope="row">Communications and Media</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill321" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill322" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill323" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill324" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill325" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-</form>
-
+			
+			  	<tr>
+		  		<th scope="row">Communications and Media</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio32" id ="skill321" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio32" id= "skill322" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio32" id="skill323" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio32" id= "skill324" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio32" id="skill325" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+			
 
       <!-- Skills Question 33-->
-		<form>
-	  <tr>
-  		<th scope="row">Transportation</th>
-  		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id ="skill331" type="radio" value="First Choice"/>
-	         </label>
-	       	</div>
-   		</td>
-     	<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill332" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill333" type="radio" value="Third Choice"/>
-	        </label>
-	       </div>
-		</td>
-		<td>
-	       	<div class="radio">
-	        <label class="radio">
-	         <input name="radio" id= "skill334" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
-	        </label>
-	       	</div>
-   		</td>
-	    <td>
-	       <div class="radio">
-	        <label class="radio">
-	         <input name="radio" id="skill335" type="radio" value="Fifth Choice"/>
-	        </label>
-	       </div>
-		</td>
-      </tr>
-  </form>
- </tbody>
- </table>
-</div>
-</div>
-</form>
-</div>
-</div>
-
-
-<!--
-
-	<div class="row">
-	<label class="col-sm-4 control-label">Statistics</label>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group20" type="radio" id="radio120" checked="checked">
-        <label class="form-check-label" for="radio120">              </label>
-    </div>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group20" type="radio" id="radio121">
-        <label class="form-check-label" for="radio121">               </label>
-    </div>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group20" type="radio" id="radio122">
-        <label class="form-check-label" for="radio122">         </label>
-    </div>
-    </div>
-<div class="row">
-    <label class="col-sm-4 control-label">Statistics</label>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group201" type="radio" id="radio1201" checked="checked">
-        <label class="form-check-label" for="radio1201">              </label>
-    </div>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group201" type="radio" id="radio1211">
-        <label class="form-check-label" for="radio1211">               </label>
-    </div>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group201" type="radio" id="radio1221">
-        <label class="form-check-label" for="radio1221">         </label>
-    </div>
-</div>
-<div class="row">
-
-    <label class="col-sm-4 control-label">Statistics</label>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group202" type="radio" id="radio1202" checked="checked">
-        <label class="form-check-label" for="radio1202">              </label>
-    </div>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group202" type="radio" id="radio1212">
-        <label class="form-check-label" for="radio1212">               </label>
-    </div>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group202" type="radio" id="radio1222">
-        <label class="form-check-label" for="radio1222">         </label>
-    </div>
-</div>
-
-<div class="row">
-    <label class="col-sm-4 control-label">Statistics</label>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group203" type="radio" id="radio1203" checked="checked">
-        <label class="form-check-label" for="radio1203">              </label>
-    </div>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group203" type="radio" id="radio1213">
-        <label class="form-check-label" for="radio1213">               </label>
-    </div>
-
-    <div class="form-check">
-        <input class="form-check-input" name="group203" type="radio" id="radio1223">
-        <label class="form-check-label" for="radio1223">         </label>
-    </div>
-</div>
-
-<div class="row">
-
-    <div class="col">
-    <label class="col-sm-4 control-label">Statistics</label>
-</div>
-<div class="col">
-    <div class="form-check">
-        <input class="form-check-input" name="group204" type="radio" id="radio1204" checked="checked">
-        <label class="form-check-label" for="radio1204">              </label>
-    </div>
-</div>
-
-<div class="col">
-
-    <div class="form-check">
-        <input class="form-check-input" name="group204" type="radio" id="radio1214">
-        <label class="form-check-label" for="radio1214">               </label>
-    </div>
-
-</div>
-
-<div class="col">
-
-    <div class="form-check">
-        <input class="form-check-input" name="group204" type="radio" id="radio1224">
-        <label class="form-check-label" for="radio1224">         </label>
-    </div>
-
-</div>
-</div>
-
--->
-
-</form>
-</div>
-</div>
 			
-<!-- next container -->
+			  	<tr>
+		  		<th scope="row">Transportation</th>
+		  		<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio33" id ="skill331" type="radio" value="First Choice"/>
+			         </label>
+			       	</div>
+		   		</td>
+		     	<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio33" id= "skill332" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio33" id="skill333" type="radio" value="Third Choice"/>
+			        </label>
+			       </div>
+				</td>
+				<td>
+			       	<div class="radio">
+			        <label class="radio">
+			         <input name="radio33" id= "skill334" type="radio" value="Fourth Choice " />
+			        </label>
+			       	</div>
+		   		</td>
+			    <td>
+			       <div class="radio">
+			        <label class="radio">
+			         <input name="radio33" id="skill335" type="radio" value="Fifth Choice"/>
+			        </label>
+			       </div>
+				</td>
+		      	</tr>
+
+  			</tbody>
+  			
+  		</table>
+ 	 	</div>
+		</div>
+		</form>
+	</div>
+	</div>
 
 
-<div class="container">
-	<p></p>
-	<p></p>
-	<p></p>
-</div>
+	<div class="container">
+		<p></p>
+		<p></p>
+		<p></p>
+	</div>
 
+<!-- Education section -->
 
-
-<div class="container">
-  
-  <a href="#education" class="btn btn-info" data-toggle="collapse">Career and Education Level</a>
-  <div id="education" class="collapse">
+	<div class="container">
+	  
+	  <a href="#education" class="btn btn-info" data-toggle="collapse">Career and Education Level</a>
+	  <div id="education" class="collapse">
 			<form class="contact100-form validate-form">
-				<span class="contact100-form-title">
-					Step 3
-				</span>
-				<div class="wrap-contact100-form-radio">
-						<span class="label-input100">What is your highest level of education?</span>
-
+			<span class="contact100-form-title">Step 3</span>
+					<div class="wrap-contact100-form-radio">
+					<span class="label-input100">What is your highest level of education?</span>
 						<div class="contact100-form-radio m-t-15">
 							<input class="input-radio100" id="radio1" type="radio" name="type-product" value="physical" checked="checked">
 							<label class="label-radio100" for="radio1">
-								Ph.D or Higher
+									Ph.D or Higher
 							</label>
 						</div>
 						<div class="contact100-form-radio m-t-15">
 							<input class="input-radio100" id="radio1" type="radio" name="type-product" value="physical" checked="checked">
 							<label class="label-radio100" for="radio1">
-								Masters / Graduate Degree
+									Masters / Graduate Degree
 							</label>
 						</div>
 
 						<div class="contact100-form-radio">
 							<input class="input-radio100" id="radio2" type="radio" name="type-product" value="digital">
 							<label class="label-radio100" for="radio2">
-								Bachelors / Undergraduate Degree
+									Bachelors / Undergraduate Degree
 							</label>
 						</div>
 
 						<div class="contact100-form-radio">
 							<input class="input-radio100" id="radio3" type="radio" name="type-product" value="service">
 							<label class="label-radio100" for="radio3">
-								High School / Diploma
+									High School / Diploma
 							</label>
 						</div>
 					</div>
 
+	<!-- May be remove this -->
 					<div class="wrap-contact100-form-range">
 						<span class="label-input100">Salary Expectation -per anum *</span>
-
 						<div class="contact100-form-range-value">
 							$<span id="value-lower">25000</span> - $<span id="value-upper">250000</span>
 							<input type="text" name="from-value">
@@ -1717,19 +1577,17 @@
 
 						<div class="contact100-form-range-bar">
 							<div id="filter-bar"></div>
+							</div>
 						</div>
-					</div>
-				
-
-				
-
-
-				<div class="container-contact100-form-btn">
-					<a class="btn btn-primary btn-xl js-scroll-trigger" href="results.html">Submit</a>
-				</div>
+		
+						<div class="container-contact100-form-btn">
+						<a class="btn btn-primary btn-xl js-scroll-trigger" href="results.html">Submit</a>
+						</div>
 			</form>
 		</div>
-		</div>
+	</div>
+</div>
+
 
 
 <!--===============================================================================================-->
