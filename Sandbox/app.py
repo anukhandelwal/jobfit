@@ -32,6 +32,14 @@ Occupation_collection = db.Occupation
 def landing():
     return(render_template("index.html"))
 
+@app.route("/survey")
+def survey():
+    return(render_template("mysearch.html"))
+
+@app.route("/result")
+def result():
+    return(render_template("results.html"))
+
 @app.route("/Education_Experience")
 def pymongo_Education_Experience_display():
     Education_Experience_result=[]
@@ -136,4 +144,4 @@ def pymongo_Display_Alternate_Titles_For_User():
 
 # Run the Application
 if __name__ == "__main__":
-	app.run(debug = True) 
+	app.run(debug = True,port=3316) 
