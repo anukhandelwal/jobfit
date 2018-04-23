@@ -40,6 +40,14 @@ def survey():
 def result():
     return(render_template("results.html"))
 
+@app.route("/trends")
+def survey():
+    return(render_template("trends.html"))
+
+@app.route("/about")
+def survey():
+    return(render_template("about.html"))
+
 @app.route("/Education_Experience")
 def pymongo_Education_Experience_display():
     Education_Experience_result=[]
