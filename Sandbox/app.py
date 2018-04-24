@@ -132,10 +132,19 @@ def pymongo_Predict_Score_Users():
         document.pop("_id")
         Education_Experience_result.append(document)
 
-    #TODO -> Also pass the user_response collection on latest submission
-    scored_titles =  predict_score_users.score_user(predicted_title_group, Education_Experience_result)
+    #Read the Occupation collection info and pass it to the function 
+    Occupation_result=[]
+    print("Retrieving Data from Mongo Occupation")
+    cursor = Occupation_collection.find({})
+    for document in cursor:
+        document.pop("_id")
+        Occupation_result.append(document)
 
+    #TODO -> Also pass the user_response collection on latest submission
+    scored_titles =  predict_score_users.score_user(predicted_title_group, Education_Experience_result, Occupation_result)
+    
     return jsonify(scored_titles)
+
 
 @app.route("/Alternate_Titles_User")
 def pymongo_Display_Alternate_Titles_For_User():
