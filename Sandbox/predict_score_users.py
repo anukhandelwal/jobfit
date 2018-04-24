@@ -44,11 +44,11 @@ def predict_title_grouping(Knowledge_Cluster_result=[], *args):
 
 
 	#Load the Kmeans model and predict to get the highlighly likely cluster group based on skills entered by user
-	loaded_model = pickle.load(open('Data/kmeans_knowledge_cluster.sav', 'rb'))
+	loaded_model = pickle.load(open('static/Models/kmeans_knowledge_cluster.sav', 'rb'))
 
 	#TODO: Update to read from MongoDB the Data to write response from user into a temporary response info
 	# For now, read from CSV the input data submitted by user
-	test_data = pd.read_csv("Data/test_data.csv") # this would have been input by user 
+	test_data = pd.read_csv("static/Data/test_data.csv") # this would have been input by user 
 	#test_data.head()
 	#For debugging - print all input values
 	#expected_target=test_data["Title"]
@@ -99,7 +99,7 @@ def predict_title_grouping(Knowledge_Cluster_result=[], *args):
 	return selected_title_group
 
 
-def score_user(predicted_title_group=[], Education_Experience_result=[], *args):
+def score_user(predicted_title_group=[], Education_Experience_result=[], Occupation_result=[], *args):
 	
 	title_list = predicted_title_group["Title"]
 	print("***Predicted Title Grouping based on user knowledge areas****")
@@ -111,7 +111,7 @@ def score_user(predicted_title_group=[], Education_Experience_result=[], *args):
 	#Read input data for now from test_data 
 	#TODO: Update to read from MongoDB the Data to write response from user into a temporary response info
 	# For now, read from CSV the input data submitted by user
-	test_data = pd.read_csv("Data/test_data.csv") # this would have been input by user 
+	test_data = pd.read_csv("static/Data/test_data.csv") # this would have been input by user 
 	#test_data.head()
 	#For debugging - print all input values
 	#expected_target=test_data["Title"]
@@ -138,12 +138,21 @@ def score_user(predicted_title_group=[], Education_Experience_result=[], *args):
 	user_exp_list = [exp_level]
 	Ed_Exp_User_filtered = pd.DataFrame(Ed_Exp_filtered[(Ed_Exp_filtered["Education Level"].isin(user_ed_list)) & 
                                                 (Ed_Exp_filtered["Work Experience Level"].isin(user_exp_list))])
-	#Order it based on highlest scores
+
+    #Order it based on highlest scores
 	Ed_Exp_User_Ordered = Ed_Exp_User_filtered.sort_values(by='Score', ascending=False)
 	Ed_Exp_User_Ordered.head(10)
 
+	Additonal_JobTitle_Details = pd.DataFrame(Occupation_result)
+	JobDetails_pd = Additonal_JobTitle_Details[['Title', 'Description', 'Technology', 'CoreTasks']]
+	JobDetails_pd.head() 
+
+	#Merge on title and get all additional detauls realted to the job title like job description, technology and others 
+	final_scored_title_list = pd.merge(Ed_Exp_User_Ordered, JobDetails_pd, on ='Title')
+	final_scored_title_list.head()
+
 	#Write as an array of dictionary items and send info back 
-	score_titles_list = Ed_Exp_User_Ordered.to_dict(orient='records')
+	score_titles_list = final_scored_title_list.to_dict(orient='records')
 
 	'''
 	score_titles = [ 
@@ -178,7 +187,7 @@ def score_user(predicted_title_group=[], Education_Experience_result=[], *args):
 def show_alternate_titles(Alternate_Titles_result=[], *args):
 
 	#Read the user input title info - For now, read from test_Data csv file TODO: Update to read from mongo 
-	test_data = pd.read_csv("Data/test_data.csv") # this would have been input by user 
+	test_data = pd.read_csv("static/Data/test_data.csv") # this would have been input by user 
 
 	#Select only Title column to user has any current title 
 	test_data_filtered = test_data[['Title']]
