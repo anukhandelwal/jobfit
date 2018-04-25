@@ -6,48 +6,26 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
 	<link rel="icon" type="image/png" href="static/ContactForm/images/icons/favicon.ico"/>
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/bootstrap/css/bootstrap.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="static/ContactForm/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="static/ContactForm/fonts/iconic/css/material-design-iconic-font.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/animate/animate.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/css-hamburgers/hamburgers.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/animsition/css/animsition.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/select2/select2.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/daterangepicker/daterangepicker.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/noui/nouislider.min.css">
-<!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="static/css/util.css">
-	<link rel="stylesheet" type="text/css" href="static/css/main.css">
-	<link rel="stylesheet" type="text/css" href="static/css/main_navigation.css">
-<!--===============================================================================================-->
+
 
 <!-- Bootstrap Core CSS -->
-    <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 
-    <!-- Custom Fonts -->
-    <link href="static/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-    <link href="static/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
-    <!-- Custom CSS -->
-	<link href="static/css/stylish-portfolio.min.css" rel="stylesheet">
-	!-- Bootstrap core CSS -->
-    <link href="Results/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom styles for this template -->
-    <link href="Results/css/3-col-portfolio.css" rel="stylesheet">
+<!-- Submit button style -->
+	<style>
+
+	.center{margin:auto;}
+
+	</style>
+    
 </head>
 
 <body>
-	 <!-- Navigation -->
+	 <!-- Navigation Bar -->
+   <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="main_navigation">
       <div class="container">
         <a class="navbar-brand" href="/index">JobFitt</a>
@@ -74,56 +52,79 @@
         </div>
       </div>
 	</nav>
+</div>
+
+<!-- this div fixes the spacing between navbar and the content. DO NOT REMOVE-->
+
+<div class="page-header">
+        <div class="clearfix">
+            <div class="col-md-12">
+                <div class="col-md-8 col-sm-6 col-xs-12">
+                    <h1> <br /><small>Please provide your contact information and fill up the form</small></h1>
+                </div>
+            </div>
+        </div>
+</div>
 	
-<div class = "container content_container">
-	<div class="container" id="contact">
-	 
-	  	<!--<a href="#demo" class="btn btn-info" data-toggle="collapse">Contact Information</a>-->
-	 	<div id="demo">
-	  	<form class="contact100-form validate-form">
-			<span class="contact100-form-title">Begin Search</span>
-			<div class="wrap-input100 validate-input bg1" data-validate="Please Enter your Name ">
-			<span class="label-input100">FULL NAME *</span>
-			<input class="input100" type="text" name="name" placeholder="Please Enter Your Name">
-			</div>
+<!-- Fill up form - Contact Information-->
+<div class="container" id="contact">
+	<div class="row">
+		<!--<form method="POST" action="/uservalue" role="form" name="contactform" onsubmit="return validateContact()">-->
+		<form method="POST" action="/results.html" name="contactform" onsubmit="return validateContact()">
+		  	<div class="form-group">
+    			<label for="firstNameInput">First Name</label>
+    			<input type="text" minlength="3" class="form-control" required id="firstNameInput" placeholder="">
+  			</div>
+  		   
+  			<div class="form-group">
+    			<label for="lastNameInput">Last Name</label>
+    			<input type="text" minlength="3" class="form-control" required id="lastNameInput" placeholder="">
+  			</div>
+  		 
+  		
+  		  
+  			<div class="form-group">
+    			<label for="emailInput">Email Address</label>
+    			<input type="text" minlength="10" class="form-control" id="emailInput" placeholder="a@jobfitt.com">
+  			</div>
+  			<div class="form-group">
+    			<label for="phoneInput">Phone Number</label>
+    			<input type="text" class="form-control" id="phoneInput" placeholder="777-111-1111">
+  			</div>
+  			
+  		 
+  		</form>
+  	</div>
+ </div>
 
-			<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Please enter Your Email (e@a.x)">
-			<span class="label-input100">Email *</span>
-			<input class="input100" type="text" name="email" placeholder="Enter Email ">
-			</div>
-
-			<div class="wrap-input100 bg1 rs1-wrap-input100">
-			<span class="label-input100">Phone</span>
-			<input class="input100" type="text" name="phone" placeholder="Enter phone number">
-			</div>
 			
-			<!-- Survey -->
+<!-- Survey Step 1 for SKills-->
 			
-			<div class="container wrap-input100" id="skills">
+<div class="container wrap-input100" id="skills">
 		
-				<a href="#survey" class="btn input-block-level form-control btn-info" data-toggle="collapse">Step1: Skills Assessment</a>
-				<div id="survey" class="collapse">
-					<form class="form-inline">
-						<div class="form-group ">
-							<label class="control-label "></label>
+	<a href="#survey" class="btn input-block-level form-control btn-info" data-toggle="collapse" id="step1"> Complete Step1: Skills Assessment</a>
+		<div id="survey" class="collapse">
+			
+				<div class="form-group ">
+					<label class="control-label "></label>
 
-							<div class="table-responsive">
-								<table class="table"> 
-									<thead>
-										<tr>
-											<th scope="col">Skills</th>
-											<th scope="col">Beginner</th>
+						<div class="table-responsive">
+							<table class="table"> 
+								<thead>
+									<tr>
+										<th scope="col">Skills</th>
+										<th scope="col">Beginner</th>
 										<th scope="col">Basic</th>
 										<th scope="col">Skilled</th>
 										<th scope="col">Advanced</th>
 										<th scope="col">Expert</th>
-										</tr>
-									</thead>
+									</tr>
+								</thead>
 							
-									<tbody>
+								<tbody>
 										<!-- Question no 1 -->
-										<tr>
-											<th scope="row">Administration and Management</th>
+									<tr>
+										<th scope="row">Administration and Management</th>
 											<td>
 												<div class="radio">
 													<label class="radio">
@@ -660,7 +661,7 @@
 
 						<!-- Skills Question 14-->
 								
-									<tr>
+										<tr>
 										<th scope="row">Mathematics</th>
 										<td>
 											<div class="radio">
@@ -782,7 +783,7 @@
 										</label>
 										</div>
 									</td>
-									</tr>
+										</tr>
 								
 
 						<!-- Skills Question 17-->
@@ -995,7 +996,7 @@
 
 							<!-- Skills Question 22-->
 								
-									<tr>
+										<tr>
 										<th scope="row">Therapy and Counselling</th>
 										<td>
 											<div class="radio">
@@ -1133,7 +1134,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio25" id= "skill252" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+										<input name="radio25" id= "skill252" type="radio" value="Second Choice " />
 										</label>
 											</div>
 										</td>
@@ -1147,7 +1148,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio25" id= "skill254" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+										<input name="radio25" id= "skill254" type="radio" value="Fourth Choice " />
 										</label>
 											</div>
 										</td>
@@ -1175,7 +1176,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio26" id= "skill262" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+										<input name="radio26" id= "skill262" type="radio" value="Second Choice " />
 										</label>
 											</div>
 										</td>
@@ -1189,7 +1190,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio26" id= "skill264" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+										<input name="radio26" id= "skill264" type="radio" value="Fourth Choice " />
 										</label>
 											</div>
 										</td>
@@ -1217,7 +1218,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio27" id= "skill272" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+										<input name="radio27" id= "skill272" type="radio" value="Second Choice " />
 										</label>
 											</div>
 										</td>
@@ -1231,7 +1232,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio27" id= "skill274" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+										<input name="radio27" id= "skill274" type="radio" value="Fourth Choice "/>
 										</label>
 											</div>
 										</td>
@@ -1259,7 +1260,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio28" id= "skill282" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+										<input name="radio28" id= "skill282" type="radio" value="Second Choice " />
 										</label>
 											</div>
 										</td>
@@ -1273,7 +1274,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio28" id= "skill284" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+										<input name="radio28" id= "skill284" type="radio" value="Fourth Choice " />
 										</label>
 											</div>
 										</td>
@@ -1288,7 +1289,7 @@
 								
 
 							<!-- Skills Question 29-->
-									
+										<tr>
 										<th scope="row">Public Safety and Security</th>
 										<td>
 											<div class="radio">
@@ -1300,7 +1301,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio29" id= "skill292" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+										<input name="radio29" id= "skill292" type="radio" value="Second Choice " />
 										</label>
 											</div>
 										</td>
@@ -1314,7 +1315,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio29" id= "skill294" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+										<input name="radio29" id= "skill294" type="radio" value="Fourth Choice " />
 										</label>
 											</div>
 										</td>
@@ -1356,7 +1357,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio30" id= "skill304" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+										<input name="radio30" id= "skill304" type="radio" value="Fourth Choice " />
 										</label>
 											</div>
 										</td>
@@ -1383,7 +1384,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio31" id= "skill312" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+										<input name="radio31" id= "skill312" type="radio" value="Second Choice " />
 										</label>
 											</div>
 										</td>
@@ -1397,7 +1398,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio31" id= "skill314" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+										<input name="radio31" id= "skill314" type="radio" value="Fourth Choice " />
 										</label>
 											</div>
 										</td>
@@ -1426,7 +1427,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio32" id= "skill322" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+										<input name="radio32" id= "skill322" type="radio" value="Second Choice " />
 										</label>
 											</div>
 										</td>
@@ -1440,7 +1441,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio32" id= "skill324" type="radio" value="Fourth Choice " cssStyle="margin-right:200px"/>
+										<input name="radio32" id= "skill324" type="radio" value="Fourth Choice " />
 										</label>
 											</div>
 										</td>
@@ -1468,7 +1469,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio33" id= "skill332" type="radio" value="Second Choice " cssStyle="margin-right:200px"/>
+										<input name="radio33" id= "skill332" type="radio" value="Second Choice "/>
 										</label>
 											</div>
 										</td>
@@ -1482,7 +1483,7 @@
 									<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio33" id= "skill334" type="radio" value="Fourth Choice " />
+										<input name="radio33" id= "skill334" type="radio" value="Fourth Choice "/>
 										</label>
 											</div>
 										</td>
@@ -1495,100 +1496,133 @@
 									</td>
 										</tr>
 
-									</tbody>
+							</tbody>
 									
-								</table>
-				</div>
-			</div>
-			</form>
-		</div>
-		</div>
-
-
-		<!-- Education section -->
-
-		<div class="container wrap-input100" id="educationandcareer">
-			
-			<a href="#education" class="btn input-block-level form-control btn-info" data-toggle="collapse">Step 2: Career and Education Level</a>
-			<div id="education" class="collapse">
-				<form class="contact100-form validate-form">
-				<!--<span class="contact100-form-title">Step 3</span>-->
-					<div class="wrap-contact100-form-radio">
-					<span class="label-input100">What is your highest level of education?</span>
-						<div class="contact100-form-radio m-t-15">
-							<input class="input-radio100" id="radio1" type="radio" name="type-product" value="physical" checked="checked">
-							<label class="label-radio100" for="radio1">
-									Ph.D or Higher
-							</label>
-						</div>
-						<div class="contact100-form-radio m-t-15">
-							<input class="input-radio100" id="radio1" type="radio" name="type-product" value="physical" checked="checked">
-							<label class="label-radio100" for="radio1">
-									Masters / Graduate Degree
-							</label>
-						</div>
-
-						<div class="contact100-form-radio">
-							<input class="input-radio100" id="radio2" type="radio" name="type-product" value="digital">
-							<label class="label-radio100" for="radio2">
-									Bachelors / Undergraduate Degree
-							</label>
-						</div>
-
-						<div class="contact100-form-radio">
-							<input class="input-radio100" id="radio3" type="radio" name="type-product" value="service">
-							<label class="label-radio100" for="radio3">
-									High School / Diploma
-							</label>
-						</div>
+						</table>
 					</div>
-				</form>
+				</div>
+		
+		</div>
+</div>
+<!-- DO NOT removing spacing below -->
+		<p></p><p></p>
+		<p></p><p></p>
+
+
+
+<!-- FIll up Step 2 Education and Experience section -->
+
+<div class="container wrap-input100" id="educationandcareer">
+			
+			<a href="#education" class="btn input-block-level form-control btn-info" data-toggle="collapse">Complete Step 2: Career and Education Level</a>
+			<div id="education" class="collapse">
+
+				<div class="form-group">
+				    <label for="eduLevelInput">What is your highest Level of Education</label>
+				    <select multiple class="form-control" id="eduLevelInput">
+				        <option>Less than High School Diploma</option>
+                        <option>High School Diploma or GED</option>
+                        <option>Post Secondary Certificate</option>
+                        <option>Some College Course</option>
+                        <option>Associate's Degree</option>
+                        <option>Bachelors's Degree</option>
+                        <option>Post-Baccalaureate Certificate</option>
+                        <option>Master's Degree</option>
+                        <option>Post-Master's Certificate</option>
+                        <option>First Professional Degree</option>
+                        <option>Doctoral Degree</option>
+                        <option>Post-Doctoral Training</option>
+				    </select>
+				  </div>
+				  <div class="form-group">
+				    <label for="yearsInput">Years of Experience</label>
+				    <input type="text" class="form-control" id="yearsInput" placeholder="">
+				  </div>
+				 <div class="form-group">
+				    <label for="lastJobInput">What was your last Job Title</label>
+				    <input type="Number" class="form-control" id="lastJobInput" placeholder="">
+				  </div>
+					
 			</div>
 		</div>
 
-		<!-- May be remove this - Slider For Salary Range
-						<div class="wrap-contact100-form-range">
-							<span class="label-input100">Salary Expectation -per anum *</span>
-							<div class="contact100-form-range-value">
-								$<span id="value-lower">25000</span> - $<span id="value-upper">250000</span>
-								<input type="text" name="from-value">
-								<input type="text" name="to-value">
-							</div>
+<!-- DO NOT removing spacing below -->
+		<p></p><p></p>
+		<p></p><p></p>
 
-							<div class="contact100-form-range-bar">
-								<div id="filter-bar"></div>
-								</div>
-							</div>
-			
-							<div class="container-contact100-form-btn">
-							<a class="btn btn-primary btn-xl js-scroll-trigger" href="/result">Submit</a>
-							</div>-->
-				</form>
-			</div>
+<!-- Submit Button to get Results page -->	
+
+<!--<input type="submit" class="btn btn-primary btn-lg ">Submit to get your Results<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i></button>-->
+<button type="button" class="btn btn-primary btn-lg" onclick="validateContact()">SUBMITFORM</button>
+				
+<!--
+<section class="row">
+  <div class="center">
+	<a href="results.html">
+		<input type="submit" class="btn btn-primary btn-lg ">Submit to get your Results<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i></button>
+	</a>
+  </div>
+</section>
+-->
+
+<!-- Hidden tag for entire json object -->
+
+<input type="hidden" name ="USERINPUT" id="USERINPUT"></input>
 		
-			<div class="container-contact100-form-btn">
-				<a href="/result">
-					<button class="contact100-form-btn">Submit
-						<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i>
-					</button>
-				</a>
+
+
 			
-			</div>
 		</form>
         </div>
 	</div>
 </div>
 
 
+<!--===============================================================================================-->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
 
-<!--===============================================================================================-->
-	<script src="static/ContactForm/vendor/jquery/jquery-3.2.1.min.js"></script>
-<!--===============================================================================================-->
-	<script src="static/ContactForm/vendor/animsition/js/animsition.min.js"></script>
-<!--===========================ContactForm/====================================================================-->
-	<script src="static/ContactForm/vendor/bootstrap/js/popper.js"></script>
-	<script src="static/ContactForm/vendor/bootstrap/js/bootstrap.min.js"></script>
-<!--===============================================================================================-->
+
+
+<!--===============================AddingForm Validation=======================-->
+
+<script>
+function validateContact()
+{ 
+   if( document.contactform.firstNameInput.value == "" )
+   {
+     alert( "Please provide your First Name!" );
+     document.contactform.firstNameInput.focus() ;
+     return false;
+   }
+   if( document.contactform.lastNameInput.value == "" )
+   {
+     alert( "Please provide your Last Name!" );
+     document.StudentRegistration.lastNameInput.focus() ;
+     return false;
+   }
+   
+   if( document.contactform.emailInput.value == "" )
+   {
+     alert( "Please provide your Email Address!" );
+     document.contactform.emailInput.focus() ;
+     return false;
+   }
+   if( document.contactform.phoneInput.value == "" )
+   {
+     alert( "Please provide your Phone Number!" );
+     document.contactform.phoneInput.focus() ;
+     return false;
+   }
+   
+   return( true );
+}
+
+</script>
+
+
+
 	<script src="static/ContactForm/vendor/select2/select2.min.js"></script>
 	<script>
 		$(".js-select2").each(function(){
@@ -1611,13 +1645,7 @@
 			});
 		})
 	</script>
-<!--===============================================================================================-->
-	<script src="static/ContactForm/vendor/daterangepicker/moment.min.js"></script>
-	<script src="static/ContactForm/vendor/daterangepicker/daterangepicker.js"></script>
-<!--===============================================================================================-->
-	<script src="static/ContactForm/vendor/countdowntime/countdowntime.js"></script>
-<!--===============================================================================================-->
-	<script src="static/ContactForm/vendor/noui/nouislider.min.js"></script>
+
 	<script>
 	    var filterBar = document.getElementById('filter-bar');
 
