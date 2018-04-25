@@ -165,6 +165,54 @@ def pymongo_Display_Alternate_Titles_For_User():
     user_alt_titles = predict_score_users.show_alternate_titles(Alternate_Titles_result)
     return jsonify(user_alt_titles)
 
+
+@app.route("/results_bar_plot")
+def results_bar_plot():
+    DF=pd.read_json("OutputPredictAndScore.json")
+    labels=[]
+    values=[]
+    y_axis=[]
+    for index,item in DF.iterrows():
+        db_obj=Salary_State_Year_collection.find_one({"Job_Title":item["Title"]})
+        labels.append(item["Title"])
+        try:
+            values.append(db_obj["Salary_2017"])
+        except:
+            all_obj =Salary_State_Year_collection.find_one({"Job_Title":"All Occupations"})
+            values.append(all_obj["Salary_2017"])
+            
+    # Convert the y axis currency into a integer list
+    for val in values:
+        y_axis.append(int(val.replace("$","").replace(",","")))
+        
+    # Create and Sort the dataframe in descending order of salaries
+    bar_graph=pd.DataFrame({"x":labels,"y":y_axis})
+    bar_graph=bar_graph.sort_values(by=["y"],ascending=False)
+    
+    # Store the dataframe as dictionary before returning the variable to the route
+    labels=bar_graph["x"].tolist()
+    values=bar_graph["y"].tolist()
+    bar_graph_variable={"x":labels,"y":values}
+    
+    # Return the bar_graph_variable
+    return jsonify(bar_graph_variable)
+
+@app.route("/results_map_plot")
+def results_map_plot():
+    DF=pd.read_json("OutputPredictAndScore.json")
+    map_variable={}
+    for index,item in DF.iterrows():
+        title=item["Title"]
+        values=[]
+        cursor=Job_State_Salary_collection.find({"Job_Title":item["Title"]})
+        for document in cursor:
+            doc={"State":document["State"],
+                "Salary":document["Salary"].replace("$","").replace(",",""),
+                "Title":document["Job_Title"]}
+            values.append(doc)
+        map_variable[title]=values
+    return jsonify(map_variable)
+
 # Run the Application
 if __name__ == "__main__":
 	app.run(debug = True,port=3316) 
