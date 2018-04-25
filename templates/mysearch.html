@@ -5,9 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
-	<link rel="icon" type="image/png" href="static/ContactForm/images/icons/favicon.ico"/>
-
-
+	
 <!-- Bootstrap Core CSS -->
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 
@@ -18,6 +16,31 @@
 	<style>
 
 	.center{margin:auto;}
+
+	.button{
+		display:block;
+		text-align:center;
+	}
+	.two-col {
+    overflow: hidden;/* Makes this div contain its floats */
+	}
+
+	.two-col .col1,
+	.two-col .col2 {
+	    width 49%;
+	}
+
+	.two-col .col1 {
+	    float: left;
+	}
+
+	.two-col .col2 {
+	    float: right;
+	}
+
+	.two-col label {
+	    display: block;
+	}
 
 	</style>
     
@@ -59,8 +82,8 @@
 <div class="page-header">
         <div class="clearfix">
             <div class="col-md-12">
-                <div class="col-md-8 col-sm-6 col-xs-12">
-                    <h1> <br /><small>Please provide your contact information and fill up the form</small></h1>
+                <div align="center" class="col-md-8 col-sm-6 col-xs-12">
+                    <h1> <br /><small> Please provide your contact information and fill up the form</small></h1>
                 </div>
             </div>
         </div>
@@ -69,17 +92,23 @@
 <!-- Fill up form - Contact Information-->
 <div class="container" id="contact">
 	<div class="row">
+		<div class="col-md-6 col-md-offset-3 text-center">
 		<!--<form method="POST" action="/uservalue" role="form" name="contactform" onsubmit="return validateContact()">-->
-		<form method="POST" action="/results.html" name="contactform" onsubmit="return validateContact()">
+		<form method="POST" action="/results.html" name="contactform" onsubmit="return validateForm()">
+		  <div class="two-col">
+		  	<div class="col1">
 		  	<div class="form-group">
     			<label for="firstNameInput">First Name</label>
     			<input type="text" minlength="3" class="form-control" required id="firstNameInput" placeholder="">
   			</div>
-  		   
+  			</div>
+  		   <div class="col2">
   			<div class="form-group">
     			<label for="lastNameInput">Last Name</label>
     			<input type="text" minlength="3" class="form-control" required id="lastNameInput" placeholder="">
   			</div>
+  			</div>
+  		  </div>
   		 
   		
   		  
@@ -91,9 +120,8 @@
     			<label for="phoneInput">Phone Number</label>
     			<input type="text" class="form-control" id="phoneInput" placeholder="777-111-1111">
   			</div>
-  			
-  		 
   		</form>
+  	  </div>
   	</div>
  </div>
 
@@ -102,7 +130,7 @@
 			
 <div class="container wrap-input100" id="skills">
 		
-	<a href="#survey" class="btn input-block-level form-control btn-info" data-toggle="collapse" id="step1"> Complete Step1: Skills Assessment</a>
+	<a href="#survey" class="btn input-block-level form-control btn-info" style="margin-top: 30px; margin-bottom: 15px;" data-toggle="tooltip" title="Click Here to make your selections" data-toggle="collapse" id="step1"> <B>Complete Step1: Skills Assessment</B> <p> ( NOTE: Default of Beginner Level is selected for all skill areas )</p></a>
 		<div id="survey" class="collapse">
 			
 				<div class="form-group ">
@@ -128,7 +156,7 @@
 											<td>
 												<div class="radio">
 													<label class="radio">
-														<input name="radio1" id ="skill11" type="radio" value="First Choice"/>
+														<input name="radio1" id ="skill11" type="radio" value="First Choice"  checked="checked"/>
 													</label>
 												</div>
 											</td>
@@ -169,7 +197,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio2" id ="skill21" type="radio" value="First Choice"/>
+										<input name="radio2" id ="skill21" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -210,7 +238,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio3" id ="skill31" type="radio" value="First Choice"/>
+										<input name="radio3" id ="skill31" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -252,7 +280,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio" id ="skill41" type="radio" value="First Choice"/>
+										<input name="radio" id ="skill41" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -294,7 +322,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio5" id ="skill51" type="radio" value="First Choice"/>
+										<input name="radio5" id ="skill51" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -335,7 +363,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio6" id ="skill61" type="radio" value="First Choice"/>
+										<input name="radio6" id ="skill61" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -376,7 +404,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio7" id ="skill71" type="radio" value="First Choice"/>
+										<input name="radio7" id ="skill71" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -417,7 +445,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio8" id ="skill81" type="radio" value="First Choice"/>
+										<input name="radio8" id ="skill81" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -458,7 +486,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio9" id ="skill91" type="radio" value="First Choice"/>
+										<input name="radio9" id ="skill91" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -499,7 +527,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio10" id ="skill101" type="radio" value="First Choice"/>
+										<input name="radio10" id ="skill101" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -540,7 +568,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio11" id ="skill111" type="radio" value="First Choice"/>
+										<input name="radio11" id ="skill111" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -581,7 +609,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio12" id ="skill121" type="radio" value="First Choice"/>
+										<input name="radio12" id ="skill121" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -622,7 +650,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio13" id ="skill131" type="radio" value="First Choice"/>
+										<input name="radio13" id ="skill131" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -666,7 +694,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio14" id ="skill141" type="radio" value="First Choice"/>
+										<input name="radio14" id ="skill141" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -709,7 +737,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio15" id ="skill151" type="radio" value="First Choice"/>
+										<input name="radio15" id ="skill151" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -751,7 +779,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio16" id ="skill161" type="radio" value="First Choice"/>
+										<input name="radio16" id ="skill161" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -793,7 +821,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio17" id ="skill171" type="radio" value="First Choice"/>
+										<input name="radio17" id ="skill171" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -835,7 +863,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio18" id ="skill181" type="radio" value="First Choice"/>
+										<input name="radio18" id ="skill181" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -876,7 +904,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio19" id ="skill191" type="radio" value="First Choice"/>
+										<input name="radio19" id ="skill191" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -918,7 +946,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio20" id ="skill201" type="radio" value="First Choice"/>
+										<input name="radio20" id ="skill201" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -959,7 +987,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio21" id ="skill211" type="radio" value="First Choice"/>
+										<input name="radio21" id ="skill211" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1001,7 +1029,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio22" id ="skill221" type="radio" value="First Choice"/>
+										<input name="radio22" id ="skill221" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1043,7 +1071,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio23" id ="skill231" type="radio" value="First Choice"/>
+										<input name="radio23" id ="skill231" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1085,7 +1113,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio24" id ="skill241" type="radio" value="First Choice"/>
+										<input name="radio24" id ="skill241" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1127,7 +1155,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio25" id ="skill251" type="radio" value="First Choice"/>
+										<input name="radio25" id ="skill251" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1169,7 +1197,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio26" id ="skill261" type="radio" value="First Choice"/>
+										<input name="radio26" id ="skill261" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1211,7 +1239,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio27" id ="skill271" type="radio" value="First Choice"/>
+										<input name="radio27" id ="skill271" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1253,7 +1281,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio28" id ="skill281" type="radio" value="First Choice"/>
+										<input name="radio28" id ="skill281" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1294,7 +1322,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio29" id ="skill291" type="radio" value="First Choice"/>
+										<input name="radio29" id ="skill291" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1336,7 +1364,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio30" id ="skill301" type="radio" value="First Choice"/>
+										<input name="radio30" id ="skill301" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1377,7 +1405,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio31" id ="skill311" type="radio" value="First Choice"/>
+										<input name="radio31" id ="skill311" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1420,7 +1448,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio32" id ="skill321" type="radio" value="First Choice"/>
+										<input name="radio32" id ="skill321" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1462,7 +1490,7 @@
 										<td>
 											<div class="radio">
 										<label class="radio">
-										<input name="radio33" id ="skill331" type="radio" value="First Choice"/>
+										<input name="radio33" id ="skill331" type="radio" value="First Choice" checked="checked"/>
 										</label>
 											</div>
 										</td>
@@ -1504,9 +1532,8 @@
 		
 		</div>
 </div>
-<!-- DO NOT removing spacing below -->
-		<p></p><p></p>
-		<p></p><p></p>
+<!-- DO NOT remove spacing below -->
+
 
 
 
@@ -1514,13 +1541,14 @@
 
 <div class="container wrap-input100" id="educationandcareer">
 			
-			<a href="#education" class="btn input-block-level form-control btn-info" data-toggle="collapse">Complete Step 2: Career and Education Level</a>
+			<a href="#education" class="btn input-block-level form-control btn-info" data-toggle="tooltip" title="Click Here to make your selections" style="margin-top: 15px; margin-bottom: 30px;" data-toggle="collapse"><B>Complete Step 2: Career and Education Level</B></a>
 			<div id="education" class="collapse">
 
 				<div class="form-group">
-				    <label for="eduLevelInput">What is your highest Level of Education</label>
+				    <label for="eduLevelInput">What is your highest Level of Education attained ? </label>
 				    <select multiple class="form-control" id="eduLevelInput">
-				        <option>Less than High School Diploma</option>
+				        <option selected="true" disabled="true">PLease Make your Selection below</option>
+                        <option >Less than High School Diploma</option>
                         <option>High School Diploma or GED</option>
                         <option>Post Secondary Certificate</option>
                         <option>Some College Course</option>
@@ -1535,26 +1563,26 @@
 				    </select>
 				  </div>
 				  <div class="form-group">
-				    <label for="yearsInput">Years of Experience</label>
+				    <label for="yearsInput">Please provide the number of Years of Work Experience ?</label>
 				    <input type="text" class="form-control" id="yearsInput" placeholder="">
 				  </div>
 				 <div class="form-group">
-				    <label for="lastJobInput">What was your last Job Title</label>
-				    <input type="Number" class="form-control" id="lastJobInput" placeholder="">
+				    <label for="lastJobInput">Enter the most recent Job Title you have held .</label>
+				    <input type="text" class="form-control" id="lastJobInput" placeholder="">
 				  </div>
 					
 			</div>
 		</div>
 
 <!-- DO NOT removing spacing below -->
-		<p></p><p></p>
-		<p></p><p></p>
+
 
 <!-- Submit Button to get Results page -->	
 
 <!--<input type="submit" class="btn btn-primary btn-lg ">Submit to get your Results<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i></button>-->
-<button type="button" class="btn btn-primary btn-lg" onclick="validateContact()">SUBMITFORM</button>
-				
+
+	<span class="button"><button type="button" class="btn btn-primary btn-lg" onclick="validateForm()">SUBMIT FORM</button></span>
+		
 <!--
 <section class="row">
   <div class="center">
@@ -1568,6 +1596,7 @@
 <!-- Hidden tag for entire json object -->
 
 <input type="hidden" name ="USERINPUT" id="USERINPUT"></input>
+
 		
 
 
@@ -1588,8 +1617,9 @@
 <!--===============================AddingForm Validation=======================-->
 
 <script>
-function validateContact()
+function validateForm()
 { 
+   
    if( document.contactform.firstNameInput.value == "" )
    {
      alert( "Please provide your First Name!" );
@@ -1615,6 +1645,12 @@ function validateContact()
      document.contactform.phoneInput.focus() ;
      return false;
    }
+   if( document.contactform.radio1.value == null)
+   {
+     alert( "Please answer question1!" );
+     document.contactform.radio1.focus() ;
+     return false;
+   }
    
    return( true );
 }
@@ -1623,64 +1659,5 @@ function validateContact()
 
 
 
-	<script src="static/ContactForm/vendor/select2/select2.min.js"></script>
-	<script>
-		$(".js-select2").each(function(){
-			$(this).select2({
-				minimumResultsForSearch: 20,
-				dropdownParent: $(this).next('.dropDownSelect2')
-			});
-
-
-			$(".js-select2").each(function(){
-				$(this).on('select2:close', function (e){
-					if($(this).val() == "Please chooses") {
-						$('.js-show-service').slideUp();
-					}
-					else {
-						$('.js-show-service').slideUp();
-						$('.js-show-service').slideDown();
-					}
-				});
-			});
-		})
-	</script>
-
-	<script>
-	    var filterBar = document.getElementById('filter-bar');
-
-	    noUiSlider.create(filterBar, {
-	        start: [ 1500, 3900 ],
-	        connect: true,
-	        range: {
-	            'min': 1500,
-	            'max': 7500
-	        }
-	    });
-
-	    var skipValues = [
-	    document.getElementById('value-lower'),
-	    document.getElementById('value-upper')
-	    ];
-
-	    filterBar.noUiSlider.on('update', function( values, handle ) {
-	        skipValues[handle].innerHTML = Math.round(values[handle]);
-	        $('.contact100-form-range-value input[name="from-value"]').val($('#value-lower').html());
-	        $('.contact100-form-range-value input[name="to-value"]').val($('#value-upper').html());
-	    });
-	</script>
-<!--===============================================================================================-->
-	<script src="static/ContactForm/js/main.js"></script>
-
-<!-- Global site tag (gtag.js) - Google Analytics 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-23581568-13');
-</script>
--->
 </body>
 </html>
