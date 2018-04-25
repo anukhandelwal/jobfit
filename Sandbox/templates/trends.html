@@ -57,11 +57,12 @@
   .line {
     width: 100%;
     height: 1px;
-    border: 1px solid black;
+    
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 20px;
-    margin: 40px solid black;
+    padding-bottom: 20px;
+    
     color:black
 }
 input{
@@ -73,7 +74,10 @@ input{
     padding-right: 10px;
     padding-top: 20px
 }
-
+.charts{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
 
 </style>
   <body>
@@ -166,7 +170,7 @@ input{
             </div>
         </div>
       
-        <div class="col-md-12">
+        <div class="row col-md-12 charts">
             <div class="col-md-6" id="grow_bar"></div>
             <div class="col-md-3" id="bar"></div>
             

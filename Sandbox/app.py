@@ -97,8 +97,14 @@ def pymongo_Salary_State_Year_display():
     Salary_State_Year_result=[]
     print("Retrieving Data from Mongo Salary_State_Year")
     cursor = Salary_State_Year_collection.find({})
+    
     for document in cursor:
         document.pop("_id")
+        try:
+            document["Salary_2015"]=float(document["Salary_2015"].replace("$","").replace(",",""))
+            document["Salary_2017"]=float(document["Salary_2017"].replace("$","").replace(",",""))
+        except:
+            pass
         Salary_State_Year_result.append(document)
     return jsonify(Salary_State_Year_result)
 
