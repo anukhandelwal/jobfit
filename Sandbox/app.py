@@ -5,7 +5,10 @@ from flask import(
     Flask,
     render_template,
     jsonify,
-    request)
+    request,
+    redirect,
+    url_for
+    )
 import numpy as np
 import pandas as pd
 import json
@@ -118,8 +121,16 @@ def pymongo_Occupation_display():
         Occupation_result.append(document)
     return jsonify(Occupation_result)
 
-@app.route("/Predict_Score_Users")
+@app.route('/Predict_Score_Users', methods=['POST'])
 def pymongo_Predict_Score_Users():
+    
+    # Read input info  => Read the hidden input that has info submitted by user 
+    user_input = request.form["USERINPUT"] 
+    #Write info into collection with predicted values 
+    print("Reading user input info")
+    print (user_input)
+    
+    #Write info in the collection object 
     Knowledge_Cluster_result=[]
     print("Retrieving Data from Mongo Knowledge_Cluster")
     cursor = Knowledge_Cluster_collection.find({})
@@ -148,8 +159,19 @@ def pymongo_Predict_Score_Users():
 
     #TODO -> Also pass the user_response collection on latest submission
     scored_titles =  predict_score_users.score_user(predicted_title_group, Education_Experience_result, Occupation_result)
-    
-    return jsonify(scored_titles)
+    print (scored_titles)
+    #STored the result in mondoDB collection
+    #result_collection = db.results
+    #result_ids = result_collection.insert_many(scored_titles)  #posting.__dict__
+    # Give info of inserted IDs
+    #print(result_ids.inserted_ids)
+    #STep 1: Write this data into a JSON file
+    with open('static/Data/results.json', 'w') as resultFileHandle:
+        json.dump(scored_titles, resultFileHandle)
+    # Step 2: Write inputs shared by user ad prediction into json file 
+    # Step 3: return a redirect to results page 
+    return redirect(url_for('result'))
+    #return jsonify(scored_titles)
 
 
 @app.route("/Alternate_Titles_User")

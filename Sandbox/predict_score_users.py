@@ -9,6 +9,7 @@ import pandas as pd
 import numbers 
 import pickle
 from sklearn.cluster import KMeans
+#import json 
 
 # # Career Classify Helper (Predict and Score Users)
 # Helps identify probable likely of a candidate's chances for a specific career (job title) based on their knowledge area, education level and experinece level. 
@@ -153,6 +154,9 @@ def score_user(predicted_title_group=[], Education_Experience_result=[], Occupat
 
 	#Write as an array of dictionary items and send info back 
 	score_titles_list = final_scored_title_list.to_dict(orient='records')
+	
+	#with open('static/Data/results.json', 'w') as resultFileHandle:
+	#	resultFileHandle.write(score_titles_list)
 
 	'''
 	score_titles = [ 
@@ -182,6 +186,7 @@ def score_user(predicted_title_group=[], Education_Experience_result=[], Occupat
 					  'Score': 407.70 }
 					] '''
 	return score_titles_list
+	#return final_scored_title_list
 
 
 def show_alternate_titles(Alternate_Titles_result=[], *args):

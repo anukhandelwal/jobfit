@@ -70,7 +70,7 @@
 <div class="container" id="contact">
 	<div class="row">
 		<!--<form method="POST" action="/uservalue" role="form" name="contactform" onsubmit="return validateContact()">-->
-		<form method="POST" action="/results.html" name="contactform" onsubmit="return validateContact()">
+		<form method="POST" action="/Predict_Score_Users" role="form"  id="contact1" name="contactform" onsubmit="return validateContact()">
 		  	<div class="form-group">
     			<label for="firstNameInput">First Name</label>
     			<input type="text" minlength="3" class="form-control" required id="firstNameInput" placeholder="">
@@ -1553,7 +1553,12 @@
 <!-- Submit Button to get Results page -->	
 
 <!--<input type="submit" class="btn btn-primary btn-lg ">Submit to get your Results<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i></button>-->
-<button type="button" class="btn btn-primary btn-lg" onclick="validateContact()">SUBMITFORM</button>
+
+<button type="submit" class="btn btn-primary btn-lg" formaction="/Predict_Score_Users" formmethod="post" onclick="validateContact()">SubmitForm</button>
+
+<!--<button type="submit" class="btn btn-primary btn-lg" formaction="/Predict_Score_Users" formmethod="post" form="contact1" onclick="validateContact()">SubmitForm</button>-->
+
+<!--<button type="button" class="btn btn-primary btn-lg" onclick="validateContact()">SUBMITFORM</button>-->
 				
 <!--
 <section class="row">
@@ -1616,6 +1621,26 @@ function validateContact()
      return false;
    }
    
+   //document.getElementById("name").value="Ana Sunder"
+   //document.getElementById("phone").value="9088721993"
+   //document.getElementById("email").value="aruna.amaresan@gmail.com"
+
+   //var name=document.getElementById("name").value;
+   //var phone=document.getElementById("phone").value;
+   //var email=document.getElementById("email").value;
+   name = "Ana Sunder";
+   phone = "9088721993";
+   email = "aruna.amaresan@gmail.com";
+
+   var datetime = Date();
+   user_input={"Name":name,
+               "Email":email,
+	            "Phone":phone,
+	            "Datetime_Insert":datetime } //,
+	            //"Skills":user_skill_value}
+
+   document.getElementById("USERINPUT").value=JSON.stringify(user_input);
+   console.log(document.getElementById("USERINPUT").value);
    return( true );
 }
 
@@ -1671,6 +1696,7 @@ function validateContact()
 	</script>
 <!--===============================================================================================-->
 	<script src="static/ContactForm/js/main.js"></script>
+	<!--<script src="static/ContactForm/js/mysearch.js"></script>-->
 
 <!-- Global site tag (gtag.js) - Google Analytics 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
