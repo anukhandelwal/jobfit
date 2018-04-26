@@ -51,10 +51,10 @@
         <link href="Results/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom styles for this template -->
         <link href="Results/css/3-col-portfolio.css" rel="stylesheet">
-		<link rel="stylesheet" href="js/style2.css">
+		<link rel="stylesheet" href="/static/css/total_svg.css">
   </head>
   <style type="text/css">
-  .line {
+  .line_plot {
     width: 100%;
     height: 1px;
     
@@ -62,6 +62,7 @@
     padding-right: 10px;
     padding-top: 20px;
     padding-bottom: 20px;
+
     
     color:black
 }
@@ -74,7 +75,7 @@ input{
     padding-right: 10px;
     padding-top: 20px
 }
-.charts{
+.chart_grow_dec{
     padding-top: 20px;
     padding-bottom: 40px;
 }
@@ -110,77 +111,118 @@ input{
       </div>
     </nav>
 
-    <div class="line">
-        <div class="col-md-12">
-            <table class="table ">
-                <thead>
-                    <tr> 
-                    <th class="title box">Title <input type="text" id="search" placeholder="Type to search"></th>
-                    <th>Employment 2016 (thousands)</th>
-                    <th>Employment 2026 (thousands)
-                        </th>
-                    <th>Occupational openings, 2016-2026 annual average (thousands)
-                        </th>
-                    <th>2017 median annual wage</th>
-                    <th>Typical entry-level education
-                        <select class="form-control" id="edu" onchange="optionChanged(this.value)">
-                            <option value="All">All </option>
-                                <option value="No formal educational credential">No formal educational credential</option>
-                                <option value="High school diploma or equivalent">High school diploma or equivalent</option>
-                                <option value="Some college, no degree">Some college, no degree </option>
-                                <option value="Postsecondary nondegree award">Postsecondary nondegree award </option>
-                                <option value="Associate's degree">Associate's degree </option>
-                                <option value="Bachelor's degree">Bachelor's degree</option>
-                                <option value="Master's degree">Master's degree</option>
-                                <option value="Doctoral or professional degree"> Doctoral or professional degree </option>
-                                </select>
-                        </th>
-                    <th>Work experience in a related occupation
-                            <select class="form-control" id="exp" onchange="optionChanged(this.value)">
-                                    <option value="All">All </option>
-                                    <option value="5 years or more">5 years or more </option>
-                                    <option value="Less than 5 years">Less than 5 years </option>
-                                    <option value="None">None  </option>
-                                        </select>
-                        </th>
-                        <th>Typical on-the-job training	
-                                <select class="form-control" id="selDataset" onchange="optionChanged(this.value)">
-                                        <option value="All">All </option>
-                                        <option value="Internship/residency">Internship/residency  </option>
-                                        <option value="Apprenticeship">Apprenticeship </option>
-                                        <option value="Long-term on-the-job training">Long-term on-the-job training  </option>
-                                        <option value="Moderate-term on-the-job training">Moderate-term on-the-job training  </option>
-                                        <option value="Short-term on-the-job training">Short-term on-the-job training  </option>
-                                        <option value="None">None  </option>
-                                            </select>	
-                                        </td>	
-                            </th>
-                    </tr>
-                </thead>
-                
+    
 
-                <tbody>
-                </tbody>
-            </table>
-            <div style="text-align:center;">
-                <input type="button" id="first" onclick="firstPage()" value="first" class="button"/>
-                <input type="button" id="next" onclick="nextPage()" value="next" class="button"/>
-                <input type="button" id="previous" onclick="previousPage()" value="previous" class="button"/>
-                <input type="button" id="last" onclick="lastPage()" value="last" class="button"/>
-            </div>
-        </div>
-      
-        <div class="row col-md-12 charts">
-            <div class="col-md-6" id="grow_bar"></div>
-            <div class="col-md-3" id="bar"></div>
-            
+
+    <!--Animated-->
+    
+
+    <!-- <div id="slider"></div> -->
+    <div class="row col-md-12 container_svg">
+        <div class="container" id="svg_cont">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1315.22 679">
+                <defs>
+                    <linearGradient id="linear-gradient" x1="842" y1="501" x2="1315.22" y2="501" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#77578f"/>
+                    <stop offset="1" stop-color="#995095"/>
+                    </linearGradient>
+                    <linearGradient id="linear-gradient-2" x1="988.22" y1="584" x2="1315.22" y2="584" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#8a5996"/>
+                    <stop offset="1" stop-color="#a45499"/>
+                    </linearGradient>
+                    <linearGradient id="linear-gradient-3" x1="494.73" y1="551" x2="494.73" y2="451" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#e6f1f3"/>
+                    <stop offset="1" stop-color="#b8cfd6"/>
+                    </linearGradient>
+                    <linearGradient id="linear-gradient-4" x1="823.47" y1="551" x2="823.47" y2="451" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#d03392"/>
+                    <stop offset="1" stop-color="#a73d91"/>
+                    </linearGradient>
+                    <mask id="base-mask">
+                        <rect class="base-mask" x="331" y="451" width="656" height="0" fill="white"/>
+                    </mask>
+                    <mask id="bars-mask">
+                        <rect class="bars-mask" x="296" y="50" width="726" height="401" fill="white"/>
+                    </mask>
+                    <mask id="sidebars-mask">
+                        <rect class="sidebars-mask" x="2" y="451" width="1313" height="0" fill="white"/>
+                    </mask>
+                </defs>
+                <title>Occupation</title>
+                
+                <g class="vs">
+                <path class="fvs-base" d="M661.5,20.88A16.5,16.5,0,1,1,645,37.38,16.5,16.5,0,0,1,661.5,20.88Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+                <text class="sans-semi" transform="translate(652.3 42.83)" font-size="18" fill="#014b62" >vs</text>
+                </g>
+                
+                <g class="fmain-bars" mask="url(#bars-mask)">
+                    <path class="fback-l" d="M296.22,267l90-50,90,50V451h-180Z" transform="translate(0)" fill="#436387" fill-rule="evenodd"/>
+                    <path class="fback-r" data-name="back" d="M1022,218l-90-50-90,50V451h180Z" transform="translate(0)" fill="#875994" fill-rule="evenodd"/>
+                    <g class="fprev-year">
+                    <path class="fback-p-transp" d="M478.23,210l90-50,90,50V434.74h-180Z" transform="translate(0)" fill="#fff" fill-rule="evenodd" opacity="0.34"/>
+                    <path class="fback-p" data-name="back" d="M478.23,226.21l90-50,90,50V451h-180Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+                    </g>
+                    <g class="fcurr-year">
+                    <path class="fback-c-transp" data-name="back2" d="M660.22,125l90-50,90,50V434.74h-180Z" transform="translate(0)" fill="#e23f96" fill-rule="evenodd" opacity="0.29"/>
+                    <path class="fback-c" data-name="back" d="M660.22,141l90-50,90,50V451h-180Z" transform="translate(0)" fill="#e23f96" fill-rule="evenodd"/>
+                    </g>
+                </g>
+                
+                <g class="fmain-bases" mask="url(#base-mask)">
+                    <path class="fbase" data-name="base" d="M478.23,451h180V551h-327Z" transform="translate(0)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+                    <path class="ffront" d="M331.23,551h327V679h-327Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+                    <path class="fbase" data-name="base" d="M839.95,451H660.22V551h326.5Z" transform="translate(0)" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+                    <path class="ffront" data-name="front" d="M660.22,551h327V679h-327Z" transform="translate(0)" fill="#e23f96" fill-rule="evenodd"/>
+                </g>
+                <g class="fside-bases" mask="url(#sidebars-mask)">
+                    <path class="fbase" d="M297.22,451H476L329,551H2Z" transform="translate(0)" fill="#335f80" fill-rule="evenodd"/>
+                    <path class="ffront" d="M2.22,551h327v66H2.22Z" transform="translate(0)" fill="#2d6882" fill-rule="evenodd"/>
+                    <path class="fbase" data-name="base" d="M1022,451H842L988.22,551h327Z" transform="translate(0)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+                    <path class="ffront" data-name="front" d="M988.22,551h327v66h-327Z" transform="translate(0)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+                </g>
+                <g class="ffigures">
+                <g class="ftotal">
+                    <path class="totals-base-circ" d="M658,596h1a21,21,0,0,1,0,42h-1a21,21,0,0,1,0-42Z" transform="translate(0)" fill="#104c60" fill-rule="evenodd"/>
+                    <!--<path class="totals-base" d="M613,596h91a21,21,0,0,1,0,42H613a21,21,0,0,1,0-42Z" transform="translate(0)" fill="#104c60" fill-rule="evenodd"/>-->
+                    <text class="sans-semi totals-title" transform="translate(635.94 623.23)" font-size="16" fill="#fff" >Totals</text>
+                </g>
+                <text class="fsans-semi total-l" x="427" y="627" font-size="30" fill="#015873">156063.8</text>
+                <text class="fsans-semi total-r" x="754" y="627" font-size="30" fill="#fff">167582.3</text>
+                <text class="fsans-semi fperc" x="681" y="323" font-size="48" fill="#fff">7.4%</text>
+                <text class="fsans-semi fup" x="729" y="278" font-size="30" fill="#fff">UP</text>
+                </g>
+                
+                <g class="fyear-l">
+                <path class="fyear-base" d="M541,16h54a21,21,0,0,1,0,42H541a21,21,0,0,1,0-42Z" transform="translate(0)" fill="none" stroke="#fff" stroke-miterlimit="10" fill-rule="evenodd"/>
+                <text class="sans-light" transform="translate(544.03 44.6)" font-size="21" fill="#fff">2016</text>
+                </g>
+                <g class="fyear-r">
+                <path class="fyear-base-2" data-name="year-base" d="M722.22,16h54a21,21,0,0,1,0,42h-54a21,21,0,0,1,0-42Z" transform="translate(0)" fill="none" stroke="#fff" stroke-miterlimit="10" fill-rule="evenodd"/>
+                <text class="sans-light"  transform="translate(724.48 44.6)" font-size="21" fill="#fff">2026</text>
+                </g>
+                
+            </svg>
+        
+        
         </div>
     </div>
 
-      <script src="static/js/data.js" type="text/javascript"></script>
-      <script src="static/js/trends.js" type="text/javascript"></script>
+    <div class="row ">
+            <div class="row col-md-12 chart_grow_dec">
+                <div class="col-md-6 line_plot" id="grow_bar"></div>
+                <div class="col-md-4 line_plot" id="dec_bar"></div>
+                
+            </div>
+        </div>
+
+    <!-- end -->
+
+      
+      
       <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
       <script src="static/js/chart.js" type="text/javascript"></script>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+      <script src="static/js/total_svg.js" type="text/javascript"></script>
       
 
   </body>

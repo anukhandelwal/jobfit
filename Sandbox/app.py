@@ -11,6 +11,7 @@ import pandas as pd
 import json
 import predict_score_users
 
+
 # Initialize the Flask application
 app = Flask(__name__)
 
@@ -47,6 +48,9 @@ def trends():
 @app.route("/about")
 def about():
     return(render_template("about.html"))
+@app.route("/data")
+def dataSearch():
+    return(render_template("dataSearch.html"))
 
 @app.route("/Education_Experience")
 def pymongo_Education_Experience_display():
@@ -165,6 +169,13 @@ def pymongo_Display_Alternate_Titles_For_User():
     user_alt_titles = predict_score_users.show_alternate_titles(Alternate_Titles_result)
     return jsonify(user_alt_titles)
 
+#extra route
+@app.route("/result/output")
+def results_info():
+   DF=pd.read_json("OutputPredictAndScore.json")
+   DF=DF.T.to_dict().values()
+
+   return jsonify(list(DF))
 
 @app.route("/results_bar_plot")
 def results_bar_plot():
@@ -182,11 +193,11 @@ def results_bar_plot():
             values.append(all_obj["Salary_2017"])
             
     # Convert the y axis currency into a integer list
-    for val in values:
-        y_axis.append(int(val.replace("$","").replace(",","")))
+    #for val in values:
+    #    y_axis.append(int(val.replace("$","").replace(",","")))
         
     # Create and Sort the dataframe in descending order of salaries
-    bar_graph=pd.DataFrame({"x":labels,"y":y_axis})
+    bar_graph=pd.DataFrame({"x":labels,"y":values})
     bar_graph=bar_graph.sort_values(by=["y"],ascending=False)
     
     # Store the dataframe as dictionary before returning the variable to the route
