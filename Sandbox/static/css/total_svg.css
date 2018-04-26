@@ -1,0 +1,48 @@
+#svg_cont {
+   background-image: linear-gradient(to right, #005872, #a63c92);
+   
+   margin-top: 50px;
+}
+/* {
+    background-image: linear-gradient(to right, #005872, #a63c92);
+ }
+ 
+ body,
+ html {
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+ }*/
+ 
+ #slider{
+   width:300px;
+   position:relative;
+   margin: 30px auto;
+ }
+ 
+ .container_svg {
+   padding-top: 20px;
+ }
+ 
+ svg {
+   width: 100%;
+   height: 100%;
+   visibility: hidden;
+ }
+ 
+ .sans-semi {
+     font-family: "open-sans", sans-serif;
+     font-weight: 600;
+     font-style: normal;
+ }
+ .sans-light{
+     font-family: 'open-sans', sans-serif;
+     font-weight: 300;
+     font-style: normal;
+ }
+ 
+ .totals-base {
+     visibility: hidden;
+ }
+ 
