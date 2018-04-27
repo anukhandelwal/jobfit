@@ -1,4 +1,5 @@
 //d3.json(/Salary_State_Year)
+function plot_line(){
 Plotly.d3.json('/Salary_State_Year', function(error, rows){
     var title=[];
     var salary_15=[];
@@ -102,3 +103,4 @@ var trace2 = {
   console.log(data);
   Plotly.newPlot('line_salary', data, layout);
   }); 
+}
