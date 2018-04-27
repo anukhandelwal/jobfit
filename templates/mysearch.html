@@ -18,12 +18,13 @@
 	.center{margin:auto;}
 
 	body {
-    background-color: #FFD11A;
+    background-color: #FFE066;
 	}
 
 	.button{
 		display:block;
 		text-align:center;
+		margin-bottom: 40px;
 	}
 	.two-col {
     overflow: hidden;/* Makes this div contain its floats */
@@ -46,6 +47,16 @@
 	    display: block;
 	}
 
+	footer {
+    background-color: grey;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 55px;
+    width: 100%;
+
+  }
+
 	</style>
     
 </head>
@@ -62,18 +73,18 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="/index">Home
-                <span class="sr-only">(current)</span>
-              </a>
+              <a class="nav-link" href="/index">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="/about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/survey">Survey</a>
+              <a class="nav-link" href="/survey">Find Job
+              <span class="sr-only">(current)</span>
+          	</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Trends</a>
+              <a class="nav-link" href="/results">Trends</a>
             </li>
           </ul>
         </div>
@@ -132,7 +143,7 @@
 		
 <div class="container wrap-input100" id="skills">
 		
-	<a href="#survey" class="btn input-block-level form-control btn-info" style="margin-top: 30px; margin-bottom: 15px;" data-toggle="collapse" id="step1"> <B>Complete Step1: Skills Assessment</B> <p> ( NOTE: Default of Beginner Level is selected for all skill areas )</p></a>
+	<a href="#survey" class="btn input-block-level form-control btn-info" style="margin-top: 20px; margin-bottom: 15px;" data-toggle="collapse" id="step1"> <B>Complete Step1: Skills Assessment</B> <p> ( NOTE: Default of Beginner Level is selected for all skill areas )</p></a>
 		<div id="survey" class="collapse">
 			
 				<div class="form-group ">
@@ -1543,7 +1554,7 @@
 
 <div class="container wrap-input100" id="educationandcareer">
 			
-			<a href="#education" class="btn input-block-level form-control btn-info" style="margin-top: 15px; margin-bottom: 30px;" data-toggle="collapse"><B>Complete Step 2: Career and Education Level</B></a>
+			<a href="#education" class="btn input-block-level form-control btn-info" style="margin-top: 10px; margin-bottom: 25px;" data-toggle="collapse"><B>Complete Step 2: Career and Education Level</B></a>
 			<div id="education" class="collapse">
 
 				<div class="form-group">
@@ -1602,13 +1613,13 @@
 <!-- Footer -->
 <footer class="sticky-footer">
      <div class="footer-social">
-         <div class="container text-center" style:"font-size:40px;" background-color:"ivory">
-           <i class="fa fa-github" ></i>
+         <div class="container text-center" style:"font-size:40px;">
+           <i class="fa fa-github"></i>
            <a href="https://github.com/anukhandelwal/jobfit"> JobFitt Git Repository</a>
          </div>
        </div>
-       <div class="footer-main" style="color:#fff;">
-         <div class="container text-center">
+       <div class="footer-main">
+         <div class="container text-center" style="color:#fff;">
            <small>Copyright &copy; Rutgers Athena Team 2018-2020</small>
          </div>
        </div>
