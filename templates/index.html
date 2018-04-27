@@ -26,6 +26,10 @@
     background-color: #FFD11A;
   }
 
+  #services{
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
   .image {
   display: inline-block;
   width: 150px;
@@ -47,6 +51,10 @@
 
   .three {
     background-image: url('../static/img/education.jpg');
+  }
+
+  .four {
+    background-image: url('../static/img/questions.jpg');
   }
   
 </style>
@@ -115,42 +123,44 @@
 
     <!-- Page Content -->
 
+    
     <!-- Section for Services, link to Skills, Education and Experience -->
 
-    <section class="content-section bg-primary text-white text-center" id="services" height="750px">
+    <section class="content-section bg-primary text-white text-center" id="services" style="margin-top: 30px;margin-bottom: 30px;" height="750px">
       <div class="container">
         <div class="content-section-heading">
-          <h3 class="text-secondary mb-0">Services</h3>
+          
           <h2 class="mb-5">What We Offer</h2>
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <div class="image one">
+            <a href="#"><div class="image one">
             </div>
+            </a>
             <p> Select your Skills</p>
             
             
           </div>
-          <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <div class="image two">
+         <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+            <a href="#"><div class="image two">
             </div>
+            </a>
             <p> Select your Experience</p>
+          
               
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <div class="image three">
+            <a href="#"><div class="image three">
             </div>
+            </a>
             <p> Select your Education</p>
               
           </div>
           <div class="col-lg-3 col-md-6">
-            <span class="service-icon rounded-circle mx-auto mb-3">
-              <i class="icon-mustache"></i>
-            </span>
-            <h4>
-              <strong>Question</strong>
-            </h4>
-            <p class="text-faded mb-0">Meet the team...</p>
+            <a href="#"><div class="image four">
+            </div>
+            </a>
+            <p> Meet The Team</p>
           </div>
         </div>
       </div>
@@ -158,7 +168,7 @@
        
     
 
-    <!-- Footer -->
+    <!-- Footer
     <footer class="footer text-center" id="contact">
       <div class="container">
         <ul class="list-inline mb-5">
@@ -181,6 +191,22 @@
         <p class="text-muted small mb-0">Copyright &copy; Rutgers Athena Team 2018-2020</p>
       </div>
     </footer>
+  -->
+
+
+    <footer class="sticky-footer">
+     <div class="footer-social">
+         <div class="container text-center" style:"font-size:40px;">
+           <i class="fa fa-github" ></i>
+           <a href="https://github.com/anukhandelwal/jobfit"> JobFitt Git Repository</a>
+         </div>
+       </div>
+       <div class="footer-main" style="color:#fff;">
+         <div class="container text-center">
+           <small>Copyright &copy; Rutgers Athena Team 2018-2020</small>
+         </div>
+       </div>
+   </footer>
 
     <!-- Scroll to Top Button-->
     <a class="scroll-to-top rounded js-scroll-trigger" href="#page-top">

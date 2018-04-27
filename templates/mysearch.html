@@ -17,6 +17,10 @@
 
 	.center{margin:auto;}
 
+	body {
+    background-color: #FFD11A;
+	}
+
 	.button{
 		display:block;
 		text-align:center;
@@ -82,8 +86,8 @@
 <div class="page-header">
         <div class="clearfix">
             <div class="col-md-12">
-                <div align="center" class="col-md-8 col-sm-6 col-xs-12">
-                    <h1> <br /><small> Please provide your contact information and fill up the form</small></h1>
+                <div align="center" class="col-sm-6 col-md-8 col-lg-12">
+                    <h1> <br /><small> Complete the questionnaire to find your Perfect Job Titles</small></h1>
                 </div>
             </div>
         </div>
@@ -92,33 +96,30 @@
 <!-- Fill up form - Contact Information-->
 <div class="container" id="contact">
 	<div class="row">
-		<div class="col-md-6 col-md-offset-3 text-center">
+		<div class="col-md-12 text-center">
 		<!--<form method="POST" action="/uservalue" role="form" name="contactform" onsubmit="return validateContact()">-->
 		<form method="POST" action="/results.html" name="contactform" onsubmit="return validateForm()">
-		  <div class="two-col">
-		  	<div class="col1">
+		  <div class="row">
+		  	<div class="col1 col-sm-6 col-md-6 col-lg-6">
 		  	<div class="form-group">
-    			<label for="firstNameInput">First Name</label>
+    			<label for="firstNameInput">First Name (*)</label>
     			<input type="text" minlength="3" class="form-control" required id="firstNameInput" placeholder="">
   			</div>
   			</div>
-  		   <div class="col2">
+  		   <div class="col2 col-sm-6 col-md-6 col-lg-6">
   			<div class="form-group">
-    			<label for="lastNameInput">Last Name</label>
+    			<label for="lastNameInput">Last Name (*)</label>
     			<input type="text" minlength="3" class="form-control" required id="lastNameInput" placeholder="">
   			</div>
   			</div>
-  		  </div>
-  		 
-  		
-  		  
+  		  </div> 		  
   			<div class="form-group">
-    			<label for="emailInput">Email Address</label>
+    			<label for="emailInput">Email Address (*)</label>
     			<input type="text" minlength="10" class="form-control" id="emailInput" placeholder="a@jobfitt.com">
   			</div>
   			<div class="form-group">
-    			<label for="phoneInput">Phone Number</label>
-    			<input type="text" class="form-control" id="phoneInput" placeholder="777-111-1111">
+    			<label for="phoneInput">Phone Number (*)</label>
+    			<input type="text" class="form-control" id="phoneInput" minlength=10 maxlength=10 placeholder="7771111111">
   			</div>
   		</form>
   	  </div>
@@ -1575,8 +1576,6 @@
 			</div>
 		</div>
 
-<!-- DO NOT removing spacing below -->
-
 
 <!-- Submit Button to get Results page -->	
 
@@ -1598,6 +1597,22 @@
         </div>
 	</div>
 </div>
+
+
+<!-- Footer -->
+<footer class="sticky-footer">
+     <div class="footer-social">
+         <div class="container text-center" style:"font-size:40px;" background-color:"ivory">
+           <i class="fa fa-github" ></i>
+           <a href="https://github.com/anukhandelwal/jobfit"> JobFitt Git Repository</a>
+         </div>
+       </div>
+       <div class="footer-main" style="color:#fff;">
+         <div class="container text-center">
+           <small>Copyright &copy; Rutgers Athena Team 2018-2020</small>
+         </div>
+       </div>
+   </footer>
 
 
 <!--===============================================================================================-->
