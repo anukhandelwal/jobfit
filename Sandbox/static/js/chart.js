@@ -7,7 +7,7 @@ var trace1 = {
       "Legal secretaries",
       "Executive secretaries and executive administrative assistants",
       "Sewing machine operators",
-      "Postal service mail sorters, processors, and processing machine operators",
+      "Postal service mail sorters and processors",
       "Structural metal fabricators and fitters"
       ],
 
@@ -27,7 +27,7 @@ var trace1 = {
     "Legal secretaries",
     "Executive secretaries and executive administrative assistants",
     "Sewing machine operators",
-    "Postal service mail sorters, processors, and processing machine operators",
+    "Postal service mail sorters and processors",
     "Structural metal fabricators and fitters"
     ],
     y: [50.1,39.7, 160.6, 173.3, 74.7, 157.5, 566.2, 128.2, 89.1, 65.2],
@@ -46,13 +46,16 @@ var trace1 = {
   var data = [trace1, trace2];
   
   var layout = {
-    title: 'Occupations with the largest job declines,2016 and projected 2026(in thousands)',
+    //title: 'Occupations with the largest job declines,2016 and projected 2026(in thousands)',
    
     xaxis: {title: 'Title'},
     yaxis: {title: 'No.of Employees'},
     width: "100%",
     height: "100%",
     barmode: 'group',
+    margin:{
+      b:150,
+    }
     
   };
   
@@ -66,7 +69,7 @@ var gtrace1 = {
       "Market research analysts and marketing specialists",
       "Medical secretaries",
       "Financial managers",
-      "Combined food preparation and serving workers, including fast food",
+      "Combined food preparation and serving workers",
       "Registered nurses",
       "Management analysts" ],
     y:[912,
@@ -95,7 +98,7 @@ var gtrace1 = {
     "Market research analysts and marketing specialists",
     "Medical secretaries",
     "Financial managers",
-    "Combined food preparation and serving workers, including fast food",
+    "Combined food preparation and serving workers",
     "Registered nurses",
     "Management analysts" ],
     y: [1342,
@@ -123,13 +126,16 @@ var gtrace1 = {
   var gdata = [gtrace1, gtrace2];
   
   var glayout = {
-    title: 'Occupations with the most job growth,2016 and projected 2026(in thousands)',
+    //title: 'Occupations with the most job growth,2016 and projected 2026(in thousands)',
    
     xaxis: {title: 'Title'},
     yaxis: {title: 'No.of Employees'},
     width: "100%",
     height:"100%",
-    barmode: 'group'
+    barmode: 'group',
+    margin:{
+      b:150,
+    }
   };
   
   Plotly.newPlot('grow_bar', gdata, glayout,{displayModeBar: false});

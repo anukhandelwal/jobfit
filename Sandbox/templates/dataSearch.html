@@ -8,82 +8,49 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Trends</title>
+    <title>JobFitt Data</title>
 
-    <!-- Bootstrap core CSS -->
-           <!--===============================================================================================-->
-	<link rel="icon" type="image/png" href="static/ContactForm/images/icons/favicon.ico"/>
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/bootstrap/css/bootstrap.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/fonts/iconic/css/material-design-iconic-font.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/animate/animate.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/css-hamburgers/hamburgers.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/animsition/css/animsition.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/select2/select2.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/daterangepicker/daterangepicker.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/noui/nouislider.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/css/util.css">
-        <link rel="stylesheet" type="text/css" href="static/css/main.css">
-        <link rel="stylesheet" type="text/css" href="static/css/main_navigation.css">
-    <!--===============================================================================================-->
-    
-    <!-- Bootstrap Core CSS -->
-        <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    
-        <!-- Custom Fonts -->
-        <link href="static/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-        <link href="static/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
-    
-        <!-- Custom CSS -->
-        <link href="static/css/stylish-portfolio.min.css" rel="stylesheet">
-        !-- Bootstrap core CSS -->
-        <link href="Results/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <!-- Custom styles for this template -->
-        <link href="Results/css/3-col-portfolio.css" rel="stylesheet">
-		<link rel="stylesheet" href="js/style2.css">
-  </head>
-  <style type="text/css">
-  .line {
-    width: 100%;
-    height: 1px;
-    
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    
-    color:black
-}
-input{
-    border: 1px solid black;
-}
-.table{
-    border: 1 px solid black;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 20px
-}
-.charts{
-    padding-top: 20px;
-    padding-bottom: 40px;
-}
+   <!-- Bootstrap Core CSS -->
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 
-</style>
-  <body>
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
+    <!-- Custom CSS -->
+    <link href="static/css/stylish-portfolio.min.css" rel="stylesheet">
+  
+    <style type="text/css">
+    footer{
+            background-color: #212529;
+            color:white;
+            text-align: center;
+            margin-top:30px;
+        }
+    #nav_main{
+        margin-bottom: 30px;
+        }
+    #container_table{
+        margin-top: 50px;
+    }
+    input{
+        border: 1px solid black;
+    }
+    .table{
+        border: 1 px solid black;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px
+    }
+    .charts{
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    </style>
+</head>
+<body>
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="nav_main">
       <div class="container">
         <a class="navbar-brand" href="#">Jobfitt</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -93,60 +60,60 @@ input{
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
               <a class="nav-link" href="/index">Home
-                <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/about">About</a>
+                <a class="nav-link" href="/about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/survey">Survey</a>
+                <a class="nav-link" href="/survey">Survey</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/trends">Trends</a>
+                <a class="nav-link" href="/trends">Trends</a>
             </li>
             <li class="nav-item">
-                    <a class="nav-link" href="/data">Data</a>
+                <a class="nav-link" href="/data">Data</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
-
-    <div class="line">
-        <div class="col-md-12">
-            <table class="table ">
-                <thead>
-                    <tr> 
-                    <th class="title box">Title <input type="text" id="search" placeholder="Type to search"></th>
-                    <th>Employment 2016 (thousands)</th>
-                    <th>Employment 2026 (thousands)
-                        </th>
-                    <th>Occupational openings, 2016-2026 annual average (thousands)
-                        </th>
-                    <th>2017 median annual wage</th>
-                    <th>Typical entry-level education
-                        <select class="form-control" id="edu" onchange="optionChanged(this.value)">
-                            <option value="All">All </option>
-                                <option value="No formal educational credential">No formal educational credential</option>
-                                <option value="High school diploma or equivalent">High school diploma or equivalent</option>
-                                <option value="Some college, no degree">Some college, no degree </option>
-                                <option value="Postsecondary nondegree award">Postsecondary nondegree award </option>
-                                <option value="Associate's degree">Associate's degree </option>
-                                <option value="Bachelor's degree">Bachelor's degree</option>
-                                <option value="Master's degree">Master's degree</option>
-                                <option value="Doctoral or professional degree"> Doctoral or professional degree </option>
-                                </select>
-                        </th>
-                    <th>Work experience in a related occupation
-                            <select class="form-control" id="exp" onchange="optionChanged(this.value)">
+    <!--Data Table-->
+    <div class="container-fluid" id="container_table">
+        <div class="row">
+            <div class="col-md-12">
+                <table class="table ">
+                    <thead>
+                        <tr> 
+                            <th class="title box">Title <!--<input type="text" id="search" placeholder="Type to search">--></th>
+                            <th>Employment 2016 (thousands)</th>
+                            <th>Employment 2026 (thousands)
+                                </th>
+                            <th>Occupational openings, 2016-2026 annual average (thousands)
+                                </th>
+                            <th>2017 median annual wage</th>
+                            <th>Typical entry-level education
+                                <select class="form-control" id="edu" onchange="optionChanged(this.value)">
                                     <option value="All">All </option>
-                                    <option value="5 years or more">5 years or more </option>
-                                    <option value="Less than 5 years">Less than 5 years </option>
-                                    <option value="None">None  </option>
-                                        </select>
-                        </th>
-                        <th>Typical on-the-job training	
+                                    <option value="No formal educational credential">No formal educational credential</option>
+                                    <option value="High school diploma or equivalent">High school diploma or equivalent</option>
+                                    <option value="Some college, no degree">Some college, no degree </option>
+                                    <option value="Postsecondary nondegree award">Postsecondary nondegree award </option>
+                                    <option value="Associate's degree">Associate's degree </option>
+                                    <option value="Bachelor's degree">Bachelor's degree</option>
+                                    <option value="Master's degree">Master's degree</option>
+                                    <option value="Doctoral or professional degree"> Doctoral or professional degree </option>
+                                </select>
+                            </th>
+                            <th>Work experience in a related occupation
+                                    <select class="form-control" id="exp" onchange="optionChanged(this.value)">
+                                        <option value="All">All </option>
+                                        <option value="5 years or more">5 years or more </option>
+                                        <option value="Less than 5 years">Less than 5 years </option>
+                                        <option value="None">None  </option>
+                                    </select>
+                            </th>
+                            <th>Typical on-the-job training	
                                 <select class="form-control" id="selDataset" onchange="optionChanged(this.value)">
                                         <option value="All">All </option>
                                         <option value="Internship/residency">Internship/residency  </option>
@@ -155,40 +122,43 @@ input{
                                         <option value="Moderate-term on-the-job training">Moderate-term on-the-job training  </option>
                                         <option value="Short-term on-the-job training">Short-term on-the-job training  </option>
                                         <option value="None">None  </option>
-                                            </select>	
-                                        </td>	
+                                </select>	
                             </th>
-                    </tr>
-                </thead>
-                
-
-                <tbody>
-                </tbody>
-            </table>
-            <div style="text-align:center;">
-                <input type="button" id="first" onclick="firstPage()" value="first" class="button"/>
-                <input type="button" id="next" onclick="nextPage()" value="next" class="button"/>
-                <input type="button" id="previous" onclick="previousPage()" value="previous" class="button"/>
-                <input type="button" id="last" onclick="lastPage()" value="last" class="button"/>
+                        </tr>
+                    </thead>
+                    
+                    <tbody>
+                    </tbody>
+                </table>
+                <div style="text-align:center;">
+                    <input type="button" id="first" onclick="firstPage()" value="First" class="button"/>
+                    <input type="button" id="next" onclick="nextPage()" value="Next" class="button"/>
+                    <input type="button" id="previous" onclick="previousPage()" value="Previous" class="button"/>
+                    <input type="button" id="last" onclick="lastPage()" value="Last" class="button"/>
+                </div>
             </div>
-        </div>
-      
+        </div> 
     </div>
 
-
-    <!--Animated-->
-    
-
-
-
-
     <!-- end -->
+    <!--Footer-->
+    <footer class="sticky-footer">
+        <div class="footer-social">
+            <div class="container text-center" style:"font-size:40px;">
+                <i class="fa fa-github" ></i>
+                <a href="https://github.com/anukhandelwal/jobfit"> JobFitt Git Repository</a>
+            </div>
+        </div>
+        <div class="footer-main" style="color:#fff;">
+            <div class="container text-center">
+                <small>Copyright &copy; Rutgers Athena Team 2018-2020</small>
+            </div>
+        </div>
+    </footer>
 
       <script src="static/js/data.js" type="text/javascript"></script>
       <script src="static/js/trends.js" type="text/javascript"></script>
       <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
      
-      
-
-  </body>
-  </html>
+</body>
+</html>

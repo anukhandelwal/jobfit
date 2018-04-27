@@ -9,14 +9,20 @@
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 
-        <!-- Fonts -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
     <!-- Submit button style -->
 	<style>
 
         .center{margin:auto;}
-
+        
+        footer{
+            background-color: #212529;
+            color:white;
+            text-align: center;
+            margin-top:30px;
+        }
         body {
         background-color: #FFD11A;
         }
@@ -60,7 +66,6 @@
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
                     <a class="nav-link" href="/index">Home
-                        <span class="sr-only">(current)</span>
                     </a>
                     </li>
                     <li class="nav-item">
@@ -81,10 +86,10 @@
         </nav>
     </div>
     <!-- PAGE HEADER-->
-    <div class="page-header">
+    <div class="page-header" style="padding-top:60px;">
         <div class="clearfix">
             <div class="col-md-12">
-                <div align="center" class="col-sm-6 col-md-8 col-lg-12">
+                <div align="center" class="col-sm-6 col-md-8 col-lg-12" style="font-variant:small-caps">
                     <h1> <br /><small> Complete the questionnaire to find your Perfect Job Titles</small></h1>
                 </div>
             </div>
@@ -102,23 +107,23 @@
                     <div class="row">
                         <div class="col1 col-sm-6 col-md-6 col-lg-6">
                             <div class="form-group">
-                                <label for="firstNameInput">First Name (*)</label>
+                                <label for="firstNameInput"><strong>Name (*)</strong></label>
                                 <input type="text" minlength="3" class="form-control" required id="firstNameInput" placeholder=""/>
                             </div>
                         </div>
                         <div class="col2 col-sm-6 col-md-6 col-lg-6">
                             <div class="form-group">
-                                <label for="lastNameInput">Last Name (*)</label>
+                                <label for="lastNameInput"><strong>Last Name (*)</strong></label>
                                 <input type="text" minlength="3" class="form-control" required id="lastNameInput" placeholder=""/>
                             </div>
                         </div>
                     </div> 		  
                     <div class="form-group">
-                        <label for="emailInput">Email Address (*)</label>
+                        <label for="emailInput"><strong>Email Address (*)</strong></label>
                         <input type="text" minlength="10" class="form-control" id="emailInput" placeholder="a@jobfitt.com"/>
                     </div>
                     <div class="form-group">
-                        <label for="phoneInput">Phone Number (*)</label>
+                        <label for="phoneInput"><strong>Phone Number (*)</strong></label>
                         <input type="text" class="form-control" id="phoneInput" minlength=10 maxlength=10 placeholder="7771111111"/>
                     </div>
                 </div>
@@ -1555,11 +1560,35 @@
                     </div>  
                 </div>
             </div>
-            <button type="button" class="btn btn-primary btn-lg" onclick="validateContact()">SUBMITFORM</button>
+            <div class="row" style="text-align:center">
+                <div class="col-sm-4 col-md-4 col-lg-4">
+                </div>
+                <div class="col-sm-4 col-md-4 col-lg-4">
+                        <button type="button" class="btn btn-primary btn-lg" onclick="validateContact()" style="text-align:center">SUBMIT FORM</button>
+                </div>
+                <div class="col-sm-4 col-md-4 col-lg-4">
+                </div>
+                
+            </div>
             <!--HIDDEN TAG for saving all the input-->
             <input type="hidden" name ="USERINPUT" id="USERINPUT"></input>
         </form>
      </div>
+     <!--Footer-->
+     <footer class="sticky-footer">
+        <div class="footer-social">
+            <div class="container text-center" style:"font-size:40px;">
+                <i class="fa fa-github" ></i>
+                <a href="https://github.com/anukhandelwal/jobfit"> JobFitt Git Repository</a>
+            </div>
+        </div>
+        <div class="footer-main" style="color:#fff;">
+            <div class="container text-center">
+                <small>Copyright &copy; Rutgers Athena Team 2018-2020</small>
+            </div>
+        </div>
+    </footer>
+
 
 
     <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>

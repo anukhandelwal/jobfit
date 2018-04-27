@@ -273,6 +273,7 @@ def results_map_plot():
             values.append(doc)
         map_variable[title]=values
     return jsonify(map_variable)
+    
 
 @app.route("/results_line_plot")
 def results_line_plot():

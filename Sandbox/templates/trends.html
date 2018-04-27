@@ -9,82 +9,53 @@
     <meta name="author" content="">
 
     <title>Trends</title>
+    
+   <!-- Bootstrap Core CSS -->
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 
-    <!-- Bootstrap core CSS -->
-           <!--===============================================================================================-->
-	<link rel="icon" type="image/png" href="static/ContactForm/images/icons/favicon.ico"/>
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/bootstrap/css/bootstrap.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/fonts/iconic/css/material-design-iconic-font.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/animate/animate.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/css-hamburgers/hamburgers.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/animsition/css/animsition.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/select2/select2.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/daterangepicker/daterangepicker.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/ContactForm/vendor/noui/nouislider.min.css">
-    <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="static/css/util.css">
-        <link rel="stylesheet" type="text/css" href="static/css/main.css">
-        <link rel="stylesheet" type="text/css" href="static/css/main_navigation.css">
-    <!--===============================================================================================-->
-    
-    <!-- Bootstrap Core CSS -->
-        <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    
-        <!-- Custom Fonts -->
-        <link href="static/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-        <link href="static/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
-    
-        <!-- Custom CSS -->
-        <link href="static/css/stylish-portfolio.min.css" rel="stylesheet">
-        !-- Bootstrap core CSS -->
-        <link href="Results/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <!-- Custom styles for this template -->
-        <link href="Results/css/3-col-portfolio.css" rel="stylesheet">
-		<link rel="stylesheet" href="/static/css/total_svg.css">
-  </head>
-  <style type="text/css">
-  .line_plot {
-    width: 100%;
-    height: 1px;
-    
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
-    
-    color:black
-}
-input{
-    border: 1px solid black;
-}
-.table{
-    border: 1 px solid black;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 20px
-}
-.chart_grow_dec{
-    padding-top: 20px;
-    padding-bottom: 40px;
-}
+    <!-- Custom CSS -->
+    <link href="static/css/stylish-portfolio.min.css" rel="stylesheet">
 
-</style>
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="/static/css/total_svg.css">
+  
+    <style type="text/css">
+            footer{
+                    background-color: #212529;
+                    color:white;
+                    text-align: center;
+                    margin-top:30px;
+                }
+            #nav_main{
+                margin-bottom: 30px;
+            }
+            #grow_bar{
+                margin-right:50px;
+            }
+            input{
+                border: 1px solid black;
+            }
+            .table{
+                border: 1 px solid black;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 20px
+            }
+            .chart_grow_dec{
+                padding-top: 20px;
+                padding-bottom: 40px;
+                margin-top:30px;
+            }
+
+        </style>
+</head>
   <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="nav_main">
       <div class="container">
         <a class="navbar-brand" href="#">Jobfitt</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -94,7 +65,6 @@ input{
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
               <a class="nav-link" href="/index">Home
-                <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
@@ -211,15 +181,37 @@ input{
         </div>
     </div>
 
-    <div class="row ">
-            <div class="row col-md-12 chart_grow_dec">
-                <div class="col-md-6 line_plot" id="grow_bar"></div>
-                <div class="col-md-4 line_plot" id="dec_bar"></div>
-                
+    <div class="container-fluid">
+        <div class="row chart_grow_dec" style="margin-bottom:30px;">
+            <div class="col-md-6">
+                <h4 style="text-align:center">Largest Growing Occupations,2016 and projected 2026(in 1000's)</h4>
+                <div id="grow_bar"></div>
+            </div>
+
+            <div class="col-md-6">
+                <h4 style="text-align:center">Largest Declining Occupations,2016 and projected 2026(in 1000's)</h4>
+                <div id="dec_bar"></div>
             </div>
         </div>
+    </div>
+
+    
 
     <!-- end -->
+    <!--Footer-->
+    <footer class="sticky-footer">
+        <div class="footer-social">
+            <div class="container text-center" style:"font-size:40px;">
+                <i class="fa fa-github" ></i>
+                <a href="https://github.com/anukhandelwal/jobfit"> JobFitt Git Repository</a>
+            </div>
+        </div>
+        <div class="footer-main" style="color:#fff;">
+            <div class="container text-center">
+                <small>Copyright &copy; Rutgers Athena Team 2018-2020</small>
+            </div>
+        </div>
+    </footer>
 
       
       
