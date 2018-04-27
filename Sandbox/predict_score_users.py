@@ -1,5 +1,5 @@
 # Created by: Aruna Amaresan 
-# Created Date: April 20th 2018 
+# Created Date: April 27th 2018 
 #
 # Last Modified: April 22nd 2018 
 # Last Modified by: Aruna Amaresan
@@ -40,23 +40,31 @@ from sklearn.cluster import KMeans
 # Below is a calculated column value that you would see later as we pull all titles parsed out by Kmeans for that user's skills
 # * Score: Calculated variable based on sum of (Education Level * Wt for Ed Level) + (Work Experience Level * Wt for Experience) = Scores are for each row for that title
 
-def predict_title_grouping(Knowledge_Cluster_result=[], *args):
+def predict_title_grouping(Knowledge_Cluster_result=[], skills=[], *args):
 	#Result Data to be sent back
 
+	print("Entered Predit Title Grouping")
+	for skill in skills:
+		print(skills[skill])
+	print (f"Type of skill variable: {type(skills)}")
+	print (f"Whole Object SKILLS:{skills}")
 
 	#Load the Kmeans model and predict to get the highlighly likely cluster group based on skills entered by user
 	loaded_model = pickle.load(open('static/Models/kmeans_knowledge_cluster.sav', 'rb'))
 
 	#TODO: Update to read from MongoDB the Data to write response from user into a temporary response info
 	# For now, read from CSV the input data submitted by user
-	test_data = pd.read_csv("static/Data/test_data.csv") # this would have been input by user 
+	#test_data = pd.read_csv("static/Data/test_data.csv") # this would have been input by user
+	skills_df = pd.DataFrame([skills], columns=skills.keys())
+	#skills_df = pd.DataFrame.from_dict(skills, orient='columns')
 	#test_data.head()
 	#For debugging - print all input values
 	#expected_target=test_data["Title"]
 
 	#Drop output target column
-	test_data = test_data.drop(['Title', 'Education Level', 'Work Experience Level'],axis=1)
-	print(test_data)
+	#test_data = test_data.drop(['Title', 'Education Level', 'Work Experience Level'],axis=1)
+	#print(test_data)
+	print(skills_df)
 
 	#Get all X variables for debugging purposes to print latet
 	#feature_name=test_data.columns
@@ -72,7 +80,7 @@ def predict_title_grouping(Knowledge_Cluster_result=[], *args):
 	print(cluster_group_df)
 
 	#Predict 
-	result = loaded_model.predict(test_data)
+	result = loaded_model.predict(skills_df)#test_data)
 	print("The test data belongs to Class: ", result[0])
 
 	#Share result 
@@ -100,28 +108,31 @@ def predict_title_grouping(Knowledge_Cluster_result=[], *args):
 	return selected_title_group
 
 
-def score_user(predicted_title_group=[], Education_Experience_result=[], Occupation_result=[], *args):
+def score_user(exp_level, ed_level, predicted_title_group=[], Education_Experience_result=[], Occupation_result=[], *args):
 	
 	title_list = predicted_title_group["Title"]
 	print("***Predicted Title Grouping based on user knowledge areas****")
 	print(title_list)
 	print("*************END OF Predicted Title Grouping ****************")
+	print(f'Experience Level Input: {exp_level}')
+	print(f'Education Level Input: {ed_level}')
+	print("*************END OF EDUCATION EXPERIENCE LEVEL ****************")
 
 	Ed_Exp = pd.DataFrame(Education_Experience_result)
 
 	#Read input data for now from test_data 
 	#TODO: Update to read from MongoDB the Data to write response from user into a temporary response info
 	# For now, read from CSV the input data submitted by user
-	test_data = pd.read_csv("static/Data/test_data.csv") # this would have been input by user 
+	#test_data = pd.read_csv("static/Data/test_data.csv") # this would have been input by user 
 	#test_data.head()
 	#For debugging - print all input values
 	#expected_target=test_data["Title"]
 
 	#Select only Education and Experience columns
-	test_data_filtered = test_data[['Education Level', 'Work Experience Level']]
+	#test_data_filtered = test_data[['Education Level', 'Work Experience Level']]
 	#print(test_data_filtered)
-	ed_level = test_data_filtered.iloc[0]['Education Level']
-	exp_level = test_data_filtered.iloc[0]['Work Experience Level']
+	#ed_level = test_data_filtered.iloc[0]['Education Level']
+	#exp_level = test_data_filtered.iloc[0]['Work Experience Level']
 
 	#Filter out based on predicted user title grouping 
 	Ed_Exp_filtered = pd.DataFrame(Ed_Exp[Ed_Exp["Title"].isin(title_list)])

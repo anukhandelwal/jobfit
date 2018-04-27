@@ -9,7 +9,7 @@ function getRandomColor() {
 
 function PlotBarChart(){
     console.log("Bar Chart")
-    d3.json("/result/results_bar_plot", function(error,response){
+    d3.json("/results_bar_plot", function(error,response){
         if(error){console.warn(error)}
         //console.log(response)
         var data=[{
@@ -33,7 +33,7 @@ function PlotBarChart(){
 
 function PlotMap(selectedvalue){
     //console.log(selectedvalue);
-    d3.json("/result/results_map_plot",function(error,response){
+    d3.json("/results_map_plot",function(error,response){
         if(error){console.warn(error)}
         console.log(response[selectedvalue]);
         var flag=0;
@@ -101,7 +101,7 @@ function PlotMap(selectedvalue){
 // Adding dropdown for the map filters
 function addDropDown(){
     console.log("Adding Dropdown");
-    d3.json("/result/results_map_plot",function(error,response){
+    d3.json("/results_map_plot",function(error,response){
         if(error){console.warn(error)}
         //console.log(response);
         var labels=[];
@@ -119,7 +119,7 @@ function addDropDown(){
 // LineChart
 
 function plot_line(){
-    d3.json('/result/results_line_plot', function(error, response){
+    d3.json('/results_line_plot', function(error, response){
         if (error) return console.warn(error);
         var keys=Object.keys(response);
         var data=[];
@@ -170,7 +170,7 @@ function plot_line(){
 }
 //For Info Box
 function updateInfo(){
-    d3.json("/result/output",function(error,response){
+    d3.json("/result_output",function(error,response){
         if(error) {console.warn(error);}
         //console.log(response);
         var title=[];
