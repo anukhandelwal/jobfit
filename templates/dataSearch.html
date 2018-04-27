@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>JobFitt Data</title>
+
+   <!-- Bootstrap Core CSS -->
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- Custom CSS -->
+    <link href="static/css/stylish-portfolio.min.css" rel="stylesheet">
+  
+    <style type="text/css">
+    footer{
+            background-color: #212529;
+            color:white;
+            text-align: center;
+            margin-top:30px;
+        }
+    #nav_main{
+        margin-bottom: 30px;
+        }
+    #container_table{
+        margin-top: 50px;
+    }
+    input{
+        border: 1px solid black;
+    }
+    .table{
+        border: 1 px solid black;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px
+    }
+    .charts{
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="nav_main">
+      <div class="container">
+        <a class="navbar-brand" href="#">Jobfitt</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/index">Home
+              </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/about">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/survey">Find Job Titles</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/trends">Trends</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="/data">Data</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--Data Table-->
+    <div class="container-fluid" id="container_table">
+        <div class="row">
+            <div class="col-md-12">
+                <table class="table ">
+                    <thead>
+                        <tr> 
+                            <th class="title box">Title <!--<input type="text" id="search" placeholder="Type to search">--></th>
+                            <th>Employment 2016 (thousands)</th>
+                            <th>Employment 2026 (thousands)
+                                </th>
+                            <th>Occupational openings, 2016-2026 annual average (thousands)
+                                </th>
+                            <th>2017 median annual wage</th>
+                            <th>Typical entry-level education
+                                <select class="form-control" id="edu" onchange="optionChanged(this.value)">
+                                    <option value="All">All </option>
+                                    <option value="No formal educational credential">No formal educational credential</option>
+                                    <option value="High school diploma or equivalent">High school diploma or equivalent</option>
+                                    <option value="Some college, no degree">Some college, no degree </option>
+                                    <option value="Postsecondary nondegree award">Postsecondary nondegree award </option>
+                                    <option value="Associate's degree">Associate's degree </option>
+                                    <option value="Bachelor's degree">Bachelor's degree</option>
+                                    <option value="Master's degree">Master's degree</option>
+                                    <option value="Doctoral or professional degree"> Doctoral or professional degree </option>
+                                </select>
+                            </th>
+                            <th>Work experience in a related occupation
+                                    <select class="form-control" id="exp" onchange="optionChanged(this.value)">
+                                        <option value="All">All </option>
+                                        <option value="5 years or more">5 years or more </option>
+                                        <option value="Less than 5 years">Less than 5 years </option>
+                                        <option value="None">None  </option>
+                                    </select>
+                            </th>
+                            <th>Typical on-the-job training	
+                                <select class="form-control" id="selDataset" onchange="optionChanged(this.value)">
+                                        <option value="All">All </option>
+                                        <option value="Internship/residency">Internship/residency  </option>
+                                        <option value="Apprenticeship">Apprenticeship </option>
+                                        <option value="Long-term on-the-job training">Long-term on-the-job training  </option>
+                                        <option value="Moderate-term on-the-job training">Moderate-term on-the-job training  </option>
+                                        <option value="Short-term on-the-job training">Short-term on-the-job training  </option>
+                                        <option value="None">None  </option>
+                                </select>	
+                            </th>
+                        </tr>
+                    </thead>
+                    
+                    <tbody>
+                    </tbody>
+                </table>
+                <div style="text-align:center;">
+                    <input type="button" id="first" onclick="firstPage()" value="First" class="button"/>
+                    <input type="button" id="next" onclick="nextPage()" value="Next" class="button"/>
+                    <input type="button" id="previous" onclick="previousPage()" value="Previous" class="button"/>
+                    <input type="button" id="last" onclick="lastPage()" value="Last" class="button"/>
+                </div>
+            </div>
+        </div> 
+    </div>
+
+    <!-- end -->
+    <!--Footer-->
+    <footer class="sticky-footer">
+        <div class="footer-social">
+            <div class="container text-center" style:"font-size:40px;">
+                <i class="fa fa-github" ></i>
+                <a href="https://github.com/anukhandelwal/jobfit"> JobFitt Git Repository</a>
+            </div>
+        </div>
+        <div class="footer-main" style="color:#fff;">
+            <div class="container text-center">
+                <small>Copyright &copy; Rutgers Athena Team 2018-2020</small>
+            </div>
+        </div>
+    </footer>
+
+      <script src="static/js/data.js" type="text/javascript"></script>
+      <script src="static/js/trends.js" type="text/javascript"></script>
+      <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+     
+</body>
+</html>

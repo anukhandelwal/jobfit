@@ -9,19 +9,53 @@
     <meta name="author" content="">
 
     <title>Trends</title>
+    
+   <!-- Bootstrap Core CSS -->
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 
-    <!-- Bootstrap core CSS -->
-    <link href="static/Results/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- Custom CSS -->
+    <link href="static/css/stylish-portfolio.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="static/Results/css/3-col-portfolio.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/total_svg.css">
+  
+    <style type="text/css">
+            footer{
+                    background-color: #212529;
+                    color:white;
+                    text-align: center;
+                    margin-top:30px;
+                }
+            #nav_main{
+                margin-bottom: 30px;
+            }
+            #grow_bar{
+                margin-right:50px;
+            }
+            input{
+                border: 1px solid black;
+            }
+            .table{
+                border: 1 px solid black;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 20px
+            }
+            .chart_grow_dec{
+                padding-top: 20px;
+                padding-bottom: 40px;
+                margin-top:30px;
+            }
 
-  </head>
-
+        </style>
+</head>
   <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="nav_main">
       <div class="container">
         <a class="navbar-brand" href="#">Jobfitt</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,23 +63,163 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
+            <li class="nav-item">
               <a class="nav-link" href="/index">Home
-                <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="/about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/survey">Survey</a>
+              <a class="nav-link" href="/survey">Find Job Titles</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="/trends">Trends</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Trends</a>
+                    <a class="nav-link" href="/data">Data</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
+
+    
+
+
+    <!--Animated-->
+    
+
+    <!-- <div id="slider"></div> -->
+    <div class="row col-md-12 container_svg">
+        <div class="container" id="svg_cont">
+            <h4 class= "sans-semi totals-title" ><center>Total Occupation Growth 2016 and projected 2026(Numbers in thousands)</center> </h4>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1315.22 679">
+                <defs>
+                    <linearGradient id="linear-gradient" x1="842" y1="501" x2="1315.22" y2="501" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#77578f"/>
+                    <stop offset="1" stop-color="#995095"/>
+                    </linearGradient>
+                    <linearGradient id="linear-gradient-2" x1="988.22" y1="584" x2="1315.22" y2="584" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#8a5996"/>
+                    <stop offset="1" stop-color="#a45499"/>
+                    </linearGradient>
+                    <linearGradient id="linear-gradient-3" x1="494.73" y1="551" x2="494.73" y2="451" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#e6f1f3"/>
+                    <stop offset="1" stop-color="#b8cfd6"/>
+                    </linearGradient>
+                    <linearGradient id="linear-gradient-4" x1="823.47" y1="551" x2="823.47" y2="451" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#d03392"/>
+                    <stop offset="1" stop-color="#a73d91"/>
+                    </linearGradient>
+                    <mask id="base-mask">
+                        <rect class="base-mask" x="331" y="451" width="656" height="0" fill="white"/>
+                    </mask>
+                    <mask id="bars-mask">
+                        <rect class="bars-mask" x="296" y="50" width="726" height="401" fill="white"/>
+                    </mask>
+                    <mask id="sidebars-mask">
+                        <rect class="sidebars-mask" x="2" y="451" width="1313" height="0" fill="white"/>
+                    </mask>
+                </defs>
+                <title>Occupation</title>
+                
+                <g class="vs">
+                <path class="fvs-base" d="M661.5,20.88A16.5,16.5,0,1,1,645,37.38,16.5,16.5,0,0,1,661.5,20.88Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+                <text class="sans-semi" transform="translate(652.3 42.83)" font-size="18" fill="#014b62" >vs</text>
+                </g>
+                
+                <g class="fmain-bars" mask="url(#bars-mask)">
+                    <path class="fback-l" d="M296.22,267l90-50,90,50V451h-180Z" transform="translate(0)" fill="#436387" fill-rule="evenodd"/>
+                    <path class="fback-r" data-name="back" d="M1022,218l-90-50-90,50V451h180Z" transform="translate(0)" fill="#875994" fill-rule="evenodd"/>
+                    <g class="fprev-year">
+                    <path class="fback-p-transp" d="M478.23,210l90-50,90,50V434.74h-180Z" transform="translate(0)" fill="#fff" fill-rule="evenodd" opacity="0.34"/>
+                    <path class="fback-p" data-name="back" d="M478.23,226.21l90-50,90,50V451h-180Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+                    </g>
+                    <g class="fcurr-year">
+                    <path class="fback-c-transp" data-name="back2" d="M660.22,125l90-50,90,50V434.74h-180Z" transform="translate(0)" fill="#e23f96" fill-rule="evenodd" opacity="0.29"/>
+                    <path class="fback-c" data-name="back" d="M660.22,141l90-50,90,50V451h-180Z" transform="translate(0)" fill="#e23f96" fill-rule="evenodd"/>
+                    </g>
+                </g>
+                
+                <g class="fmain-bases" mask="url(#base-mask)">
+                    <path class="fbase" data-name="base" d="M478.23,451h180V551h-327Z" transform="translate(0)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+                    <path class="ffront" d="M331.23,551h327V679h-327Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+                    <path class="fbase" data-name="base" d="M839.95,451H660.22V551h326.5Z" transform="translate(0)" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+                    <path class="ffront" data-name="front" d="M660.22,551h327V679h-327Z" transform="translate(0)" fill="#e23f96" fill-rule="evenodd"/>
+                </g>
+                <g class="fside-bases" mask="url(#sidebars-mask)">
+                    <path class="fbase" d="M297.22,451H476L329,551H2Z" transform="translate(0)" fill="#335f80" fill-rule="evenodd"/>
+                    <path class="ffront" d="M2.22,551h327v66H2.22Z" transform="translate(0)" fill="#2d6882" fill-rule="evenodd"/>
+                    <path class="fbase" data-name="base" d="M1022,451H842L988.22,551h327Z" transform="translate(0)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+                    <path class="ffront" data-name="front" d="M988.22,551h327v66h-327Z" transform="translate(0)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+                </g>
+                <g class="ffigures">
+                <g class="ftotal">
+                    <path class="totals-base-circ" d="M658,596h1a21,21,0,0,1,0,42h-1a21,21,0,0,1,0-42Z" transform="translate(0)" fill="#104c60" fill-rule="evenodd"/>
+                    <!--<path class="totals-base" d="M613,596h91a21,21,0,0,1,0,42H613a21,21,0,0,1,0-42Z" transform="translate(0)" fill="#104c60" fill-rule="evenodd"/>-->
+                    <text class="sans-semi totals-title" transform="translate(635.94 623.23)" font-size="16" fill="#fff" >Totals</text>
+                </g>
+                <text class="fsans-semi total-l" x="427" y="627" font-size="30" fill="#015873">156063.8</text>
+                <text class="fsans-semi total-r" x="754" y="627" font-size="30" fill="#fff">167582.3</text>
+                <text class="fsans-semi fperc" x="681" y="323" font-size="48" fill="#fff">7.4%</text>
+                <text class="fsans-semi fup" x="729" y="278" font-size="30" fill="#fff">UP</text>
+                </g>
+                
+                <g class="fyear-l">
+                <path class="fyear-base" d="M541,16h54a21,21,0,0,1,0,42H541a21,21,0,0,1,0-42Z" transform="translate(0)" fill="none" stroke="#fff" stroke-miterlimit="10" fill-rule="evenodd"/>
+                <text class="sans-light" transform="translate(544.03 44.6)" font-size="21" fill="#fff">2016</text>
+                </g>
+                <g class="fyear-r">
+                <path class="fyear-base-2" data-name="year-base" d="M722.22,16h54a21,21,0,0,1,0,42h-54a21,21,0,0,1,0-42Z" transform="translate(0)" fill="none" stroke="#fff" stroke-miterlimit="10" fill-rule="evenodd"/>
+                <text class="sans-light"  transform="translate(724.48 44.6)" font-size="21" fill="#fff">2026</text>
+                </g>
+                
+            </svg>
+        
+        
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row chart_grow_dec" style="margin-bottom:30px;">
+            <div class="col-md-6">
+                <h4 style="text-align:center">Largest Growing Occupations,2016 and projected 2026(in 1000's)</h4>
+                <div id="grow_bar"></div>
+            </div>
+
+            <div class="col-md-6">
+                <h4 style="text-align:center">Largest Declining Occupations,2016 and projected 2026(in 1000's)</h4>
+                <div id="dec_bar"></div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <!-- end -->
+    <!--Footer-->
+    <footer class="sticky-footer">
+        <div class="footer-social">
+            <div class="container text-center" style:"font-size:40px;">
+                <i class="fa fa-github" ></i>
+                <a href="https://github.com/anukhandelwal/jobfit"> JobFitt Git Repository</a>
+            </div>
+        </div>
+        <div class="footer-main" style="color:#fff;">
+            <div class="container text-center">
+                <small>Copyright &copy; Rutgers Athena Team 2018-2020</small>
+            </div>
+        </div>
+    </footer>
+
+      
+      
+      <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+      <script src="static/js/chart.js" type="text/javascript"></script>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+      <script src="static/js/total_svg.js" type="text/javascript"></script>
+      
+
   </body>
   </html>
