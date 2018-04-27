@@ -1,6 +1,15 @@
+function getRandomColor() {
+    var letters = '0123456789ABCDEF';
+    var color = '#';
+    for (var i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+}
+
 function PlotBarChart(){
     console.log("Bar Chart")
-    d3.json("/results_bar_plot", function(error,response){
+    d3.json("/result/results_bar_plot", function(error,response){
         if(error){console.warn(error)}
         //console.log(response)
         var data=[{
@@ -24,7 +33,7 @@ function PlotBarChart(){
 
 function PlotMap(selectedvalue){
     //console.log(selectedvalue);
-    d3.json("/results_map_plot",function(error,response){
+    d3.json("/result/results_map_plot",function(error,response){
         if(error){console.warn(error)}
         console.log(response[selectedvalue]);
         var flag=0;
@@ -58,15 +67,7 @@ function PlotMap(selectedvalue){
                 [0.568, "#E31A1C"], 
                 [0.710, "#BD0026"], 
                 [1, "#800026"]],
-                // colorbar: {
-                //     title: 'Popular Event Count',
-                //     thickness: 5,
-                //     titleside:'top',
-                //     tickmode : 'array',
-                //     tickvals : rank_list,
-                //     ticktext : ['Rock','Pop','Alternative','Metal','Hip-Hop/Rap','Country','Dance/Electronic'],
-                //     ticks : 'outside'
-                // },
+
                 marker: {
                     line:{
                         color: 'rgb(255,255,255)',
@@ -100,7 +101,7 @@ function PlotMap(selectedvalue){
 // Adding dropdown for the map filters
 function addDropDown(){
     console.log("Adding Dropdown");
-    d3.json("/results_map_plot",function(error,response){
+    d3.json("/result/results_map_plot",function(error,response){
         if(error){console.warn(error)}
         //console.log(response);
         var labels=[];
@@ -116,123 +117,68 @@ function addDropDown(){
     })
 }
 // LineChart
-//d3.json(/Salary_State_Year)
+
 function plot_line(){
-    Plotly.d3.json('/Salary_State_Year', function(error, rows){
-        var title=[];
-        var salary_15=[];
-        //var genre=[];
-        var salary_17=[];
-        //console.log(rows);
-        var rank=[];
-       
-        //console.log("ROws");
-        //console.log(rows);
-         
-          if (error) return console.warn(error);
-          for(i=0;i<5;i++){
-              var tit_dic={};
-              //console.log(rows[i].Job_Title);
-              tit_dic["title"]=rows[i].Job_Title;
-              tit_dic["x"]=["2015","2017"];
-              tit_dic["y"]=[rows[i].Salary_2015,rows[i].Salary_2017]
-              //console.log(tit_dic);
-              title.push(tit_dic);
-    
-            
-             /*s=rows[i].Salary_2015;
-              
-              salary_15.push(s);
-              s2=rows[i].Salary_2017;
-              
-              salary_17.push(s2);*/
+    d3.json('/result/results_line_plot', function(error, response){
+        if (error) return console.warn(error);
+        var keys=Object.keys(response);
+        var data=[];
+        for(var i=0;i<Object.keys(response).length;i++){
+            //console.log(response[keys[i]]);
+            var trace_var=response[keys[i]];
+            var linecolor=getRandomColor();
+            console.log(linecolor);
+            var trace={
+                type: 'scatter',
+                x: trace_var["x"],
+                y: trace_var["y"],
+                mode: 'lines+markers',
+                marker: {
+                color: linecolor,
+                size: 8
+                },
+                line: {
+                color: linecolor,
+                width: 3
+                },
+                name: trace_var["Title"], 
             }
-            //console.log(title);
-        //console.log(title);
-        //console.log(salary_15);
-        //console.log(salary_15);
-       
-     
-    var trace1 = {
-        type: 'scatter',
-        x: title[0]["x"],
-        y: title[0]["y"],
-        mode: 'lines+markers',
-        marker: {
-          color: 'rgb(128, 0, 128)',
-          size: 8
-        },
-        line: {
-          color: 'rgb(128, 0, 128)',
-          width: 3
-        },
-        name: title[0]["title"],
-        
-      };
-      
-    var trace2 = {
-        type: 'scatter',
-        x: title[1]["x"],
-        y: title[1]["y"],
-        mode: 'lines+markers',
-        marker: {
-          color: 'rgb(55, 128, 191)',
-          size: 8
-        },
-        line: {
-          color: 'rgb(55, 128, 191)',
-          width: 3
-        },
-        name:title[1]["title"],
-       
-      };
-      var trace3 = {
-        type: 'scatter',
-        x: title[3]["x"],
-        y: title[3]["y"],
-        mode: 'lines+markers',
-        marker: {
-          color: 'rgb(55, 128, 100)',
-          size: 8
-        },
-        line: {
-          color: 'rgb(55, 128, 100)',
-          width: 3
-        },
-        name:title[3]["title"],
-       
-      };
-      
-      var layout = {
-          title:"Salary Variance from 2015 to 2017",
-        width: 500,
-        height: 500,
-        xaxis: {
-            nticks: 3,
-            title:"Year"
-          },
-        yaxis:{
-            range:[0,250000],
-            title:"Salary"
+            data.push(trace);
         }
-      };
-      
-      var data = [trace1, trace2,trace3];
-      //console.log(data);
-      Plotly.newPlot('line_salary', data, layout);
-      }); 
-    }
+          
+        var layout = {
+            title:"Salary Variance from 2015 to 2017",
+            xaxis: {
+                nticks: 3,
+                title:"Year"
+            },
+            yaxis:{
+                range:[0,250000],
+                title:"Salary"
+            },
+            margin: {
+                t: 50, //top margin
+                l: 40, //left margin
+                r: 20, //right margin
+                b: 50 //bottom margin
+            },
+  
+        };
+        
+        Plotly.newPlot('line_salary', data, layout);
+    }); 
+}
 //For Info Box
 function updateInfo(){
     d3.json("/result/output",function(error,response){
         if(error) {console.warn(error);}
-        console.log(response);
+        //console.log(response);
         var title=[];
         
         for(var item in response){
             title.push(response[item]["Title"]);
         }
-        console.log(title);
+        //console.log(title);
 
         var HTML= "<ul>";
         for(var i in title){
@@ -261,7 +207,7 @@ function updateInfo(){
             for(var j=1;j<corearr.length;j=j+2){
                 if((corearr[j]!="\n")){
                     coreDiv=coreDiv+"<li>"+corearr[j]+"</li>";
-                    console.log(corearr[j])
+                    //console.log(corearr[j])
                 }
                 
             }//i=1;i<corearr.length;i=i+2)
@@ -294,7 +240,7 @@ function updateInfo(){
 );
 }
 function PlotResults()
-{
+{   
     addDropDown();
     PlotBarChart();
     PlotMap();

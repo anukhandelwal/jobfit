@@ -194,14 +194,14 @@ def pymongo_Display_Alternate_Titles_For_User():
 #extra route
 @app.route("/result/output")
 def results_info():
-   DF=pd.read_json("OutputPredictAndScore.json")
+   DF=pd.read_json("static/Data/results.json")
    DF=DF.T.to_dict().values()
 
    return jsonify(list(DF))
 
-@app.route("/results_bar_plot")
+@app.route("/result/results_bar_plot")
 def results_bar_plot():
-    DF=pd.read_json("OutputPredictAndScore.json")
+    DF=pd.read_json("static/Data/results.json")
     labels=[]
     values=[]
     y_axis=[]
@@ -230,9 +230,9 @@ def results_bar_plot():
     # Return the bar_graph_variable
     return jsonify(bar_graph_variable)
 
-@app.route("/results_map_plot")
+@app.route("/result/results_map_plot")
 def results_map_plot():
-    DF=pd.read_json("OutputPredictAndScore.json")
+    DF=pd.read_json("static/Data/results.json")
     map_variable={}
     for index,item in DF.iterrows():
         title=item["Title"]
@@ -245,6 +245,33 @@ def results_map_plot():
             values.append(doc)
         map_variable[title]=values
     return jsonify(map_variable)
+
+@app.route("/result/results_line_plot")
+def results_line_plot():
+    DF=pd.read_json("static/Data/results.json")
+    line_variable={}
+    titles=[]
+    
+    x_axis=["2015","2017"]
+    for index,item in DF.iterrows():
+        y_axis=[]
+        db_obj=Salary_State_Year_collection.find_one({"Job_Title":item["Title"]})
+        titles.append(item["Title"])
+        print(item["Title"])
+        try:
+            y_axis.append(int(db_obj["Salary_2015"].replace("$","").replace(",","")))
+            y_axis.append(int(db_obj["Salary_2017"].replace("$","").replace(",","")))
+        except:
+            all_obj =Salary_State_Year_collection.find_one({"Job_Title":"All Occupations"})
+            y_axis.append(int(all_obj["Salary_2015"].replace("$","").replace(",","")))
+            y_axis.append(int(all_obj["Salary_2017"].replace("$","").replace(",","")))
+        line_variable[item["Title"]]={"Title":item["Title"],
+                                     "x":x_axis,
+                                     "y":y_axis}
+   
+    
+    # Return the bar_graph_variable
+    return jsonify(line_variable)
 
 # Run the Application
 if __name__ == "__main__":

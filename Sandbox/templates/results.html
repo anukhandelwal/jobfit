@@ -43,6 +43,15 @@
     #main_content{
       margin-top: 200px;
     }
+    #line_salary{
+      width: 80%;
+      height: 550px;
+      padding: 20px;
+    }
+    .row_style{
+      margin-bottom:40px; 
+    }
+
     </style>
 
   </head>
@@ -89,8 +98,8 @@
       </h2>
       
 
-      <div class="row">
-        <div class="col-lg-6 col-sm-6">
+      <div class="row row_style">
+        <div class="col-sm-6 col-md-6 col-lg-6">
           <div class="card-img-top">
             
             <!--<a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>-->
@@ -103,33 +112,27 @@
           </div>
         </div>
         
-        <div class="col-lg-6 col-sm-6">
+        <!--BAR CHART-->
+        <div class="col-sm-6 col-md-6 col-lg-6">
           <div class="card h-100">
             <div class="card-body" id="result_bar_plot">
             </div>
           </div>
         </div>
+      </div>
 
-        <div class="col-lg-6 col-sm-6">
-          <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-            <div class="card-body">
-              <h4 class="card-title">
-                <a href="#">Chart 3 Three</a>
-              </h4>
-              <p class="card-text">This chart depicts ...........</p>
-            </div>
-          </div>
-        </div>
+      <div class="row row_style">
         <!--LINE CHART-->
-        <div class="col-lg-6 col-sm-6">
+        <div class="col-sm-12 col-md-12 col-lg-12">
           <div class="card h-100">
             <div class="card-body" id="line_salary">
             </div>
           </div>
         </div>
-        <!--MAP-->
-        <div class="col-lg-12 col-sm-12 ">
+      </div>
+      <div class="row row_style">
+      <!--MAP-->
+        <div class="col-sm-12 col-md-12 col-lg-12">
           <div class="card h-100">
             <!--DROPDOWN FOR Map Filter-->
             <div class="panel panel-primary dropdown">
