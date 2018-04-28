@@ -1,5 +1,5 @@
 # JobFitt
-![jobfit](Images/mission_to_mars.jpg)
+![jobfit](Images/JobFit.png)
 
 
 ### Our Team:
