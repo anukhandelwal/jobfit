@@ -1,13 +1,14 @@
 # JobFitt
+![jobfit](Images/mission_to_mars.jpg)
 
 
-### Our Team (In alphabetical order):
+### Our Team:
 
-Aiyanna Liz Mathew
-Anu Khandelwal
-Aruna Amaresan
-Aswathy Mohan
-Pallavi Donwad
+* Aiyanna Liz Mathew	
+*	Anu Khandelwal 
+* Aruna Amaresan			
+* Aswathy Mohan
+* Pallavi Donwad
 
 ### Overview
 Team Athena is looking to build a job fit recommender to indicate top highly likely position titles with mapping salary that would fit a given job seeker’s current skills, education, education level, years of experience and other factors. 
