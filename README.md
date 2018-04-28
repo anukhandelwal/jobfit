@@ -38,11 +38,12 @@ To do this, the plan would be to train a model using random forest algorithm and
 *   Step 6: Convert to dict and render in results page 
 *   Step 7: More logic to share the results and findings using D3, plotly and Chloropleth
 
-### Tools  used: 
+### Tools and Technologies used: 
 *   Machine learning using KMeans, Random forest algorithm and Deep Machine learning using sklearn and pickle
 *   MongoDB for backend database
-*   Python, Pandas, json, ast, Flask, PyMongo for hosting app, routing endpoints and connecting with Mongo DB backend for predict and scoring
-*   For Front end – Bootstrap , CSS and visualization using plotly, chloropleth, D3 and SVG.
+*   Python, Pandas, json, ast, Flask, PyMongo for hosting app, routing endpoints and connecting with Mongo DB backend 
+*   JQuery AJAX to pass user input from client side to server side and get server response
+*   For Front-end – Powered with Bootstrap , CSS and visualization using plotly, chloropleth, D3 and SVG.
 
 ### Dataset links and other links:
 The main datasets used: 
