@@ -354,7 +354,8 @@ def predict_title_grouping(Knowledge_Cluster_result=[], skills=[], *args):
     print (f"Whole Object SKILLS:{skills}")
 
     #Load the Kmeans model and predict to get the highlighly likely cluster group based on skills entered by user
-    filepath=os.path.join("static","Models","kmeans_knowledge_cluster.sav")
+    MYDIR = os.path.dirname(__file__)
+    filepath=os.path.join(MYDIR,'static','Models','kmeans_knowledge_cluster.sav')
     loaded_model = pickle.load(open(filepath, 'rb'))
     #loaded_model = pickle.load(open('static/Models/kmeans_knowledge_cluster.sav', 'rb'))
 	
