@@ -203,7 +203,10 @@ def pymongo_Predict_Score_Users():
     # Give info of inserted IDs
     #print(result_ids.inserted_ids)
     #STep 1: Write this data into a JSON file
-    with open('static/Data/results.json', 'w') as resultFileHandle:
+    MYDIR = os.path.dirname(__file__)
+    filepath=os.path.join(MYDIR,'static','Data','results.json')
+    	
+    with open(filepath, 'w') as resultFileHandle:
         json.dump(scored_titles, resultFileHandle)
     # Step 2: Write inputs shared by user ad prediction into json file 
     # Step 3: return a redirect to results page 
@@ -226,14 +229,18 @@ def pymongo_Display_Alternate_Titles_For_User():
 #extra route
 @app.route("/result_output")
 def results_info():
-   DF=pd.read_json("static/Data/results.json")
+   MYDIR = os.path.dirname(__file__)
+   filepath=os.path.join(MYDIR,'static','Data','results.json')
+   DF=pd.read_json(filepath)
    DF=DF.T.to_dict().values()
 
    return jsonify(list(DF))
 
 @app.route("/results_bar_plot")
 def results_bar_plot():
-    DF=pd.read_json("static/Data/results.json")
+    MYDIR = os.path.dirname(__file__)
+    filepath=os.path.join(MYDIR,'static','Data','results.json')
+    DF=pd.read_json(filepath)
     labels=[]
     values=[]
     y_axis=[]
@@ -264,7 +271,9 @@ def results_bar_plot():
 
 @app.route("/results_map_plot")
 def results_map_plot():
-    DF=pd.read_json("static/Data/results.json")
+    MYDIR = os.path.dirname(__file__)
+    filepath=os.path.join(MYDIR,'static','Data','results.json')
+    DF=pd.read_json(filepath)
     map_variable={}
     for index,item in DF.iterrows():
         title=item["Title"]
@@ -281,7 +290,9 @@ def results_map_plot():
 
 @app.route("/results_line_plot")
 def results_line_plot():
-    DF=pd.read_json("static/Data/results.json")
+    MYDIR = os.path.dirname(__file__)
+    filepath=os.path.join(MYDIR,'static','Data','results.json')
+    DF=pd.read_json(filepath)
     line_variable={}
     titles=[]
     
