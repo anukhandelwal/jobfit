@@ -16,6 +16,7 @@ import ast
 import numbers 
 import pickle
 from sklearn.cluster import KMeans
+import os
 #import predict_score_users - To ensure it works when hosting app on heroku - Need to see if importing this would work.
 
 
@@ -353,8 +354,10 @@ def predict_title_grouping(Knowledge_Cluster_result=[], skills=[], *args):
     print (f"Whole Object SKILLS:{skills}")
 
     #Load the Kmeans model and predict to get the highlighly likely cluster group based on skills entered by user
-    loaded_model = pickle.load(open('static/Models/kmeans_knowledge_cluster.sav', 'rb'))
-
+    filepath=os.path.join("static","Models","kmeans_knowledge_cluster.sav")
+    loaded_model = pickle.load(open(filepath, 'rb'))
+    #loaded_model = pickle.load(open('static/Models/kmeans_knowledge_cluster.sav', 'rb'))
+	
     #TODO: Update to read from MongoDB the Data to write response from user into a temporary response info
     # For now, read from CSV the input data submitted by user
     #test_data = pd.read_csv("static/Data/test_data.csv") # this would have been input by user
