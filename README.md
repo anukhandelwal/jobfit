@@ -6,7 +6,7 @@
 
 * Aiyanna Liz Mathew	
 * Anu Khandelwal 
-  * Aruna Amaresan	
+* Aruna Amaresan	
 * Aswathy Mohan
 * Pallavi Donwad
 
@@ -29,28 +29,34 @@ The goal is to provide an app where a user would input info on skills, major, co
 To do this, the plan would be to train a model using random forest algorithm and/or clustering with datasets found and/or using API calls to provide highly likelihood of title and salaries that map the user’s skills. 
 
 ### Method to our Madness!
-1.	Our goal is to first tackle sharing likely recommendation of title and mapping salaries for fresh Grads
-  If time permits, we would like to:
-  2.Apply a new model with training and test set to train for experienced job seekers.
+*   Our goal is to first tackle sharing likely recommendation of title based on skills returned by user
+*   Steps 1: Predict a group of highly likely job titles based on users skills based on survey result - We use predict using KMeans Clustering neural network. 
+*   Step 2: We use our proprietery scoring  alogrithm to score user's level of education and experience again a preprocessed dataset from ONET with various education  and experinece level combiantion with weightage. 
+*   Step 3: Sort and Order title by highest score for user's education level and experience level 
+*   Step 4: Pull additiomal info like job description, technology skills, core tasks expected and alternative titles
+*   Step 5: Merge and Pull sorted data. 
+*   Step 6: Convert to dict and render in results page 
+*   Step 7: More logic to share the results and findings using D3, plotly and Chloropleth
 
-### Tools  used: (TODO ADD OTHER LINKS)
-*   Machine learning using KMeans, Random forest algorithm and Deep Machine learning using sklearn libraries using sklearn and pickle
+### Tools  used: 
+*   Machine learning using KMeans, Random forest algorithm and Deep Machine learning using sklearn and pickle
 *   MongoDB for backend database
 *   Python, Pandas, json, ast, Flask, PyMongo for hosting app, routing endpoints and connecting with Mongo DB backend for predict and scoring
-*   For Front end – Bootstrap , CSS and visualization using plotly, chloropleth and D3 and SVG.
+*   For Front end – Bootstrap , CSS and visualization using plotly, chloropleth, D3 and SVG.
 
-### Dataset links and other links:  (TODO UPDATE)
+### Dataset links and other links:
 The main datasets used: 
-a)	https://www.onetcenter.org/research.html?c=KSA
-b)	https://www.bls.gov
-c)	https://www.glassdoor.com/research/data-sets/
+*   https://www.onetcenter.org/research.html?c=KSA (ONET - Valid, Reliable and Current. Nation's primary source for occupation information)
+*   https://www.onetcenter.org/db_releases.html
+*   https://www.bls.gov
+*   https://www.glassdoor.com/research/data-sets/
 
 ### Our Takeaways
-1. Trends show that the Jobs are growing and we are looking to see more of robotic and automation repalcing the secretary and admin jobs
+1. Trends show that the Jobs are growing and we are looking to see more of robotics and automation replacing the secretary and admin jobs
 
 2. There is difference in job growth in numbers vs salary growth in those careers 
 
-3. Certian skills and jobs seem to indicate a trend in patterns on where the jobs are spread out 
+3. Certian skills and jobs seem to indicate job patterns (geographically) where they seem to be spread 
 
 ### KMeans Clustering
 
@@ -75,7 +81,7 @@ c)	https://www.glassdoor.com/research/data-sets/
 
    ![jobfit](Images/silhouette.PNG)
 
-### Why prediction algorithm ?(Why not ML)
+### Why predict and scoring algorithm ?(Why not ML)
 
 1. Deep Learning : Accuracy(18%)
 2. Random Forest: Accuracy(75%)
