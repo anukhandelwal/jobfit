@@ -27,8 +27,8 @@
   }
 
   #services{
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    
   }
   .image {
   display: inline-block;
@@ -57,6 +57,15 @@
     background-image: url('../static/img/questions.jpg');
   }
   
+  footer {
+    background-color: grey;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 55px;
+    width: 100%;
+  }
+
 </style>
 </head>
 
@@ -77,13 +86,13 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="/about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/survey">Survey</a>
+              <a class="nav-link" href="/survey">Find Job</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/trends">Trends</a>
+              <a class="nav-link" href="/results">Trends</a>
             </li>
           </ul>
         </div>
@@ -117,7 +126,7 @@
           </h3>
           <a class="btn btn-primary btn-xl js-scroll-trigger" margin-top="300px" href="/survey">Click to Begin</a>
         </div>
-        <div class="overlay"></div>
+        
       </header> 
 
 
@@ -134,7 +143,7 @@
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <a href="#"><div class="image one">
+            <a href="mysearch/#skills"><div class="image one">
             </div>
             </a>
             <p> Select your Skills</p>
@@ -142,7 +151,7 @@
             
           </div>
          <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <a href="#"><div class="image two">
+            <a href="mysearch/#experience"><div class="image two">
             </div>
             </a>
             <p> Select your Experience</p>
@@ -150,14 +159,14 @@
               
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <a href="#"><div class="image three">
+            <a href="mysearch/#education"><div class="image three">
             </div>
             </a>
             <p> Select your Education</p>
               
           </div>
           <div class="col-lg-3 col-md-6">
-            <a href="#"><div class="image four">
+            <a href="about.html"><div class="image four">
             </div>
             </a>
             <p> Meet The Team</p>
