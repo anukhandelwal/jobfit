@@ -21,7 +21,7 @@
   
     <style type="text/css">
     footer{
-            background-color: #212529;
+            background-color: #343a40!important;
             color:white;
             text-align: center;
             margin-top:30px;
@@ -46,6 +46,10 @@
         padding-bottom: 40px;
     }
 
+    .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+        background-color: #ffd633;
+        font-weight: bolder;
+  	}
     </style>
 </head>
 <body>
@@ -82,7 +86,7 @@
     <div class="container-fluid" id="container_table">
         <div class="row">
             <div class="col-md-12">
-                <table class="table ">
+                <table class="table table-hover table-responsive table-str">
                     <thead>
                         <tr> 
                             <th class="title box">Title <!--<input type="text" id="search" placeholder="Type to search">--></th>
